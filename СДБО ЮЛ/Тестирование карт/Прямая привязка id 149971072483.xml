@@ -1,0 +1,46 @@
+<UFXMsg msg_type="Application" scheme="WAY4Appl" direction="Rs" version="2.0" resp_class="E" resp_code="2016" resp_text="Appl #IBSO-13092023-59420824: Invalid Client Type">
+  <MsgId>AAA-555-333-EEE-23124141</MsgId>
+  <Source app="ABS"/>
+  <MsgData>
+    <Application>
+      <RegNumber>IBSO-13092023-59420824</RegNumber>
+      <Institution>1004</Institution>
+     <OrderDprt>41</OrderDprt>
+      <ObjectType>Contract</ObjectType>
+      <ActionType>Add</ActionType>
+      <ResultDtls>
+        <Parm>
+          <ParmCode>AcceptRq</ParmCode>
+          <Value>Y</Value>
+        </Parm>
+        <Parm>
+          <ParmCode>Response</ParmCode>
+          <Value>Y</Value>
+        </Parm>
+      </ResultDtls>
+      <ObjectFor>
+        <ClientIDT>
+          <ClientInfo>
+            <ClientNumber>149971072483</ClientNumber>
+            <ShortName>&lt;&lt;&lt;NONE&gt;&gt;&gt;</ShortName>
+          </ClientInfo>
+        </ClientIDT>
+      </ObjectFor>
+      <Data>
+        <Contract>
+          <ContractName>ИП ТИМУР КОМПАНИЯ</ContractName>
+          <CommentText>CommentText</CommentText>
+          <Product>
+            <ProductCode1>BUS_IP_KZT</ProductCode1>
+          </Product>
+        </Contract>
+      </Data>
+      <Status>
+        <RespClass>Error</RespClass>
+        <RespCode>2016</RespCode>
+        <RespText>Appl #IBSO-13092023-59420824: Invalid Client Type</RespText>
+        <PostingStatus>Declined</PostingStatus>
+      </Status>
+    </Application>
+  </MsgData>
+</UFXMsg>

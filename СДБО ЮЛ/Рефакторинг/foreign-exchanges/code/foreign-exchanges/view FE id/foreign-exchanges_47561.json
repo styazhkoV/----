@@ -1,0 +1,53 @@
+{
+    "status": {
+        "id": null,
+        "code": "2",
+        "label": "Закрыт",
+        "subCode": "2",
+        "subLabel": "Закрыт",
+        "category": null,
+        "deleted": false
+    },
+    "id": 47561,
+    "externalId": "124251249825",
+    "customerId": 211,
+    "customerTaxCode": null,
+    "contractNumber": "Б/Н",
+    "contractDate": "13.02.2023",
+    "conContractNumber": "2/821/0000/5642",
+    "conContractNumberDate": "14.02.2023",
+    "contractAmount": 58000,
+    "contractCurrency": "USD",
+    "contractPayCur": "USD",
+    "endDate": null,
+    "counterparty": "TAYYAB DIGITAL LTD",
+    "balance": 58000,
+    "paymentCurrency": "USD",
+    "actions": [
+        "details",
+        "intTransferOrder",
+        "conversion",
+        "viewOperations"
+    ],
+    "demandActions": [
+        {
+            "action": "assignUNK",
+            "demandTypeId": 81,
+            "privilege": "currency_contracts_new",
+            "label": null
+        }
+    ],
+    "alias": "Контракт по импорту с УНК",
+    "defaultAlias": null,
+    "displayOrder": 1,
+    "visible": true,
+    "customerName": null,
+    "lastDate": null,
+    "repatr": "180.00",
+    "contragentCountry": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
+    "plat": 0,
+    "gtd": 0,
+    "delta": 0,
+    "contractType": "Контракт по импорту с УНК",
+    "contractSale": null
+}

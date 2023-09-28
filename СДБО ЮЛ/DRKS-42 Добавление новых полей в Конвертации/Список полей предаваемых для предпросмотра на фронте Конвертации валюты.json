@@ -1,0 +1,17 @@
+
+// Список полей предаваемых для предпросмотра на фронте "Конвертации валюты"
+{
+    "id": 535,
+    "number": "KZ4382117XCY10000002",
+    "cardNumber": null,
+    "currency": "EUR",
+    "currencyDigital": null,
+    "balance": 0,
+    "plannedBalance": 0,
+    "alias": "Текущий",
+    "type": "ACCOUNT",
+    "accountType": null,
+    "expirationDate": null 
+    
+}
+

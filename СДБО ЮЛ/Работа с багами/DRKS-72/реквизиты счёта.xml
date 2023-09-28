@@ -1,0 +1,51 @@
+2023-09-04 22:56:08.646  INFO 1 --- [3707d10008a1420089b09d33cc16b734] [io-8070-exec-36] c.i.i.i.i.i.AbstractIntegrator           : Got response in 120 ms, xml: <?xml version="1.0"?>
+<root>
+  <response id="c7a19f5b-8d68-48c8-9e09-b07832b85818" type="client" operation="AccountData" system="InFinIt" code="0">
+    <dateTime>2023-09-04T22:56:08</dateTime>
+    <hermesId>008e4ab5-905f-4709-91b1-7c036694f41b</hermesId>
+    <body>
+      <accountModels>
+        <accountModel>
+          <bin>881017351041</bin>
+          <customerId>12895</customerId>
+          <accounts>
+            <account>
+              <number>KZ65821C6VMP10000001</number>
+              <externalId>6179927396</externalId>
+              <gk>2204</gk>
+              <alias>Текущий счет</alias>
+              <rplStatus>1</rplStatus>
+              <lastMoveDate>2017-10-31 04:01:05</lastMoveDate>
+              <status>2</status>
+              <typeCard></typeCard>
+              <balance>0</balance>
+              <plan>0</plan>
+              <currCode>KZT</currCode>
+              <openDate>2017-08-01 00:00:00</openDate>
+              <closeDate>2019-06-10 00:00:00</closeDate>
+              <bankBranch>001-002-001</bankBranch>
+              <accountManager>Галымова С. М.</accountManager>
+            </account>
+            <account>
+              <number>KZ38821C6VMP10000002</number>
+              <externalId>148742214191</externalId>
+              <gk>2204</gk>
+              <alias>Текущий счет</alias>
+              <rplStatus>1</rplStatus>
+              <lastMoveDate>2023-08-23 18:01:17</lastMoveDate>
+              <status>1</status>
+              <typeCard></typeCard>
+              <balance>500</balance>
+              <plan>500</plan>
+              <currCode>KZT</currCode>
+              <openDate>2023-08-23 00:00:00</openDate>
+              <closeDate></closeDate>
+              <bankBranch>001-002-001</bankBranch>
+              <accountManager>Платонкин Е. В.</accountManager>
+            </account>
+          </accounts>
+        </accountModel>
+      </accountModels>
+    </body>
+  </response>
+</root>

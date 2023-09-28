@@ -1,0 +1,463 @@
+{
+    "id": 874,
+    "product_type": {
+        "id": 11,
+        "description": "Беззалоговый кредит"
+    },
+    "financing_purpose_type": {
+        "id": 1,
+        "code": "DEVELOPMENT",
+        "name_ru": "На развитие бизнеса",
+        "name_en": "На развитие бизнеса",
+        "name_kz": "Бизнесті дамытуға арналған"
+    },
+    "financing_type": {
+        "id": 1,
+        "code": "TYPE1",
+        "name_ru": "Невозобновляемая кредитная линия",
+        "name_en": "Невозобновляемая кредитная линия",
+        "name_kz": "Невозобновляемая кредитная линия"
+    },
+    "state_support_type": null,
+    "person": {
+        "first_name": "НАДЖАТ",
+        "last_name": "ХАЙБУЛЛИН",
+        "full_name": "ХАЙБУЛЛИН НАДЖАТ"
+    },
+    "status": {
+        "id": 1004,
+        "description": "На рассмотрении"
+    },
+    "repayment_type": {
+        "code": "ANNUITET",
+        "description": "Аннуитетный"
+    },
+    "adata_data": {
+        "basic": {
+            "krp": "Малые предприятия (<= 5)",
+            "biin": "920108300871",
+            "oked": "Техническое обслуживание и ремонт автомобилей, за исключением произведенных станциями технического обслуживания, находящимися на придорожной полосе",
+            "okeds": [
+                {
+                    "i": "45201",
+                    "name_ru": "Техническое обслуживание и ремонт автомобилей, за исключением произведенных станциями технического обслуживания, находящимися на придорожной полосе"
+                }
+            ],
+            "id_krp": 105,
+            "id_kato": 751110000,
+            "name_ru": "LeoMax",
+            "oked_id": "45201",
+            "kato_name": "АЛМАЛИНСКИЙ РАЙОН",
+            "legal_form": null,
+            "short_name": "LEOMAX",
+            "source_link": "https://pk.adata.kz/counterparty/main/company/920108300871",
+            "director_iin": 920108300871,
+            "is_nds_payer": false,
+            "head_problems": false,
+            "legal_address": "Г.АЛМАТЫ, АЛМАЛИНСКИЙ РАЙОН",
+            "secondary_okeds": [],
+            "company_problems": false,
+            "unreliable_zakup": false,
+            "counterparty_type": "enterprise",
+            "date_registration": "2023-07-04",
+            "fullname_director": "ХАЙБУЛЛИН НАДЖАТ РАФКАТОВИЧ",
+            "type_of_ownership": null,
+            "financial_problems": false,
+            "director_start_date": null
+        },
+        "status": {
+            "inactive": false,
+            "tax_debt": 0,
+            "bankcrupt": false,
+            "violation_tax": false,
+            "company_status": true,
+            "pseudo_company": false,
+            "absent_at_address": false,
+            "registration_invalid": false
+        },
+        "contract": {
+            "details": [
+                {
+                    "sum": 0,
+                    "year": "2023",
+                    "count": 0
+                },
+                {
+                    "sum": 0,
+                    "year": "2022",
+                    "count": 0
+                },
+                {
+                    "sum": 0,
+                    "year": "2021",
+                    "count": 0
+                },
+                {
+                    "sum": 0,
+                    "year": "2020",
+                    "count": 0
+                },
+                {
+                    "sum": 0,
+                    "year": "2019",
+                    "count": 0
+                },
+                {
+                    "sum": 0,
+                    "year": "Предыдущий период",
+                    "count": 0
+                }
+            ],
+            "total_sum": 0,
+            "total_count": 0
+        },
+        "founders": {
+            "founders_cnt": 0,
+            "founders_dtl": []
+        },
+        "litigation": {
+            "court_cases": [],
+            "total_civil_count": 0,
+            "total_criminal_count": 0,
+            "total_administrative_count": 0
+        },
+        "riskFactor": {
+            "head": {
+                "missing": false,
+                "tax_debt": 0,
+                "pedophile": false,
+                "terrorist": false,
+                "litigation": {
+                    "court_cases": [],
+                    "total_civil_count": 0,
+                    "total_criminal_count": 0,
+                    "total_administrative_count": 0
+                },
+                "ban_leaving": false,
+                "alimony_payer": false,
+                "ban_leaving_sum": 0,
+                "seized_property": false,
+                "enforcement_debt": false,
+                "seized_bank_account": false,
+                "ban_notarius_actions": false,
+                "enforcement_debt_sum": 0,
+                "ban_seized_property_actions": false,
+                "debtor_for_executive_documents": false,
+                "citizen_hiding_from_investigation": false,
+                "ban_registration_actions_legal_ent": false,
+                "ban_registration_actions_physical_ent": false
+            },
+            "company": {
+                "bankrupt": false,
+                "ban_leaving": false,
+                "ban_leaving_sum": 0,
+                "seized_property": false,
+                "tax_risk_degree": null,
+                "enforcement_debt": false,
+                "seized_bank_account": false,
+                "ban_notarius_actions": false,
+                "enforcement_debt_sum": 0,
+                "liquidating_taxpayer": false,
+                "irresponsible_taxpayer": false,
+                "ban_seized_property_actions": false,
+                "ban_registration_actions_legal_ent": false,
+                "ban_registration_actions_physical_ent": false
+            }
+        },
+        "taxDeductions": {
+            "sum": "0",
+            "details": [
+                {
+                    "year": null,
+                    "amount": "0"
+                }
+            ]
+        },
+        "licenseGeneral": {
+            "details": [
+                {
+                    "year": "2023",
+                    "licenses_count": 0,
+                    "other_docs_count": 2
+                }
+            ],
+            "total_licenses_count": 0,
+            "total_other_docs_count": 2
+        },
+        "connectedDiagram": {
+            "affiliation_by_company": [],
+            "affiliation_by_founder": []
+        },
+        "trustworthyAnalytics": {
+            "shift": "high",
+            "negative": {
+                "count": 6,
+                "score": -22.9,
+                "factors": [
+                    {
+                        "code": "worst_in_market",
+                        "name": "Низкий рейтинг компании",
+                        "group_name": "Предприятие",
+                        "score_code": "high"
+                    },
+                    {
+                        "code": "is_very_young_company",
+                        "name": "Малый срок работы на рынке, менее 3 лет",
+                        "group_name": "Предприятие",
+                        "score_code": "high"
+                    },
+                    {
+                        "code": "monthly_salary_fund_is_null_three_or_more",
+                        "name": "Возможное нарушение сроков уплаты налогов и обязательных платежей за последние 12 месяцев",
+                        "group_name": "Финансы",
+                        "score_code": "high"
+                    },
+                    {
+                        "code": "no_contract_long_period",
+                        "name": "Не участвует в закупках",
+                        "group_name": "Предприятие",
+                        "score_code": "medium"
+                    },
+                    {
+                        "code": "no_property_type",
+                        "name": "Нет активов",
+                        "group_name": "Предприятие",
+                        "score_code": "low"
+                    },
+                    {
+                        "code": "no_contact_type",
+                        "name": "Нет контактной информации",
+                        "group_name": "Предприятие",
+                        "score_code": "low"
+                    }
+                ]
+            },
+            "positive": {
+                "count": 2,
+                "score": 6.36,
+                "factors": [
+                    {
+                        "code": "has_one_document_type",
+                        "name": "Наличие лицензий или сертификатов или товарных знаков",
+                        "group_name": "Предприятие",
+                        "score_code": "low"
+                    },
+                    {
+                        "code": "no_court_cases",
+                        "name": "Не является участником судебных дел за последние 12 месяцев",
+                        "group_name": "Предприятие",
+                        "score_code": "low"
+                    }
+                ]
+            }
+        }
+    },
+    "nbrk_data": {
+        "personDetails": {
+            "iin": "920108300871",
+            "name": "НАДЖАТ",
+            "gender": {
+                "code": "1",
+                "nameKz": "Ер",
+                "nameRu": "Мужской",
+                "changeDate": "2013-09-19T09:44:33+06:00"
+            },
+            "surname": "ХАЙБУЛЛИН",
+            "addresses": "",
+            "birthDate": "1998-01-08",
+            "documents": {
+                "document": [
+                    {
+                        "name": "НАДЖАТ",
+                        "type": {
+                            "code": "002",
+                            "nameKz": "ҚР ЖЕКЕ КУӘЛІГІ",
+                            "nameRu": "УДОСТОВЕРЕНИЕ РК",
+                            "changeDate": "2013-09-19T09:45:40+06:00"
+                        },
+                        "number": "037375394",
+                        "status": {
+                            "code": "17",
+                            "nameKz": "ЖАҢА ҚҰЖАТТЫҢ ШЫҒАРЫЛУЫ",
+                            "nameRu": "ВЫПУСК НОВОГО ДОКУМЕНТА",
+                            "changeDate": "2013-09-19T09:45:41+06:00"
+                        },
+                        "endDate": "2027-01-04",
+                        "surname": "ХАЙБУЛЛИН",
+                        "beginDate": "2017-01-05",
+                        "birthDate": "1997-12-08",
+                        "patronymic": "РАФКАТОВИЧ",
+                        "invalidityDate": "2025-02-07",
+                        "issueOrganization": {
+                            "code": "002",
+                            "nameKz": "ҚР ІШКІ ІСТЕР МИНИСТРЛІГІ",
+                            "nameRu": "МИНИСТЕРСТВО ВНУТРЕННИХ ДЕЛ РК",
+                            "changeDate": "2013-09-19T09:45:40+06:00"
+                        }
+                    },
+                    {
+                        "name": "НАДЖАТ",
+                        "type": {
+                            "code": "002",
+                            "nameKz": "ҚР ЖЕКЕ КУӘЛІГІ",
+                            "nameRu": "УДОСТОВЕРЕНИЕ РК",
+                            "changeDate": "2013-09-19T09:45:40+06:00"
+                        },
+                        "number": "036185548",
+                        "status": {
+                            "code": "07",
+                            "nameKz": "АРЫ ҚАРАЙ ҚОЛДАНУҒА ЖАРАМСЫЗ",
+                            "nameRu": "НЕПРИГОДНОСТЬ ДЛЯ ДАЛЬНЕЙШЕГО ИСПОЛЬЗОВАНИЯ",
+                            "changeDate": "2013-09-19T09:45:41+06:00"
+                        },
+                        "endDate": "2028-01-07",
+                        "surname": "ХАЙБУЛЛИН",
+                        "beginDate": "2014-01-08",
+                        "birthDate": "1997-12-08",
+                        "patronymic": "РАФКАТОВИЧ",
+                        "invalidityDate": "2015-03-10",
+                        "issueOrganization": {
+                            "code": "002",
+                            "nameKz": "ҚР ІШКІ ІСТЕР МИНИСТРЛІГІ",
+                            "nameRu": "МИНИСТЕРСТВО ВНУТРЕННИХ ДЕЛ РК",
+                            "changeDate": "2013-09-19T09:45:40+06:00"
+                        }
+                    },
+                    {
+                        "name": "НАДЖАТ",
+                        "type": {
+                            "code": "001",
+                            "nameKz": "ҚР ПАСПОРТЫ",
+                            "nameRu": "ПАСПОРТ РК",
+                            "changeDate": "2013-09-19T09:45:40+06:00"
+                        },
+                        "number": "N08782570",
+                        "status": {
+                            "code": "17",
+                            "nameKz": "ЖАҢА ҚҰЖАТТЫҢ ШЫҒАРЫЛУЫ",
+                            "nameRu": "ВЫПУСК НОВОГО ДОКУМЕНТА",
+                            "changeDate": "2013-09-19T09:45:41+06:00"
+                        },
+                        "endDate": "2023-06-25",
+                        "surname": "ХАЙБУЛЛИН",
+                        "beginDate": "2013-06-26",
+                        "birthDate": "1997-12-08",
+                        "patronymic": "РАФКАТОВИЧ",
+                        "invalidityDate": "2023-02-07",
+                        "issueOrganization": {
+                            "code": "002",
+                            "nameKz": "ҚР ІШКІ ІСТЕР МИНИСТРЛІГІ",
+                            "nameRu": "МИНИСТЕРСТВО ВНУТРЕННИХ ДЕЛ РК",
+                            "changeDate": "2013-09-19T09:45:40+06:00"
+                        }
+                    }
+                ]
+            },
+            "birthPlace": {
+                "city": "Алматы",
+                "region": {
+                    "code": "1902204",
+                    "nameKz": "АЛАТАУ АУДАНЫ",
+                    "nameRu": "АЛАТАУСКИЙ РАЙОН",
+                    "changeDate": "2013-09-19T09:45:25+06:00"
+                },
+                "country": {
+                    "code": "398",
+                    "nameKz": "ҚАЗАҚСТАН",
+                    "nameRu": "КАЗАХСТАН",
+                    "changeDate": "2013-09-19T09:45:48+06:00"
+                },
+                "district": {
+                    "code": "1902",
+                    "nameKz": "Алматы",
+                    "nameRu": "Алматы",
+                    "changeDate": "2013-09-19T09:45:41+06:00"
+                }
+            },
+            "engSurname": "HAIBULLIN",
+            "lifeStatus": {
+                "code": "0",
+                "nameKz": "Қалыпты",
+                "nameRu": "Нормальный",
+                "changeDate": "2013-09-19T09:45:30+06:00"
+            },
+            "patronymic": "РАФКАТОВИЧ",
+            "regAddress": {
+                "city": "Акколь",
+                "arCode": "0201300295178907",
+                "region": {
+                    "code": "1902204",
+                    "nameKz": "АЛАТАУ АУДАНЫ",
+                    "nameRu": "АЛАТАУСКИЙ РАЙОН",
+                    "changeDate": "2013-09-19T09:45:25+06:00"
+                },
+                "status": {
+                    "code": "1",
+                    "nameKz": "Тіркелді",
+                    "nameRu": "Зарегистрирован",
+                    "changeDate": "2013-11-18T14:53:45+06:00"
+                },
+                "street": "УЛИЦА Сокпакбаева",
+                "country": {
+                    "code": "398",
+                    "nameKz": "ҚАЗАҚСТАН",
+                    "nameRu": "КАЗАХСТАН",
+                    "changeDate": "2013-09-19T09:45:48+06:00"
+                },
+                "building": "10",
+                "district": {
+                    "code": "1902",
+                    "nameKz": "Алматы",
+                    "nameRu": "Алматы",
+                    "changeDate": "2013-09-19T09:45:41+06:00"
+                },
+                "beginDate": "2012-11-21",
+                "invalidity": {
+                    "code": "0",
+                    "nameKz": "Тіркелді",
+                    "nameRu": "Зарегистрирован",
+                    "changeDate": "2013-12-09T13:50:06+06:00"
+                }
+            },
+            "citizenship": {
+                "code": "398",
+                "nameKz": "ҚАЗАҚСТАН",
+                "nameRu": "КАЗАХСТАН",
+                "changeDate": "2013-09-19T09:45:48+06:00"
+            },
+            "nationality": {
+                "code": "001",
+                "nameKz": "ОРЫС",
+                "nameRu": "РУССКИЙ",
+                "changeDate": "2013-09-19T09:45:37+06:00"
+            },
+            "engFirstName": "NAJAT"
+        }
+    },
+    "rejection_reason": [
+        "у клиента не найден текущий счет в ИБСО"
+    ],
+    "created": "2023-09-18T18:06:30.024958+06:00",
+    "modified": "2023-09-19T12:11:37.446285+06:00",
+    "application_uuid": "2886e8fb-e414-43ad-94e7-199ecd77f7ba",
+    "bin": "920108300871",
+    "phone": "+77077100499",
+    "amount": "10000.00",
+    "state_support": false,
+    "planned_payment_day": 1,
+    "rate": "25.55",
+    "term": 1,
+    "annual_turnover": "10.00",
+    "client_name": null,
+    "arm_user_id": null,
+    "username": null,
+    "ibso_user_id": null,
+    "manager_first_name": "banking",
+    "manager_last_name": "",
+    "readable_id": "МСБ-БК-UL_MOBILE/874",
+    "branch_name": null,
+    "branch_id": null,
+    "team_name": null,
+    "team_code": null,
+    "property_type": null
+}

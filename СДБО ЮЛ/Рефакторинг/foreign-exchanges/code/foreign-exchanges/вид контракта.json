@@ -1,0 +1,115 @@
+[
+    {
+        "id": 1,
+        "type": "DIVIDEND_PAY",
+        "name": "Выплата дивидендов",
+        "nameKz": null,
+        "nameEn": null
+    },
+    {
+        "id": 2,
+        "type": "IMPORT",
+        "name": "Импорт",
+        "nameKz": null,
+        "nameEn": null
+    },
+    {
+        "id": 3,
+        "type": "ACC_OPEN_IMP",
+        "name": "Открытие счетов за границей (импорт)",
+        "nameKz": null,
+        "nameEn": null
+    },
+    {
+        "id": 4,
+        "type": "ACC_OPEN_EXP",
+        "name": "Открытие счетов за границей (экспорт)",
+        "nameKz": null,
+        "nameEn": null
+    },
+    {
+        "id": 5,
+        "type": "SHARE_BUY",
+        "name": "Покупка акций резидента",
+        "nameKz": null,
+        "nameEn": null
+    },
+    {
+        "id": 6,
+        "type": "REALTY_BUY",
+        "name": "Покупка недвижимости",
+        "nameKz": null,
+        "nameEn": null
+    },
+    {
+        "id": 7,
+        "type": "DIVIDEND_GET",
+        "name": "Получение дивидендов",
+        "nameKz": null,
+        "nameEn": null
+    },
+    {
+        "id": 8,
+        "type": "LOAN_FINANCIAL",
+        "name": "Предоставление займа",
+        "nameKz": null,
+        "nameEn": null
+    },
+    {
+        "id": 9,
+        "type": "DEBT_FINANCIAL",
+        "name": "Привлечение займа",
+        "nameKz": null,
+        "nameEn": null
+    },
+    {
+        "id": 10,
+        "type": "SHARE_SELL",
+        "name": "Продажа акций резидента",
+        "nameKz": null,
+        "nameEn": null
+    },
+    {
+        "id": 11,
+        "type": "REALTY_SELL",
+        "name": "Продажа недвижимости",
+        "nameKz": null,
+        "nameEn": null
+    },
+    {
+        "id": 12,
+        "type": "OTHER_IMP",
+        "name": "Прочие (импорт)",
+        "nameKz": null,
+        "nameEn": null
+    },
+    {
+        "id": 13,
+        "type": "OTHER_EXP",
+        "name": "Прочие (экспорт)",
+        "nameKz": null,
+        "nameEn": null
+    },
+    {
+        "id": 14,
+        "type": "RK_OTHER_INVEST",
+        "name": "Прочие инвестиции в РК",
+        "nameKz": null,
+        "nameEn": null
+    },
+    {
+        "id": 15,
+        "type": "OUT_OTHER_INVEST",
+        "name": "Прочие инвестиции за границу",
+        "nameKz": null,
+        "nameEn": null
+    },
+    {
+        "id": 16,
+        "type": "EXPORT",
+        "name": "Экспорт",
+        "nameKz": null,
+        "nameEn": null
+    }
+]
+

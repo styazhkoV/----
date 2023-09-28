@@ -1,0 +1,36 @@
+
+ {
+ "cards": [
+     {
+                    "accountnumber": "KZ878210439870712868",
+                    "currency": "KZT",
+                    "customertaxcode": "230740018516",
+                    "id": 33632490,
+                    "cardtype": "VISA BUSINESS",
+                    "name": "АБЛАКОВ САНАТ АБЖАПБАРОВИЧ",
+                    "cardnumber": "490447******2906",
+                    "externalid": "RBS-01027099",
+                    "startdate": "2022-09-13T00:00:00",
+                    "closed": null,
+                    "finishdate": "2025-09-30",
+                    "blockedamount": 0,
+                    "alias": "BUSINESS CARD",
+                    "holder": "SANAT ABLAKOV",
+                    "cardproducttype": "BUSINESS CARD EPIN",
+                    "productname": "BUSINESS CARD EPIN",
+                    "type": "VISA BUSINESS",
+                    "status": "1",
+                    "creditlimit": 0,
+                    "rate": 0,
+                    "balance": 0,
+                    "bankbranch": "ГО Филиала Алматы",
+                    "outstandingcommission": "0",
+                    "minimumpayment": "0",
+                    "minimumPaymentDate": "2023-09-20",
+                    "overdueamount": "0",
+                    "servicecommiss": 0,
+                   "over": 0,
+                    "cashback": "0"}
+            ]
+                };
+              

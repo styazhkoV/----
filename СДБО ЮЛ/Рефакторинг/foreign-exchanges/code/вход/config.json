@@ -1,0 +1,1113 @@
+{
+    "splitWebForPersonType": true,
+    "branding": {
+        "copyright": "Forte Bank",
+        "logo": "/site/branding/logo_default.svg",
+        "managerLogo": "/site/branding/manager_logo.png",
+        "loginLogo": "/site/branding/login_logo.svg",
+        "newsLogo": "/site/branding/news.jpg",
+        "managerPhoto": "/site/branding/manager.jpg",
+        "slides": {
+            "slide1": "/site/branding/slide1.jpg",
+            "slide2": "/site/branding/slide2.jpg",
+            "slide3": "/site/branding/slide3.jpg"
+        },
+        "menuLogo": "/site/branding/top-bg.png",
+        "phone": "8 800 754 0000"
+    },
+    "login": {
+        "constraints": {
+            "code": {
+                "required": true,
+                "regexpr": "^[0-9]+$"
+            }
+        }
+    },
+    "mainMenu": {
+        "le": [
+            {
+                "label": "common_main",
+                "visibility": "root_view",
+                "children": [],
+                "link": "/"
+            },
+            {
+                "label": "navigation_products",
+                "visibility": "assets_view",
+                "children": [
+                    {
+                        "link": "/accounts",
+                        "visibility": "account_view",
+                        "label": "navigation_accounts"
+                    },
+                    {
+                        "link": "/deposits",
+                        "visibility": "deposits_view",
+                        "label": "navigation_deposits"
+                    },
+                    {
+                        "link": "/credits",
+                        "visibility": "credits_view",
+                        "label": "navigation_credits"
+                    },
+                    {
+                        "link": "/cards",
+                        "visibility": "corpCards_view",
+                        "label": "navigation_corporatecards"
+                    }
+                ]
+            },
+            {
+                "label": "navigation_transactions",
+                "visibility": "finOperations_view",
+                "children": [
+                    {
+                        "link": "/domestic-transfers",
+                        "visibility": "payments_view",
+                        "label": "navigation_payments"
+                    },
+                    {
+                        "link": "/international-transfers",
+                        "visibility": "transfers_view",
+                        "label": "navigation_intTransfers"
+                    },
+                    {
+                        "link": "/account-transfers",
+                        "visibility": "conversion_view",
+                        "label": "navigation_conversion"
+                    },
+                    {
+                        "link": "/standing-orders",
+                        "visibility": "standing_orders_view",
+                        "label": "navigation_standingOrders"
+                    }
+                ]
+            },
+            {
+                "label": "navigation_otherTransactions",
+                "visibility": "otherOperations_view",
+                "children": [
+                    {
+                        "link": "/exposed-order",
+                        "visibility": "invoices_view",
+                        "label": "navigation_invoices"
+                    },
+                    {
+                        "link": "/working-documents",
+                        "visibility": "docsSign_view",
+                        "label": "navigation_workingDocs"
+                    },
+                    {
+                        "link": "/returns",
+                        "visibility": "refunds_view",
+                        "label": "navigation_returns"
+                    },
+                    {
+                        "link": "/document-withdraws",
+                        "visibility": "reversals_view",
+                        "label": "navigation_paymentsRevokes"
+                    }
+                ]
+            },
+            {
+                "label": "navigation_infoAndSuggestions",
+                "visibility": "infoAndSuggestions_view",
+                "children": [
+                    {
+                        "link": "/accounts-statement",
+                        "visibility": "statement_view",
+                        "label": "navigation_statement"
+                    },
+                    {
+                        "link": "/letter",
+                        "visibility": "message_view",
+                        "label": "navigation_mail"
+                    },
+                    {
+                        "link": "/demands",
+                        "visibility": "demand_view",
+                        "label": "navigation_demand"
+                    },
+                    {
+                        "link": "/news",
+                        "visibility": "*",
+                        "label": "navigation_news"
+                    },
+                    {
+                        "link": "/handbooks",
+                        "visibility": "commonHandbooks_view",
+                        "label": "navigation_commonHandbooks"
+                    }
+                ]
+            }
+        ],
+        "pp": [
+            {
+                "label": "common_main",
+                "visibility": "root_view",
+                "children": [],
+                "link": "/"
+            },
+            {
+                "label": "navigation_p_person_products",
+                "visibility": "assets_view",
+                "children": [
+                    {
+                        "link": "/accounts",
+                        "visibility": "account_view",
+                        "label": "navigation_accounts"
+                    },
+                    {
+                        "link": "/deposits",
+                        "visibility": "deposits_view",
+                        "label": "navigation_deposits"
+                    },
+                    {
+                        "link": "/credits",
+                        "visibility": "credits_view",
+                        "label": "navigation_credits"
+                    },
+                    {
+                        "link": "/cards",
+                        "visibility": "corpCards_view",
+                        "label": "navigation_corporatecards"
+                    }
+                ]
+            },
+            {
+                "label": "navigation_transactions_person",
+                "visibility": "finOperations_view",
+                "children": [
+                    {
+                        "link": "/domestic-transfers",
+                        "visibility": "payments_view",
+                        "label": "navigation_p_person_domTransfer"
+                    },
+                    {
+                        "link": "/international-transfers",
+                        "visibility": "transfers_view",
+                        "label": "navigation_p_person_intTransfer"
+                    },
+                    {
+                        "link": "/account-transfers",
+                        "visibility": "conversion_view",
+                        "label": "navigation_p_person_accountTransfer"
+                    },
+                    {
+                        "link": "/p2ps",
+                        "visibility": "standing_orders_view",
+                        "label": "navigation_p_person_p2p"
+                    },
+                    {
+                        "link": "/services",
+                        "visibility": "payment_service_view",
+                        "label": "payment_service_view"
+                    }
+                ]
+            },
+            {
+                "label": "navigation_otherTransactions",
+                "visibility": "otherOperations_view",
+                "children": [
+                    {
+                        "link": "/standing-orders",
+                        "visibility": "standing_orders_view",
+                        "label": "navigation_standingOrders_person"
+                    },
+                    {
+                        "link": "/demands",
+                        "visibility": "demand_view",
+                        "label": "navigation_demand"
+                    }
+                ]
+            },
+            {
+                "label": "navigation_infoAndSuggestions",
+                "visibility": "infoAndSuggestions_view",
+                "children": [
+                    {
+                        "link": "/letter",
+                        "visibility": "message_view",
+                        "label": "navigation_mail"
+                    },
+                    {
+                        "link": "/news",
+                        "visibility": "*",
+                        "label": "navigation_news"
+                    },
+                    {
+                        "link": "/handbooks",
+                        "visibility": "commonHandbooks_view",
+                        "label": "navigation_commonHandbooks"
+                    }
+                ]
+            }
+        ]
+    },
+    "documents": {
+        "valueDaysType": "working",
+        "showImport": true,
+        "director": true,
+        "domesticTransfer": {
+            "types": {
+                "pp": [
+                    "payment"
+                ]
+            },
+            "showStates": true,
+            "P2P": {
+                "settings": {
+                    "pp": {
+                        "gridTitle": "navigation_p_person_p2p",
+                        "titleCreate": "create_card_transfer",
+                        "titleEdit": "view_edit_card_transfer",
+                        "titleTemplateCreate": "Create_template_card_transfer",
+                        "titleTemplateEdit": "view_edit_template_card_transfer"
+                    }
+                }
+            },
+            "paymentOrder": {
+                "settings": {
+                    "le": {
+                        "gridTitle": "domTransfer_nationalPayments",
+                        "titleCreate": "paymentOrder_addNewOrder",
+                        "titleEdit": "paymentOrder_viewEditOrder",
+                        "titleTemplateCreate": "paymentOrder_addNewOrderTemplate",
+                        "titleTemplateEdit": "paymentOrder_viewEditTemplate"
+                    },
+                    "pp": {
+                        "gridTitle": "Переводы в тенге",
+                        "titleCreate": "Перевод в тенге",
+                        "titleEdit": "Перевод в тенге",
+                        "titleTemplateCreate": "Шаблон Перевода в тенге",
+                        "titleTemplateEdit": "Шаблон Перевода в тенге"
+                    }
+                },
+                "hideFields": {
+                    "pp": [
+                        "director",
+                        "accountant"
+                    ]
+                },
+                "globalConstraints": {
+                    "redBalance": "warn",
+                    "uniqueMainFields": "warn",
+                    "validateAccountByBankCode": true
+                },
+                "constraints": {
+                    "account": {
+                        "required": true,
+                        "hasProperty": "id",
+                        "validateAccount": true
+                    },
+                    "director": {
+                        "required": true
+                    },
+                    "valueDate": {
+                        "required": true,
+                        "validateValueDate": true
+                    },
+                    "purpose": {
+                        "required": true,
+                        "maxLength": 420
+                    },
+                    "purposeCode": {
+                        "required": true,
+                        "maxLength": 3,
+                        "regexp": "numbers",
+                        "checkDB": "purposeCodes"
+                    },
+                    "benefTaxCode": {
+                        "required": true,
+                        "regexp": "numbers",
+                        "maxLength": 12,
+                        "taxCode": true
+                    },
+                    "benefName": {
+                        "required": true,
+                        "maxLength": 60
+                    },
+                    "benefBankCode": {
+                        "required": true,
+                        "maxLength": 11,
+                        "regexp": "upperLetterAndNumbers",
+                        "checkDB": "localBanks"
+                    },
+                    "benefResidencyCode": {
+                        "required": true,
+                        "maxLength": 2,
+                        "regexp": "residencyCode",
+                        "checkDB": "residencyCodes"
+                    },
+                    "benefAccount": {
+                        "required": true,
+                        "account": true,
+                        "length": 20,
+                        "regexp": "KZTAccount"
+                    },
+                    "budgetCode": {
+                        "maxLength": 6,
+                        "regexp": "numbers",
+                        "checkDB": "budgetCodes"
+                    },
+                    "vinCode": {
+                        "maxLength": 20,
+                        "regexp": "vinCode"
+                    },
+                    "number": {
+                        "required": true,
+                        "maxLength": 9
+                    },
+                    "info": {
+                        "maxLength": 210
+                    },
+                    "amount": {
+                        "required": true,
+                        "amountNotNull": true
+                    }
+                }
+            },
+            "payroll": {
+                "globalConstraints": {
+                    "redBalance": "warn",
+                    "uniqueMainFields": "warn",
+                    "validateAccountByBankCode": true
+                },
+                "constraints": {
+                    "account": {
+                        "required": true,
+                        "hasProperty": "id",
+                        "validateAccount": "true"
+                    },
+                    "director": {
+                        "required": true,
+                        "hasProperty": "id"
+                    },
+                    "valueDate": {
+                        "required": true,
+                        "validateValueDate": true
+                    },
+                    "purpose": {
+                        "required": true,
+                        "maxLength": 420
+                    },
+                    "purposeCode": {
+                        "required": true,
+                        "maxLength": 3,
+                        "regexp": "numbers",
+                        "checkDB": "purposeCodes"
+                    },
+                    "benefTaxCode": {
+                        "required": true,
+                        "regexp": "numbers",
+                        "maxLength": 12,
+                        "taxCode": true
+                    },
+                    "benefName": {
+                        "required": true,
+                        "maxLength": 60
+                    },
+                    "benefBankCode": {
+                        "required": true,
+                        "maxLength": 11,
+                        "regexp": "upperLetterAndNumbers",
+                        "checkDB": "localBanks"
+                    },
+                    "benefResidencyCode": {
+                        "required": true,
+                        "maxLength": 2,
+                        "regexp": "residencyCode",
+                        "checkDB": "residencyCodes"
+                    },
+                    "benefAccount": {
+                        "required": true,
+                        "account": true,
+                        "length": 20,
+                        "regexp": "KZTAccount"
+                    },
+                    "number": {
+                        "required": true,
+                        "maxLength": 9
+                    },
+                    "info": {
+                        "maxLength": 210
+                    },
+                    "amount": {
+                        "required": true,
+                        "amountNotNull": true
+                    }
+                },
+                "employeeConstraints": {
+                    "amount": {
+                        "required": true,
+                        "amountNotNull": true
+                    },
+                    "firstName": {
+                        "required": true,
+                        "maxLength": 30,
+                        "regexp": "name"
+                    },
+                    "lastName": {
+                        "required": true,
+                        "maxLength": 30,
+                        "regexp": "name"
+                    },
+                    "middleName": {
+                        "required": false,
+                        "maxLength": 30,
+                        "regexp": "name"
+                    },
+                    "taxCode": {
+                        "required": true,
+                        "regexp": "numbers",
+                        "taxCode": true,
+                        "maxLength": 12
+                    },
+                    "account": {
+                        "required": true,
+                        "maxLength": 20
+                    }
+                }
+            },
+            "pensionContribution": {
+                "globalConstraints": {
+                    "redBalance": "warn",
+                    "uniqueMainFields": "warn"
+                },
+                "constraints": {
+                    "account": {
+                        "required": true,
+                        "hasProperty": "id",
+                        "validateAccount": "true"
+                    },
+                    "director": {
+                        "required": true,
+                        "hasProperty": "id"
+                    },
+                    "valueDate": {
+                        "required": true,
+                        "validateValueDate": true
+                    },
+                    "purpose": {
+                        "required": true,
+                        "maxLength": 420
+                    },
+                    "purposeCode": {
+                        "required": true,
+                        "maxLength": 3,
+                        "regexp": "numbers",
+                        "checkDB": "purposeCodes"
+                    },
+                    "number": {
+                        "required": true,
+                        "maxLength": 9
+                    },
+                    "info": {
+                        "maxLength": 210
+                    },
+                    "employeeTransferCategory": {
+                        "required": true,
+                        "checkDB": "employeeTransferCategories"
+                    },
+                    "amount": {
+                        "required": true,
+                        "amountNotNull": true
+                    }
+                },
+                "employeeConstraints": {
+                    "amount": {
+                        "required": true,
+                        "amountNotNull": true
+                    },
+                    "firstName": {
+                        "required": true,
+                        "maxLength": 30,
+                        "regexp": "name"
+                    },
+                    "lastName": {
+                        "required": true,
+                        "maxLength": 30,
+                        "regexp": "name"
+                    },
+                    "middleName": {
+                        "required": false,
+                        "maxLength": 30,
+                        "regexp": "name"
+                    },
+                    "taxCode": {
+                        "required": true,
+                        "regexp": "numbers",
+                        "taxCode": true,
+                        "maxLength": 12
+                    },
+                    "birthDate": {
+                        "required": true
+                    },
+                    "period": {
+                        "required": true
+                    }
+                }
+            },
+            "socialContribution": {
+                "globalConstraints": {
+                    "redBalance": "warn",
+                    "uniqueMainFields": "warn"
+                },
+                "constraints": {
+                    "account": {
+                        "required": true,
+                        "hasProperty": "id",
+                        "validateAccount": "true"
+                    },
+                    "director": {
+                        "required": true,
+                        "hasProperty": "id"
+                    },
+                    "valueDate": {
+                        "required": true,
+                        "validateValueDate": true
+                    },
+                    "purpose": {
+                        "required": true,
+                        "maxLength": 420
+                    },
+                    "purposeCode": {
+                        "required": true,
+                        "maxLength": 3,
+                        "regexp": "numbers",
+                        "checkDB": "purposeCodes"
+                    },
+                    "number": {
+                        "required": true,
+                        "maxLength": 9
+                    },
+                    "info": {
+                        "maxLength": 210
+                    },
+                    "amount": {
+                        "required": true,
+                        "amountNotNull": true
+                    }
+                },
+                "employeeConstraints": {
+                    "amount": {
+                        "required": true,
+                        "amountNotNull": true
+                    },
+                    "firstName": {
+                        "required": true,
+                        "maxLength": 30,
+                        "regexp": "name"
+                    },
+                    "lastName": {
+                        "required": true,
+                        "maxLength": 30,
+                        "regexp": "name"
+                    },
+                    "middleName": {
+                        "required": false,
+                        "maxLength": 30,
+                        "regexp": "name"
+                    },
+                    "taxCode": {
+                        "required": true,
+                        "regexp": "numbers",
+                        "taxCode": true,
+                        "maxLength": 12
+                    },
+                    "birthDate": {
+                        "required": true
+                    },
+                    "period": {
+                        "required": true
+                    }
+                }
+            }
+        },
+        "accountTransfer": {
+            "settings": {
+                "le": {
+                    "gridTitle": "paymentOrder_addNewAccountTransfer",
+                    "titleCreate": "paymentOrder_addNewAccountTransfer"
+                },
+                "pp": {
+                    "gridTitle": "Переводы между своими счетами",
+                    "titleCreate": "Перевод между своими счетами"
+                }
+            },
+            "hideFields": {
+                "pp": [
+                    "director",
+                    "accountant"
+                ]
+            },
+            "globalConstraints": {
+                "redBalance": "warn",
+                "uniqueMainFields": "warn"
+            },
+            "constraints": {
+                "account": {
+                    "required": true,
+                    "hasProperty": "id",
+                    "validateAccount": true
+                },
+                "creditSum": {
+                    "required": true,
+                    "amountNotNull": true
+                },
+                "amount": {
+                    "required": true,
+                    "amountNotNull": true
+                },
+                "debitCurrency": {
+                    "required": true
+                },
+                "creditAccount": {
+                    "required": true,
+                    "hasProperty": "id",
+                    "validateAccount": true
+                },
+                "creditCurrency": {
+                    "required": true
+                },
+                "valueDate": {
+                    "required": true,
+                    "validateValueDate": true
+                },
+                "purpose": {
+                    "required": true,
+                    "maxLength": 420
+                },
+                "purposeCode": {
+                    "required": true,
+                    "maxLength": 3,
+                    "regexp": "numbers",
+                    "checkDB": "purposeCodes"
+                },
+                "number": {
+                    "required": true,
+                    "maxLength": 9
+                },
+                "feeAccount": {
+                    "required": true,
+                    "validateAccount": true
+                }
+            }
+        },
+        "intTransfer": {
+            "settings": {
+                "le": {
+                    "payer": [
+                        "custName",
+                        "custTaxCode",
+                        "custResidencyCode",
+                        "senderAddress",
+                        "accountCurrency",
+                        "account",
+                        "accountBalance",
+                        "transliterate",
+                        "director",
+                        "accountant"
+                    ],
+                    "creditor": [
+                        "benefName",
+                        "benefTaxCode",
+                        "benefCountryCode",
+                        "benefCountry",
+                        "benefCity",
+                        "benefAddress",
+                        "benefKpp",
+                        "benefResidencyCode",
+                        "benefAccount"
+                    ],
+                    "bank": [
+                        "benefBankCode",
+                        "benefBankName",
+                        "benefBankCorrAccount",
+                        "benefBankCountryCode",
+                        "benefBankCountry",
+                        "benefBankCity",
+                        "benefBankAddress"
+                    ],
+                    "agent": [
+                        "agentBankCode",
+                        "agentBankName",
+                        "agentCorrAccount",
+                        "agentBankCountryCode",
+                        "agentBankCountry",
+                        "agentBankCity",
+                        "agentBankAddress"
+                    ],
+                    "detail": [
+                        "number",
+                        "created",
+                        "priority",
+                        "valueDates",
+                        "amount",
+                        "currencyOperationType",
+                        "currencyOperationTypeLabel",
+                        "contractNumber",
+                        "contractDate",
+                        "contractAuditNumber",
+                        "contractAuditDate",
+                        "invoice",
+                        "invoiceDate"
+                    ],
+                    "fee": [
+                        "feeTypeCode",
+                        "feeAccount",
+                        "feeAccountCurrency",
+                        "feeAccountBalance"
+                    ],
+                    "purpose": [
+                        "savePaymentPurpose",
+                        "purpose",
+                        "additionalInfo",
+                        "info",
+                        "uploadComponent"
+                    ],
+                    "gridTitle": "intTransfer_title",
+                    "titleCreate": "navigation_intTransfers_expo",
+                    "titleEdit": "navigation_intTransfers_expo",
+                    "titleTemplateCreate": "intTransfer_createTemplate",
+                    "titleTemplateEdit": "intTransfer_EditTemplate"
+                },
+                "pp": {
+                    "payer": [
+                        "custName",
+                        "custTaxCode",
+                        "custResidencyCode",
+                        "accountCurrency",
+                        "account",
+                        "accountBalance",
+                        "transliterate"
+                    ],
+                    "creditor": [
+                        "benefName",
+                        "benefTaxCode",
+                        "benefCountryCode",
+                        "benefCountry",
+                        "benefCity",
+                        "benefAddress",
+                        "benefKpp",
+                        "benefResidencyCode",
+                        "benefAccount"
+                    ],
+                    "bank": [
+                        "benefBankCode",
+                        "benefBankName",
+                        "benefBankCorrAccount",
+                        "benefBankCountryCode",
+                        "benefBankCountry",
+                        "benefBankCity",
+                        "benefBankAddress"
+                    ],
+                    "agent": [
+                        "agentBankCode",
+                        "agentBankName",
+                        "agentCorrAccount",
+                        "agentBankCountryCode",
+                        "agentBankCountry",
+                        "agentBankCity",
+                        "agentBankAddress"
+                    ],
+                    "detail": [
+                        "number",
+                        "created",
+                        "priority",
+                        "valueDates",
+                        "amount",
+                        "currencyOperationType"
+                    ],
+                    "fee": [
+                        "feeTypeCode",
+                        "feeAccount",
+                        "feeAccountCurrency",
+                        "feeAccountBalance"
+                    ],
+                    "purpose": [
+                        "savePaymentPurpose",
+                        "purpose"
+                    ],
+                    "gridTitle": "Переводы в валюте",
+                    "titleCreate": "Перевод в валюте",
+                    "titleEdit": "Перевод в валюте",
+                    "titleTemplateCreate": "Шаблон Перевода в валюте",
+                    "titleTemplateEdit": "Шаблон Перевода в валюте"
+                }
+            },
+            "globalConstraints": {
+                "redBalance": "warn",
+                "uniqueMainFields": "warn",
+                "maxSumFieldsLength": true
+            },
+            "constraints": {
+                "director": {
+                    "required": true,
+                    "hasProperty": "id"
+                },
+                "amount": {
+                    "required": true,
+                    "amountNotNull": true
+                },
+                "valueDate": {
+                    "required": true,
+                    "validateValueDate": true
+                },
+                "purpose": {
+                    "required": true,
+                    "maxLength": 420
+                },
+                "purposeCode": {
+                    "required": true,
+                    "maxLength": 3,
+                    "regexp": "numbers",
+                    "checkDB": "purposeCodes"
+                },
+                "accountCurrency": {
+                    "required": true
+                },
+                "account": {
+                    "required": true,
+                    "hasProperty": "id",
+                    "validateAccount": true
+                },
+                "benefName": {
+                    "required": true,
+                    "maxLength": 60
+                },
+                "benefResidencyCode": {
+                    "required": true,
+                    "maxLength": 2,
+                    "regexp": "residencyCode",
+                    "checkDB": "residencyCodes"
+                },
+                "benefAccount": {
+                    "required": true,
+                    "maxLength": 34
+                },
+                "benefBankCode": {
+                    "required": true,
+                    "maxLength": 11,
+                    "regexp": "letterAndNumbers",
+                    "checkDB": "bank"
+                },
+                "benefCountryCode": {
+                    "required": true,
+                    "maxLength": 2,
+                    "regexp": "letters",
+                    "checkDB": "country"
+                },
+                "benefCity": {
+                    "required": true,
+                    "maxLength": 200
+                },
+                "benefAddress": {
+                    "required": true,
+                    "maxLength": 200
+                },
+                "benefBankCorrAccount": {
+                    "maxLength": 34
+                },
+                "benefBankCity": {
+                    "required": true,
+                    "maxLength": 200
+                },
+                "benefBankAddress": {
+                    "required": true,
+                    "maxLength": 200
+                },
+                "agentBankCode": {
+                    "maxLength": 11,
+                    "regexp": "letterAndNumbers",
+                    "checkDB": "bank"
+                },
+                "agentCorrAccount": {
+                    "maxLength": 34
+                },
+                "agentBankCity": {
+                    "maxLength": 200
+                },
+                "agentBankAddress": {
+                    "maxLength": 200
+                },
+                "number": {
+                    "required": true,
+                    "maxLength": 9
+                },
+                "contractNumber": {
+                    "maxLength": 64
+                },
+                "contractAuditNumber": {
+                    "maxLength": 64
+                },
+                "invoice": {
+                    "maxLength": 60
+                },
+                "feeTypeCode": {
+                    "required": true,
+                    "checkDB": "feeType"
+                },
+                "feeAccount": {
+                    "required": true,
+                    "hasProperty": "id",
+                    "validateAccount": true
+                },
+                "info": {
+                    "maxLength": 420
+                },
+                "additionalInfo": {
+                    "maxLength": 420
+                },
+                "benefBankCountryCode": {
+                    "checkDB": "country"
+                },
+                "agentBankCountryCode": {
+                    "checkDB": "country"
+                }
+            }
+        },
+        "exposedOrder": {
+            "globalConstraints": {
+                "redBalance": "warn",
+                "uniqueMainFields": "warn"
+            },
+            "constraints": {
+                "number": {
+                    "required": true,
+                    "maxLength": 9
+                },
+                "expireDate": {
+                    "required": true
+                },
+                "account": {
+                    "required": true,
+                    "hasProperty": "id",
+                    "validateAccount": true
+                },
+                "payerName": {
+                    "required": true,
+                    "maxLength": 60
+                },
+                "payerTaxCode": {
+                    "required": true,
+                    "regexp": "numbers",
+                    "maxLength": 12,
+                    "taxCode": true
+                },
+                "payerResidencyCode": {
+                    "required": false,
+                    "maxLength": 2,
+                    "regexp": "residencyCode",
+                    "checkDB": "residencyCodes"
+                },
+                "amount": {
+                    "required": true,
+                    "amountNotNull": true
+                },
+                "purposeCode": {
+                    "required": true,
+                    "maxLength": 3,
+                    "regexp": "numbers",
+                    "checkDB": "purposeCodes"
+                },
+                "purpose": {
+                    "required": true,
+                    "maxLength": 420
+                }
+            }
+        }
+    },
+    "visible": {
+        "handbook_employee": false,
+        "mt": false,
+        "keyboard": false,
+        "editPhone": true,
+        "accOpenClose": true,
+        "fio": true,
+        "departmentsList": true
+    },
+    "settings": {
+        "design": {
+            "chat": {
+                "head": "personal_manager",
+                "body": "Светлана Иванова",
+                "phone": "+7 702 000 00 00"
+            },
+            "accounts": {
+                "flag": true,
+                "all": true
+            },
+            "mainBar": {
+                "fio": "Фамилия И.О."
+            }
+        },
+        "selfRegister": {
+            "customer": {
+                "ownership": "физ. лицо",
+                "bank_branch_id": 1,
+                "country_id": 1,
+                "residency_and_economic_code": 19,
+                "person_type": "PrivatePerson"
+            },
+            "companyPerson": {
+                "signAllow": true,
+                "sign_level": "A",
+                "organizationRole": "head",
+                "role": 1
+            },
+            "authfactor": {
+                "factor": 1,
+                "is_sign_allow": true
+            }
+        },
+        "smsSender": "Demo"
+    },
+    "response": {
+        "code420": {
+            "redirect": "/login/timeout"
+        }
+    },
+    "accounts": {
+        "name": "current_accounts",
+        "filia": true,
+        "transSearch": "search_benefDetails"
+    },
+    "demands": {
+        "numberCategoryInGrid": 0,
+        "visibility": {
+            "createNewButton": true
+        }
+    },
+    "links": {
+        "info": "#",
+        "requisites": "#",
+        "Accountability": "#"
+    },
+    "env": {
+        "port": 8080
+    },
+    "card": {
+        "transaction": {
+            "grid_fields": [
+                "dateCreateProcessing",
+                "transactionType",
+                "status",
+                "broughtForwardBalance",
+                "amountInAccountCurrency",
+                "amountInTransactionCurrency",
+                "carriedForwardBalance",
+                "transactionCurrency",
+                "description",
+                "externalId",
+                "operationPlace"
+            ]
+        }
+    },
+    "mail": {
+        "showCompanyPersonBlock": true
+    },
+    "manager": {
+        "disabledEndpoints": []
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "data": {
+        "id": 51400,
+        "createdAt": "19.09.2023 16:17:03",
+        "updatedAt": "19.09.2023 16:37:16",
+        "firstName": "АЙНУР",
+        "lastName": "ГАЛСАНОВ",
+        "middleName": null,
+        "phone": "77029156111",
+        "bin": "840510499092",
+        "iin": "840510499092",
+        "isFl": false,
+        "companyName": "ИП \"AES GROUP\"",
+        "branchCode": null,
+        "branchId": null,
+        "branchName": null,
+        "email": null,
+        "accounts": [],
+        "status": "VERIFICATION_DONE",
+        "exception": "",
+        "active": true,
+        "emailVerified": false,
+        "fullOnline": false,
+        "managerCode": null,
+        "registrationType": "NEW_CLIENT_IP",
+        "documents": [
+            {
+                "fileName": "_840510499092_2023-09-19T16:37:13.299559900_94348e43-859f-4b99-be38-98b16db2466b_img.jpg",
+                "path": "/reg/files/_840510499092_2023-09-19T16:37:13.299559900_94348e43-859f-4b99-be38-98b16db2466b_img.jpg",
+                "mediaType": "IMAGE",
+                "template": null,
+                "templateName": null
+            },
+            {
+                "fileName": "_840510499092_2023-09-19T16:38:57.663716100_05610db5-d2ef-4b08-92f6-91c22f78004e_img.jpg",
+                "path": "/reg/files/_840510499092_2023-09-19T16:38:57.663716100_05610db5-d2ef-4b08-92f6-91c22f78004e_img.jpg",
+                "mediaType": "IMAGE",
+                "template": null,
+                "templateName": null
+            }
+        ],
+        "livenessResult": {
+            "bin": "840510499092",
+            "result": 0.99,
+            "media": {
+                "fileName": "_840510499092_2023-09-19T16:37:13.299559900_94348e43-859f-4b99-be38-98b16db2466b_img.jpg",
+                "path": "/reg/files/_840510499092_2023-09-19T16:37:13.299559900_94348e43-859f-4b99-be38-98b16db2466b_img.jpg",
+                "mediaType": "IMAGE",
+                "template": null,
+                "templateName": null
+            }
+        }
+    },
+    "error": null,
+    "validationErrors": null,
+    "status": 200,
+    "message": null
+}

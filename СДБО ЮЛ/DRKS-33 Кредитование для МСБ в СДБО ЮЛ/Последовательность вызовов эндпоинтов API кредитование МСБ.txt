@@ -1,0 +1,184 @@
+Переданные от вас
+
+Создание заявки
+curl --location 'https://msbarm-test.kazincombank.kz/proxy/msbarm/api/unsecured_loan/v1/ul/application/init/' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Basic dWxfY2xpZW50Okg0Y0psdXQ2NjJRSXZtMGIx' \
+--data '{
+  "bin": "920108300871",
+  "phone": "+77077100499",
+  "repayment_type": "ANNUITET",
+  "amount": 10000,
+  "term": 1,
+  "state_support": false,
+  "annual_turnover": 10,
+  "loan_type_id": 1,
+  "state_support_type_code": "DAMU",
+  "financing_purpose_type_id": 1,
+  "financing_type_id": 1,
+  "planned_payment_day": 1
+}'
+
+Получение информации по заявки
+curl --location 'https://msbarm-test.kazincombank.kz/proxy/msbarm/api/unsecured_loan/v1/ul/application/6e354858-8de9-4b7c-b8f5-96eee5be4c86' \
+--header 'Authorization: Basic dWxfY2xpZW50Okg0Y0psdXQ2NjJRSXZtMGIx' 
+
+Запрос на подпись заявки
+curl --location --request POST 'https://msbarm-test.kazincombank.kz/proxy/msbarm/api/unsecured_loan/v1/ul/application/84865642-5716-4eaa-931b-7e20cb04941d/sign_and_send/' \
+--header 'Authorization: Basic dWxfY2xpZW50Okg0Y0psdXQ2NjJRSXZtMGIx'
+
+Подтверждение пароля
+curl --location 'https://msbarm-test.kazincombank.kz/proxy/msbarm/api/unsecured_loan/v1/ul/application/84865642-5716-4eaa-931b-7e20cb04941d/verify_sms/' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Basic dWxfY2xpZW50Okg0Y0psdXQ2NjJRSXZtMGIx' \
+--data '{
+    "code": "111111"
+}'
+
+Запрос документов
+curl --location 'https://msbarm-test.kazincombank.kz/proxy/msbarm/api/unsecured_loan/v1/ul/application/6e354858-8de9-4b7c-b8f5-96eee5be4c86/documents' \
+--header 'Authorization: Basic dWxfY2xpZW50Okg0Y0psdXQ2NjJRSXZtMGIx' \
+--data ''
+
+Получение документа
+curl --location 'https://msbarm-test.kazincombank.kz/proxy/msbarm/media/documents/6e354858-8de9-4b7c-b8f5-96eee5be4c86/QUESTIONNAIRE/p279z7qgve42j8w1jx036e8r9/hajbullin_nadzhat_123456789012.docx' \
+--header 'Authorization: Basic dWxfY2xpZW50Okg0Y0psdXQ2NjJRSXZtMGIx'
+
+Запрос истории заявки
+curl --location 'https://msbarm-test.kazincombank.kz/proxy/msbarm/api/unsecured_loan/v1/ul/application/28c70048-4305-4874-85fb-68b96c8b1420/history/' \
+--header 'Authorization: Basic dWxfY2xpZW50Okg0Y0psdXQ2NjJRSXZtMGIx'
+
+Запрос предложений по заявке
+curl --location --request POST 'https://msbarm-test.kazincombank.kz/proxy/msbarm/api/unsecured_loan/v1/ul/application/84865642-5716-4eaa-931b-7e20cb04941d/start_offers_generation/' \
+--header 'Authorization: Basic dWxfY2xpZW50Okg0Y0psdXQ2NjJRSXZtMGIx'
+
+Получение предложений
+curl --location 'https://msbarm-test.kazincombank.kz/proxy/msbarm/api/unsecured_loan/v1/ul/application/84865642-5716-4eaa-931b-7e20cb04941d/offers/' \
+--header 'Authorization: Basic dWxfY2xpZW50Okg0Y0psdXQ2NjJRSXZtMGIx'
+
+Выбор заявки
+curl --location 'https://msbarm-test.kazincombank.kz/proxy/msbarm/api/unsecured_loan/v1/ul/application/84865642-5716-4eaa-931b-7e20cb04941d/select_offer/' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Basic dWxfY2xpZW50Okg0Y0psdXQ2NjJRSXZtMGIx' \
+--data '{
+  "offer_id": 109,
+  "account_id": 28
+}'
+
+Получение счетов
+curl --location 'https://msbarm-test.kazincombank.kz/proxy/msbarm/api/unsecured_loan/v1/ul/application/84865642-5716-4eaa-931b-7e20cb04941d/accounts/' \
+--header 'Authorization: Basic dWxfY2xpZW50Okg0Y0psdXQ2NjJRSXZtMGIx'
+
+Получение подписантов
+curl --location 'https://msbarm-test.kazincombank.kz/proxy/msbarm/api/unsecured_loan/v1/ul/application/84865642-5716-4eaa-931b-7e20cb04941d/signers/' \
+--header 'Authorization: Basic dWxfY2xpZW50Okg0Y0psdXQ2NjJRSXZtMGIx
+
+Отмена заявки
+curl --location --request POST 'https://msbarm-test.kazincombank.kz/proxy/msbarm/api/unsecured_loan/v1/ul/application/6e354858-8de9-4b7c-b8f5-96eee5be4c86/reject/' \
+--header 'Authorization: Basic dWxfY2xpZW50Okg0Y0psdXQ2NjJRSXZtMGIx'
+
+Калькулятор
+curl --location 'https://msbarm-test.kazincombank.kz/proxy/msbarm/api/unsecured_loan/v1/ul/application/calculate/?amount=111111&term=2&repayment_type=ANNUITET&loan_type_id=1&financing_purpose_type_id=1&financing_type_id=1' \
+--header 'Authorization: Basic dWxfY2xpZW50Okg0Y0psdXQ2NjJRSXZtMGIx'
+
+Получение справочников
+curl --location 'https://msbarm-test.kazincombank.kz/proxy/msbarm/api/unsecured_loan/constants/get/' \
+--header 'Authorization: Basic dWxfY2xpZW50Okg0Y0psdXQ2NjJRSXZtMGIx'
+
+Ваши endpoint на нашей стороне
+
+Создание заявки
+curl --location 'https://customer2dev.kazincombank.kz/api/external_loan_conveyor/create' \
+--header 'Authorization: Bearer GCp7ZRyfSoF/1E6tR83h81PNAtCJTPBaPzIr9315DZbrnLyhAxaRQHDk5995p6PVs3/HIz2xvMSYvnCX8A8JQoiq5JkWpQnSBruY0eDs1muLu01Q3r7vYYqsRhKYlNWhLSu8eWTVTsrO9DeEEmqpTCczGmJfQi9vf6NyILYejeD87dKvYptjFXrgImZBgpzmlorBuUG7jYaEnHyBuD+BTDcgZCWlJVF5H4X4PB4dqRu8FW98nQ6/VPGoRN9xpEISj2q2HYKKAS+SYQ1YCULtjcf5ORpTnLVKJ5yhHEcwlEjDbS339+yBa++Db4TXw3hr2zTSZm5SBK3+DMH6f5cNuw9Zrg03nlWAQh3/+HxfMGWYYdyv4Y2HgbMX+qvpWWiphcFr6dQHv4iABnq1sWA7FgsHxWMdsoB9P2iSiVG6+h+p59sj5xP4tHZAdXyKVgg9f3xwaqkcgIggzLzE1kCsxWajVF36Q8BQ3xG2in6otznXTgCMbKrKCrDkc0/MN2o1oWb+vWiWCtSpfaE/xccPw+TI9XEMume8faddsE/Hotu3Kpnk/0XmWpjzzb/d4ZIYz6ZMi05fdbgZIF0f/CLSkKuNdQwIFvK9Djz219bOBi5i0HRcXC7Gyv1BShx+MDPkaujYxKkqSEhrUN+T88dnOYFG9Z4cqiqZGA1Rtgd128k=' \
+--header 'Content-Type: application/json' \
+--data '{
+  "bin": "920108300871",
+  "phone": "+77077100499",
+  "repayment_type": "ANNUITET",
+  "amount": 10000,
+  "term": 1,
+  "state_support": false,
+  "annual_turnover": 10,
+  "loan_type_id": 1,
+  "state_support_type_code": "DAMU",
+  "financing_purpose_type_id": 1,
+  "financing_type_id": 1,
+  "planned_payment_day": 1
+}'
+
+Получение информации по заявки
+curl --location 'https://customer2dev.kazincombank.kz/api/external_loan_conveyor/statement/56dbfc5f-2a0b-4240-a2c3-b93b6a5b047e' \
+--header 'Authorization: Bearer GCp7ZRyfSoF/1E6tR83h81PNAtCJTPBaPzIr9315DZbrnLyhAxaRQHDk5995p6PVs3/HIz2xvMSYvnCX8A8JQoiq5JkWpQnSBruY0eDs1muLu01Q3r7vYYqsRhKYlNWhLSu8eWTVTsrO9DeEEmqpTCczGmJfQi9vf6NyILYejeD87dKvYptjFXrgImZBgpzmlorBuUG7jYaEnHyBuD+BTDcgZCWlJVF5H4X4PB4dqRu8FW98nQ6/VPGoRN9xpEISj2q2HYKKAS+SYQ1YCULtjcf5ORpTnLVKJ5yhHEcwlEjDbS339+yBa++Db4TXw3hr2zTSZm5SBK3+DMH6f5cNuw9Zrg03nlWAQh3/+HxfMGWYYdyv4Y2HgbMX+qvpWWiphcFr6dQHv4iABnq1sWA7FgsHxWMdsoB9P2iSiVG6+h+p59sj5xP4tHZAdXyKVgg9f3xwaqkcgIggzLzE1kCsxWajVF36Q8BQ3xG2in6otznXTgCMbKrKCrDkc0/MN2o1oWb+vWiWCtSpfaE/xccPw+TI9XEMume8faddsE/Hotu3Kpnk/0XmWpjzzb/d4ZIYz6ZMi05fdbgZIF0f/CLSkKuNdQwIFvK9Djz219bOBi5i0HRcXC7Gyv1BShx+MDPkaujYxKkqSEhrUN+T88dnOYFG9Z4cqiqZGA1Rtgd128k='
+
+Отмена заявки
+curl --location --request POST 'https://customer2dev.kazincombank.kz/api/external_loan_conveyor/statement/56dbfc5f-2a0b-4240-a2c3-b93b6a5b047e/reject' \
+--header 'Authorization: Bearer GCp7ZRyfSoF/1E6tR83h81PNAtCJTPBaPzIr9315DZbrnLyhAxaRQHDk5995p6PVs3/HIz2xvMSYvnCX8A8JQoiq5JkWpQnSBruY0eDs1muLu01Q3r7vYYqsRhKYlNWhLSu8eWTVTsrO9DeEEmqpTCczGmJfQi9vf6NyILYejeD87dKvYptjFXrgImZBgpzmlorBuUG7jYaEnHyBuD+BTDcgZCWlJVF5H4X4PB4dqRu8FW98nQ6/VPGoRN9xpEISj2q2HYKKAS+SYQ1YCULtjcf5ORpTnLVKJ5yhHEcwlEjDbS339+yBa++Db4TXw3hr2zTSZm5SBK3+DMH6f5cNuw9Zrg03nlWAQh3/+HxfMGWYYdyv4Y2HgbMX+qvpWWiphcFr6dQHv4iABnq1sWA7FgsHxWMdsoB9P2iSiVG6+h+p59sj5xP4tHZAdXyKVgg9f3xwaqkcgIggzLzE1kCsxWajVF36Q8BQ3xG2in6otznXTgCMbKrKCrDkc0/MN2o1oWb+vWiWCtSpfaE/xccPw+TI9XEMume8faddsE/Hotu3Kpnk/0XmWpjzzb/d4ZIYz6ZMi05fdbgZIF0f/CLSkKuNdQwIFvK9Djz219bOBi5i0HRcXC7Gyv1BShx+MDPkaujYxKkqSEhrUN+T88dnOYFG9Z4cqiqZGA1Rtgd128k='
+
+Запрос ссылок на документы
+curl --location 'https://customer2dev.kazincombank.kz/api/external_loan_conveyor/statement/1bdc73ff-aa26-424a-89b5-9f2140532552/documents' \
+--header 'Authorization: Bearer GCp7ZRyfSoF/1E6tR83h81PNAtCJTPBaPzIr9315DZbrnLyhAxaRQHDk5995p6PVs3/HIz2xvMSYvnCX8A8JQoiq5JkWpQnSBruY0eDs1muLu01Q3r7vYYqsRhKYlNWhLSu8eWTVTsrO9DeEEmqpTCczGmJfQi9vf6NyILYejeD87dKvYptjFXrgImZBgpzmlorBuUG7jYaEnHyBuD+BTDcgZCWlJVF5H4X4PB4dqRu8FW98nQ6/VPGoRN9xpEISj2q2HYKKAS+SYQ1YCULtjcf5ORpTnLVKJ5yhHEcwlEjDbS339+yBa++Db4TXw3hr2zTSZm5SBK3+DMH6f5cNuw9Zrg03nlWAQh3/+HxfMGWYYdyv4Y2HgbMX+qvpWWiphcFr6dQHv4iABnq1sWA7FgsHxWMdsoB9P2iSiVG6+h+p59sj5xP4tHZAdXyKVgg9f3xwaqkcgIggzLzE1kCsxWajVF36Q8BQ3xG2in6otznXTgCMbKrKCrDkc0/MN2o1oWb+vWiWCtSpfaE/xccPw+TI9XEMume8faddsE/Hotu3Kpnk/0XmWpjzzb/d4ZIYz6ZMi05fdbgZIF0f/CLSkKuNdQwIFvK9Djz219bOBi5i0HRcXC7Gyv1BShx+MDPkaujYxKkqSEhrUN+T88dnOYFG9Z4cqiqZGA1Rtgd128k='
+
+Получение документа
+curl --location 'https://customer2dev.kazincombank.kz/api/external_loan_conveyor/document?path=%2Fmedia%2Fdocuments%2F1bdc73ff-aa26-424a-89b5-9f2140532552%2FQUESTIONNAIRE%2Fomzzgqtb501syafw0n9g8q3fe%2Fhajbullin_nadzhat_123456789012.pdf' \
+--header 'Authorization: Bearer GCp7ZRyfSoF/1E6tR83h81PNAtCJTPBaPzIr9315DZbrnLyhAxaRQHDk5995p6PVs3/HIz2xvMSYvnCX8A8JQoiq5JkWpQnSBruY0eDs1muLu01Q3r7vYYqsRhKYlNWhLSu8eWTVTsrO9DeEEmqpTCczGmJfQi9vf6NyILYejeD87dKvYptjFXrgImZBgpzmlorBuUG7jYaEnHyBuD+BTDcgZCWlJVF5H4X4PB4dqRu8FW98nQ6/VPGoRN9xpEISj2q2HYKKAS+SYQ1YCULtjcf5ORpTnLVKJ5yhHEcwlEjDbS339+yBa++Db4TXw3hr2zTSZm5SBK3+DMH6f5cNuw9Zrg03nlWAQh3/+HxfMGWYYdyv4Y2HgbMX+qvpWWiphcFr6dQHv4iABnq1sWA7FgsHxWMdsoB9P2iSiVG6+h+p59sj5xP4tHZAdXyKVgg9f3xwaqkcgIggzLzE1kCsxWajVF36Q8BQ3xG2in6otznXTgCMbKrKCrDkc0/MN2o1oWb+vWiWCtSpfaE/xccPw+TI9XEMume8faddsE/Hotu3Kpnk/0XmWpjzzb/d4ZIYz6ZMi05fdbgZIF0f/CLSkKuNdQwIFvK9Djz219bOBi5i0HRcXC7Gyv1BShx+MDPkaujYxKkqSEhrUN+T88dnOYFG9Z4cqiqZGA1Rtgd128k='
+
+Запрос предложений по заявке
+curl --location --request POST 'https://customer2dev.kazincombank.kz/api/external_loan_conveyor/statement/56dbfc5f-2a0b-4240-a2c3-b93b6a5b047e/start_offers_generation/' \
+--header 'Authorization: Bearer GCp7ZRyfSoF/1E6tR83h81PNAtCJTPBaPzIr9315DZbrnLyhAxaRQHDk5995p6PVs3/HIz2xvMSYvnCX8A8JQoiq5JkWpQnSBruY0eDs1muLu01Q3r7vYYqsRhKYlNWhLSu8eWTVTsrO9DeEEmqpTCczGmJfQi9vf6NyILYejeD87dKvYptjFXrgImZBgpzmlorBuUG7jYaEnHyBuD+BTDcgZCWlJVF5H4X4PB4dqRu8FW98nQ6/VPGoRN9xpEISj2q2HYKKAS+SYQ1YCULtjcf5ORpTnLVKJ5yhHEcwlEjDbS339+yBa++Db4TXw3hr2zTSZm5SBK3+DMH6f5cNuw9Zrg03nlWAQh3/+HxfMGWYYdyv4Y2HgbMX+qvpWWiphcFr6dQHv4iABnq1sWA7FgsHxWMdsoB9P2iSiVG6+h+p59sj5xP4tHZAdXyKVgg9f3xwaqkcgIggzLzE1kCsxWajVF36Q8BQ3xG2in6otznXTgCMbKrKCrDkc0/MN2o1oWb+vWiWCtSpfaE/xccPw+TI9XEMume8faddsE/Hotu3Kpnk/0XmWpjzzb/d4ZIYz6ZMi05fdbgZIF0f/CLSkKuNdQwIFvK9Djz219bOBi5i0HRcXC7Gyv1BShx+MDPkaujYxKkqSEhrUN+T88dnOYFG9Z4cqiqZGA1Rtgd128k='
+
+Получение предложений
+curl --location 'https://customer2dev.kazincombank.kz/api/external_loan_conveyor/statement/56dbfc5f-2a0b-4240-a2c3-b93b6a5b047e/offers' \
+--header 'Authorization: Bearer GCp7ZRyfSoF/1E6tR83h81PNAtCJTPBaPzIr9315DZbrnLyhAxaRQHDk5995p6PVs3/HIz2xvMSYvnCX8A8JQoiq5JkWpQnSBruY0eDs1muLu01Q3r7vYYqsRhKYlNWhLSu8eWTVTsrO9DeEEmqpTCczGmJfQi9vf6NyILYejeD87dKvYptjFXrgImZBgpzmlorBuUG7jYaEnHyBuD+BTDcgZCWlJVF5H4X4PB4dqRu8FW98nQ6/VPGoRN9xpEISj2q2HYKKAS+SYQ1YCULtjcf5ORpTnLVKJ5yhHEcwlEjDbS339+yBa++Db4TXw3hr2zTSZm5SBK3+DMH6f5cNuw9Zrg03nlWAQh3/+HxfMGWYYdyv4Y2HgbMX+qvpWWiphcFr6dQHv4iABnq1sWA7FgsHxWMdsoB9P2iSiVG6+h+p59sj5xP4tHZAdXyKVgg9f3xwaqkcgIggzLzE1kCsxWajVF36Q8BQ3xG2in6otznXTgCMbKrKCrDkc0/MN2o1oWb+vWiWCtSpfaE/xccPw+TI9XEMume8faddsE/Hotu3Kpnk/0XmWpjzzb/d4ZIYz6ZMi05fdbgZIF0f/CLSkKuNdQwIFvK9Djz219bOBi5i0HRcXC7Gyv1BShx+MDPkaujYxKkqSEhrUN+T88dnOYFG9Z4cqiqZGA1Rtgd128k='
+
+Выбор заявки
+curl --location 'https://customer2dev.kazincombank.kz/api/external_loan_conveyor/statement/6e354858-8de9-4b7c-b8f5-96eee5be4c86/select_offer/' \
+--header 'Authorization: Bearer GCp7ZRyfSoF/1E6tR83h81PNAtCJTPBaPzIr9315DZbrnLyhAxaRQHDk5995p6PVs3/HIz2xvMSYvnCX8A8JQoiq5JkWpQnSBruY0eDs1muLu01Q3r7vYYqsRhKYlNWhLSu8eWTVTsrO9DeEEmqpTCczGmJfQi9vf6NyILYejeD87dKvYptjFXrgImZBgpzmlorBuUG7jYaEnHyBuD+BTDcgZCWlJVF5H4X4PB4dqRu8FW98nQ6/VPGoRN9xpEISj2q2HYKKAS+SYQ1YCULtjcf5ORpTnLVKJ5yhHEcwlEjDbS339+yBa++Db4TXw3hr2zTSZm5SBK3+DMH6f5cNuw9Zrg03nlWAQh3/+HxfMGWYYdyv4Y2HgbMX+qvpWWiphcFr6dQHv4iABnq1sWA7FgsHxWMdsoB9P2iSiVG6+h+p59sj5xP4tHZAdXyKVgg9f3xwaqkcgIggzLzE1kCsxWajVF36Q8BQ3xG2in6otznXTgCMbKrKCrDkc0/MN2o1oWb+vWiWCtSpfaE/xccPw+TI9XEMume8faddsE/Hotu3Kpnk/0XmWpjzzb/d4ZIYz6ZMi05fdbgZIF0f/CLSkKuNdQwIFvK9Djz219bOBi5i0HRcXC7Gyv1BShx+MDPkaujYxKkqSEhrUN+T88dnOYFG9Z4cqiqZGA1Rtgd128k=' \
+--header 'Content-Type: application/json' \
+--data '{
+  "offer_id": 109,
+  "account_id": 28
+}'
+
+Получение счетов
+curl --location 'https://customer2dev.kazincombank.kz/api/external_loan_conveyor/statement/84865642-5716-4eaa-931b-7e20cb04941d/accounts' \
+--header 'Authorization: Bearer GCp7ZRyfSoF/1E6tR83h81PNAtCJTPBaPzIr9315DZbrnLyhAxaRQHDk5995p6PVs3/HIz2xvMSYvnCX8A8JQoiq5JkWpQnSBruY0eDs1muLu01Q3r7vYYqsRhKYlNWhLSu8eWTVTsrO9DeEEmqpTCczGmJfQi9vf6NyILYejeD87dKvYptjFXrgImZBgpzmlorBuUG7jYaEnHyBuD+BTDcgZCWlJVF5H4X4PB4dqRu8FW98nQ6/VPGoRN9xpEISj2q2HYKKAS+SYQ1YCULtjcf5ORpTnLVKJ5yhHEcwlEjDbS339+yBa++Db4TXw3hr2zTSZm5SBK3+DMH6f5cNuw9Zrg03nlWAQh3/+HxfMGWYYdyv4Y2HgbMX+qvpWWiphcFr6dQHv4iABnq1sWA7FgsHxWMdsoB9P2iSiVG6+h+p59sj5xP4tHZAdXyKVgg9f3xwaqkcgIggzLzE1kCsxWajVF36Q8BQ3xG2in6otznXTgCMbKrKCrDkc0/MN2o1oWb+vWiWCtSpfaE/xccPw+TI9XEMume8faddsE/Hotu3Kpnk/0XmWpjzzb/d4ZIYz6ZMi05fdbgZIF0f/CLSkKuNdQwIFvK9Djz219bOBi5i0HRcXC7Gyv1BShx+MDPkaujYxKkqSEhrUN+T88dnOYFG9Z4cqiqZGA1Rtgd128k='
+
+Получение подписантов
+curl --location 'https://customer2dev.kazincombank.kz/api/external_loan_conveyor/statement/84865642-5716-4eaa-931b-7e20cb04941d/signers' \
+--header 'Authorization: Bearer GCp7ZRyfSoF/1E6tR83h81PNAtCJTPBaPzIr9315DZbrnLyhAxaRQHDk5995p6PVs3/HIz2xvMSYvnCX8A8JQoiq5JkWpQnSBruY0eDs1muLu01Q3r7vYYqsRhKYlNWhLSu8eWTVTsrO9DeEEmqpTCczGmJfQi9vf6NyILYejeD87dKvYptjFXrgImZBgpzmlorBuUG7jYaEnHyBuD+BTDcgZCWlJVF5H4X4PB4dqRu8FW98nQ6/VPGoRN9xpEISj2q2HYKKAS+SYQ1YCULtjcf5ORpTnLVKJ5yhHEcwlEjDbS339+yBa++Db4TXw3hr2zTSZm5SBK3+DMH6f5cNuw9Zrg03nlWAQh3/+HxfMGWYYdyv4Y2HgbMX+qvpWWiphcFr6dQHv4iABnq1sWA7FgsHxWMdsoB9P2iSiVG6+h+p59sj5xP4tHZAdXyKVgg9f3xwaqkcgIggzLzE1kCsxWajVF36Q8BQ3xG2in6otznXTgCMbKrKCrDkc0/MN2o1oWb+vWiWCtSpfaE/xccPw+TI9XEMume8faddsE/Hotu3Kpnk/0XmWpjzzb/d4ZIYz6ZMi05fdbgZIF0f/CLSkKuNdQwIFvK9Djz219bOBi5i0HRcXC7Gyv1BShx+MDPkaujYxKkqSEhrUN+T88dnOYFG9Z4cqiqZGA1Rtgd128k='
+
+Отмена заявки
+curl --location --request POST 'https://customer2dev.kazincombank.kz/api/external_loan_conveyor/statement/56dbfc5f-2a0b-4240-a2c3-b93b6a5b047e/reject' \
+--header 'Authorization: Bearer GCp7ZRyfSoF/1E6tR83h81PNAtCJTPBaPzIr9315DZbrnLyhAxaRQHDk5995p6PVs3/HIz2xvMSYvnCX8A8JQoiq5JkWpQnSBruY0eDs1muLu01Q3r7vYYqsRhKYlNWhLSu8eWTVTsrO9DeEEmqpTCczGmJfQi9vf6NyILYejeD87dKvYptjFXrgImZBgpzmlorBuUG7jYaEnHyBuD+BTDcgZCWlJVF5H4X4PB4dqRu8FW98nQ6/VPGoRN9xpEISj2q2HYKKAS+SYQ1YCULtjcf5ORpTnLVKJ5yhHEcwlEjDbS339+yBa++Db4TXw3hr2zTSZm5SBK3+DMH6f5cNuw9Zrg03nlWAQh3/+HxfMGWYYdyv4Y2HgbMX+qvpWWiphcFr6dQHv4iABnq1sWA7FgsHxWMdsoB9P2iSiVG6+h+p59sj5xP4tHZAdXyKVgg9f3xwaqkcgIggzLzE1kCsxWajVF36Q8BQ3xG2in6otznXTgCMbKrKCrDkc0/MN2o1oWb+vWiWCtSpfaE/xccPw+TI9XEMume8faddsE/Hotu3Kpnk/0XmWpjzzb/d4ZIYz6ZMi05fdbgZIF0f/CLSkKuNdQwIFvK9Djz219bOBi5i0HRcXC7Gyv1BShx+MDPkaujYxKkqSEhrUN+T88dnOYFG9Z4cqiqZGA1Rtgd128k='
+
+Калькулятор
+curl --location 'https://customer2dev.kazincombank.kz/api/external_loan_conveyor/calculate?amount=111111&term=2&repayment_type=ANNUITET&loan_type_id=1&financing_purpose_type_id=1&financing_type_id=1' \
+--header 'Authorization: Bearer GCp7ZRyfSoF/1E6tR83h81PNAtCJTPBaPzIr9315DZbrnLyhAxaRQHDk5995p6PVs3/HIz2xvMSYvnCX8A8JQoiq5JkWpQnSBruY0eDs1muLu01Q3r7vYYqsRhKYlNWhLSu8eWTVTsrO9DeEEmqpTCczGmJfQi9vf6NyILYejeD87dKvYptjFXrgImZBgpzmlorBuUG7jYaEnHyBuD+BTDcgZCWlJVF5H4X4PB4dqRu8FW98nQ6/VPGoRN9xpEISj2q2HYKKAS+SYQ1YCULtjcf5ORpTnLVKJ5yhHEcwlEjDbS339+yBa++Db4TXw3hr2zTSZm5SBK3+DMH6f5cNuw9Zrg03nlWAQh3/+HxfMGWYYdyv4Y2HgbMX+qvpWWiphcFr6dQHv4iABnq1sWA7FgsHxWMdsoB9P2iSiVG6+h+p59sj5xP4tHZAdXyKVgg9f3xwaqkcgIggzLzE1kCsxWajVF36Q8BQ3xG2in6otznXTgCMbKrKCrDkc0/MN2o1oWb+vWiWCtSpfaE/xccPw+TI9XEMume8faddsE/Hotu3Kpnk/0XmWpjzzb/d4ZIYz6ZMi05fdbgZIF0f/CLSkKuNdQwIFvK9Djz219bOBi5i0HRcXC7Gyv1BShx+MDPkaujYxKkqSEhrUN+T88dnOYFG9Z4cqiqZGA1Rtgd128k='
+
+Получение справочников
+curl --location 'https://customer2dev.kazincombank.kz/api/external_loan_conveyor/constants' \
+--header 'Authorization: Bearer GCp7ZRyfSoF/1E6tR83h81PNAtCJTPBaPzIr9315DZbrnLyhAxaRQHDk5995p6PVs3/HIz2xvMSYvnCX8A8JQoiq5JkWpQnSBruY0eDs1muLu01Q3r7vYYqsRhKYlNWhLSu8eWTVTsrO9DeEEmqpTCczGmJfQi9vf6NyILYejeD87dKvYptjFXrgImZBgpzmlorBuUG7jYaEnHyBuD+BTDcgZCWlJVF5H4X4PB4dqRu8FW98nQ6/VPGoRN9xpEISj2q2HYKKAS+SYQ1YCULtjcf5ORpTnLVKJ5yhHEcwlEjDbS339+yBa++Db4TXw3hr2zTSZm5SBK3+DMH6f5cNuw9Zrg03nlWAQh3/+HxfMGWYYdyv4Y2HgbMX+qvpWWiphcFr6dQHv4iABnq1sWA7FgsHxWMdsoB9P2iSiVG6+h+p59sj5xP4tHZAdXyKVgg9f3xwaqkcgIggzLzE1kCsxWajVF36Q8BQ3xG2in6otznXTgCMbKrKCrDkc0/MN2o1oWb+vWiWCtSpfaE/xccPw+TI9XEMume8faddsE/Hotu3Kpnk/0XmWpjzzb/d4ZIYz6ZMi05fdbgZIF0f/CLSkKuNdQwIFvK9Djz219bOBi5i0HRcXC7Gyv1BShx+MDPkaujYxKkqSEhrUN+T88dnOYFG9Z4cqiqZGA1Rtgd128k='
+
+Полностью наши 
+Создание заявки на стороне ul
+curl --location 'https://customer2dev.kazincombank.kz/api/loan-conveyor-statement/create' \
+--header 'Authorization: Bearer cLmIN/EGt2KqQAu/SPJ5OYG2ziSuk82zmMfEl19d/CXpCFGFV+u18vZbNBLXJ+oJo5Gh2l3vDjOVs9TUIwRL68k3H6GyZm4zhVHVFQdOh3nzxt8u1us+8yqroNnMqdLjI7WRytw/yI1pRNfTEZ46Bf91GAlbsuHGuCFpNGvJStEPel9TSkVzUe+IObUYEnZBOQUuPoT1Icx4KX/Uj1EqKk0gvWCiZUJFGGF18L8Ss9dcZyi0kFlsDxP2Ho41u50Qh2xzRVjJ/xnH9nO7M3/dWLCCZLvicwb0IhibBoy4D2F6ajF5qvheHyqwju4KDnmWbtnGZyhsxvcbJ4YKWtIDi6NlDp8uZV5F7nmhrKTBVh+nnSYEut7c8YbNCRtNOQS4N9VxPLGFNmXGZ8ajkqncnclShc9+XII95qlTKMNkHs+Ka9acjz2PUKq4RbP9aIiHoV9Zfk04ff205mqiQUnEzkLvNX5ufXv7+bMCUnegSySGa8O8aQB1zWSKePidaexKa5IZyMQ1XZdaFJyzErin7QG87XowtlqVD1TsXLi5tU2PYuAf1gZ+YKhWdmwK2MGA5maVZOeduAhrHofAoXGC9A58vc/lEY5u5IYhamdYDmMvBELaOM/W13iPoGnBRogDZZwzJFB477CG+OPhc3aF4ht1YcZgMNvMlPP+lcCETAc=' \
+--header 'Content-Type: application/json' \
+--data '{
+    "uuid":"b097e6be-4845-4e14-83b0-0c5382ebce90"
+}'
+
+Просмотр заявок
+curl --location 'https://customer2dev.kazincombank.kz/api/loan-conveyor-statement/?order=desc&sort=id&page=0&size=10' \
+--header 'Authorization: Bearer WghoOfAoPFRMCXBG4Ov2O17BXb9TlMv5szk3shTWqkZKFw37wUSng6h2W+E2/uW2H6n/qcBipfpOEJhnj+r6NB/iPtF5aVfspuoJJo/ilGwLG9eganFAjqQBN1mJJ2VJ4GqSHNWpPhZ9KPpTkIFS9BP4lcYb6/V7O5PZUks2zjwj9LfMxBSlbhgc/bNNwJyo/iyWXIhXyoj59rxK9ebV56dtKvjC57EIsC7xvsZUlwqU3AgT0dyPBmNufZ+IKwwrnp3yd54gqOYFKHGZTNbx+fo21Nw/uARXLu3wAoHxYmLBUjdAkLzaxlrN+Cd+w1TY1TSuytxEClM70ohEIMJk17OcbSSM62q7c1OpF+xE2yVWN9bNLb3uhkLJxmgPvP3M5uYnsCdqipTNnMihHzoqTRushaB4Gn4aVJa53Mx3FRXQBKYORxFV4mN+pnH1QnCKXTFVsthgwQOffSLUGNcmOKjTIkHc7ubz5TTmjUUN5mpbNyI2EaZVZTa7Uax5EvCgbWwpq1syPtDRW4Us1c8W0uyjQYQqECYREB6JddfP7rmzFWN7yMAnYj/lzHems1dbZAFVCfDpW6tgqZu+ykx7E6e27mAXDR8ARAyE6DWRSLMaRoGJ3K/zIYjJ6O6G1OFhqarkSKwY9mWC5bKmcS5iqwM/7wb9QTnx0Rq9/uoMtG0=' \
+--data ''
+
+Endpoint по изменению состояния на стороне UL когда появились предложения
+curl --location 'https://customer2dev.kazincombank.kz/api/loan-conveyor-statement/change-status-statement' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Basic Q29udGVudGFkbTE6RGQxMTExMTEh' \
+--data '{
+    "uuid":"6e354858-8de9-4b7c-b8f5-96eee5be4c86",
+    "message":"Плохая кредитная история",
+    "status":0
+}'

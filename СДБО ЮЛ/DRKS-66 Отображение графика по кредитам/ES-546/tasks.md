@@ -1,0 +1,165 @@
+СДБО ЮЛ запрашивает строки для вывода на фронт:
+
+| Название поля  | Тип данных | Описание поля                                                                                     |
+| -------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------- |
+| amountOfForthcomingPayment | double              | Общая сумма гашения                                                                          |
+| amountOfLoanToMaturity     | double              | Сумма гашения основного долга                                                       |
+| amountOfLoanToMaturity     | double              | Сумма гашения процентов                                                                  |
+| comiss                     | double              | Комиссии не относящиеся к основной, но должны быть погашены |
+| creditId                   | double              | ID кредита                                                                                             |
+| date                       | DtatTime            | Дата гашения                                                                                       |
+| principalBalance           | double              | Остаток баланса                                                                                 |
+
+```xml
+<amountOfForthcomingPayment>866059.78</amountOfForthcomingPayment> - Общая сумма гашения 
+<amountOfLoanToMaturity>798004.22</amountOfLoanToMaturity> - Сумма гашения основного долга
+<amountOfRemunerToMaturity>68055.56</amountOfRemunerToMaturity> - Сумма гашения процентов
+<comiss>0.00</comiss> - Комиссии не относящиеся к основной, но должны быть погашены
+<creditId>114365782363</creditId> - ID кредита
+<date>2023-01-05</date> - Дата гашения
+</principalBalance>9201995.78</principalBalance> - Остаток баланса
+```
+
+Пример исходящего ответа:
+
+```xml
+<root>
+<response id="TEST-0000003" system="sdboul" type="request" operation="credSchedUl" code="0">
+<body>
+<elements>
+<element>
+<num>1</num>
+<amountOfForthcomingPayment/>
+<amountOfLoanToMaturity/>
+<amountOfRemunerToMaturity/>
+<comiss>0.00</comiss>
+<creditId>114365782363</creditId>
+<date>2022-11-30</date>
+<principalBalance>10000000.00</principalBalance>
+</element>
+<element>
+<num>2</num>
+<amountOfForthcomingPayment>866059.78</amountOfForthcomingPayment>
+<amountOfLoanToMaturity>798004.22</amountOfLoanToMaturity>
+<amountOfRemunerToMaturity>68055.56</amountOfRemunerToMaturity>
+<comiss>0.00</comiss>
+<creditId>114365782363</creditId>
+<date>2023-01-05</date>
+<principalBalance>9201995.78</principalBalance>
+</element>
+<element>
+<num>3</num>
+<amountOfForthcomingPayment>866059.78</amountOfForthcomingPayment>
+<amountOfLoanToMaturity>810592.19</amountOfLoanToMaturity>
+<amountOfRemunerToMaturity>55467.59</amountOfRemunerToMaturity>
+<comiss>0.00</comiss>
+<creditId>114365782363</creditId>
+<date>2023-02-06</date>
+<principalBalance>8391403.59</principalBalance>
+</element>
+<element>
+<num>4</num>
+<amountOfForthcomingPayment>866059.78</amountOfForthcomingPayment>
+<amountOfLoanToMaturity>817109.93</amountOfLoanToMaturity>
+<amountOfRemunerToMaturity>48949.85</amountOfRemunerToMaturity>
+<comiss>0.00</comiss>
+<creditId>114365782363</creditId>
+<date>2023-03-06</date>
+<principalBalance>7574293.66</principalBalance>
+</element>
+<element>
+<num>5</num>
+<amountOfForthcomingPayment>866059.78</amountOfForthcomingPayment>
+<amountOfLoanToMaturity>823349.18</amountOfLoanToMaturity>
+<amountOfRemunerToMaturity>42710.60</amountOfRemunerToMaturity>
+<comiss>0.00</comiss>
+<creditId>114365782363</creditId>
+<date>2023-04-05</date>
+<principalBalance>6750944.48</principalBalance>
+</element>
+<element>
+<num>6</num>
+<amountOfForthcomingPayment>866059.78</amountOfForthcomingPayment>
+<amountOfLoanToMaturity>826679.27</amountOfLoanToMaturity>
+<amountOfRemunerToMaturity>39380.51</amountOfRemunerToMaturity>
+<comiss>0.00</comiss>
+<creditId>114365782363</creditId>
+<date>2023-05-05</date>
+<principalBalance>5924265.21</principalBalance>
+</element>
+<element>
+<num>7</num>
+<amountOfForthcomingPayment>866059.78</amountOfForthcomingPayment>
+<amountOfLoanToMaturity>831501.57</amountOfLoanToMaturity>
+<amountOfRemunerToMaturity>34558.21</amountOfRemunerToMaturity>
+<comiss>0.00</comiss>
+<creditId>114365782363</creditId>
+<date>2023-06-05</date>
+<principalBalance>5092763.64</principalBalance>
+</element>
+<element>
+<num>8</num>
+<amountOfForthcomingPayment>866059.78</amountOfForthcomingPayment>
+<amountOfLoanToMaturity>836351.99</amountOfLoanToMaturity>
+<amountOfRemunerToMaturity>29707.79</amountOfRemunerToMaturity>
+<comiss>0.00</comiss>
+<creditId>114365782363</creditId>
+<date>2023-07-05</date>
+<principalBalance>4256411.65</principalBalance>
+</element>
+<element>
+<num>9</num>
+<amountOfForthcomingPayment>866059.78</amountOfForthcomingPayment>
+<amountOfLoanToMaturity>839575.44</amountOfLoanToMaturity>
+<amountOfRemunerToMaturity>26484.34</amountOfRemunerToMaturity>
+<comiss>0.00</comiss>
+<creditId>114365782363</creditId>
+<date>2023-08-07</date>
+<principalBalance>3416836.21</principalBalance>
+</element>
+<element>
+<num>10</num>
+<amountOfForthcomingPayment>866059.78</amountOfForthcomingPayment>
+<amountOfLoanToMaturity>847457.01</amountOfLoanToMaturity>
+<amountOfRemunerToMaturity>18602.77</amountOfRemunerToMaturity>
+<comiss>0.00</comiss>
+<creditId>114365782363</creditId>
+<date>2023-09-05</date>
+<principalBalance>2569379.20</principalBalance>
+</element>
+<element>
+<num>11</num>
+<amountOfForthcomingPayment>866059.78</amountOfForthcomingPayment>
+<amountOfLoanToMaturity>851071.73</amountOfLoanToMaturity>
+<amountOfRemunerToMaturity>14988.05</amountOfRemunerToMaturity>
+<comiss>0.00</comiss>
+<creditId>114365782363</creditId>
+<date>2023-10-05</date>
+<principalBalance>1718307.47</principalBalance>
+</element>
+<element>
+<num>12</num>
+<amountOfForthcomingPayment>866059.78</amountOfForthcomingPayment>
+<amountOfLoanToMaturity>855702.20</amountOfLoanToMaturity>
+<amountOfRemunerToMaturity>10357.58</amountOfRemunerToMaturity>
+<comiss>0.00</comiss>
+<creditId>114365782363</creditId>
+<date>2023-11-06</date>
+<principalBalance>862605.27</principalBalance>
+</element>
+<element>
+<num>13</num>
+<amountOfForthcomingPayment>866630.76</amountOfForthcomingPayment>
+<amountOfLoanToMaturity>862605.27</amountOfLoanToMaturity>
+<amountOfRemunerToMaturity>4025.49</amountOfRemunerToMaturity>
+<comiss>0.00</comiss>
+<creditId>114365782363</creditId>
+<date>2023-11-30</date>
+<principalBalance>0.00</principalBalance>
+</element>
+</elements>
+</body>
+<hermesId>145618641585</hermesId>
+</response>
+</root>
+```

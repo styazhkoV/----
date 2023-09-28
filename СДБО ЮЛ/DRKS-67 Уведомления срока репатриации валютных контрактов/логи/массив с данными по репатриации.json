@@ -1,0 +1,53 @@
+{
+    "status": {
+        "id": null,
+        "code": "1",
+        "label": "Работает",
+        "subCode": "1",
+        "subLabel": "Работает",
+        "category": null,
+        "deleted": false
+    },
+    "id": 43935,
+    "externalId": "112761358199",
+    "customerId": 211,
+    "customerTaxCode": null,
+    "contractNumber": "АКТ 39",
+    "contractDate": "17.11.2022",
+    "conContractNumber": null,
+    "conContractNumberDate": null,
+    "contractAmount": 1720865.6,
+    "contractCurrency": "RUB",
+    "contractPayCur": "RUB",
+    "endDate": null,
+    "counterparty": "ООО НТР",
+    "balance": 0,
+    "paymentCurrency": "RUB",
+    "actions": [
+        "details",
+        "intTransferOrder",
+        "conversion",
+        "viewOperations"
+    ],
+    "demandActions": [
+        {
+            "action": "assignUNK",
+            "demandTypeId": 81,
+            "privilege": "currency_contracts_new",
+            "label": null
+        }
+    ],
+    "alias": "Контракт по импорту без УНК",
+    "defaultAlias": null,
+    "displayOrder": 1,
+    "visible": true,
+    "customerName": null,
+    "lastDate": null,
+    "repatr": "180.00",
+    "contragentCountry": "РОССИЯ",
+    "plat": 1720865.6,
+    "gtd": 0,
+    "delta": 1720865.6,
+    "contractType": "Контракт по импорту без УНК",
+    "contractSale": null
+}
