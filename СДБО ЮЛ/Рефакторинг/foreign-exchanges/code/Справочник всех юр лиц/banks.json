@@ -1,0 +1,806 @@
+{
+  "rows" : [ {
+    "id" : 111430,
+    "internationalBankBik" : "AAACKWKWXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "KW",
+    "bankName" : "AL MUZAINI EXCHANGE CO. KSCC",
+    "internationalBankName" : "AL MUZAINI EXCHANGE CO. KSCC {BUILDING 9BLOCK 4SAUD BIN ABDULAZIZ ST. 13022 KUWAIT KUWAIT POB 215613022 KUWAIT}",
+    "city" : "KUWAIT"
+  }, {
+    "id" : 111431,
+    "internationalBankBik" : "AAALSARIALK",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "SA",
+    "bankName" : "SAUDI BRITISH BANK, THE (FORMERLY ALAWWAL BANK)EASTERN AREA ALKHOBAR",
+    "internationalBankName" : "SAUDI BRITISH BANK, THE (FORMERLY ALAWWAL BANK)EASTERN AREA ALKHOBAR {ALKHOBAR SAUDI ARABIA}",
+    "city" : "ALKHOBAR"
+  }, {
+    "id" : 111432,
+    "internationalBankBik" : "AAALSARICTD",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "SA",
+    "bankName" : "SAUDI BRITISH BANK, THE (FORMERLY ALAWWAL BANK)CENTRAL TREASURY DEPT.",
+    "internationalBankName" : "SAUDI BRITISH BANK, THE (FORMERLY ALAWWAL BANK)CENTRAL TREASURY DEPT. {RIYADH SAUDI ARABIA}",
+    "city" : "RIYADH"
+  }, {
+    "id" : 111433,
+    "internationalBankBik" : "AAALSARIJED",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "SA",
+    "bankName" : "SAUDI BRITISH BANK, THE (FORMERLY ALAWWAL BANK)WESTERN AREA JEDDAH",
+    "internationalBankName" : "SAUDI BRITISH BANK, THE (FORMERLY ALAWWAL BANK)WESTERN AREA JEDDAH {JEDDAH SAUDI ARABIA}",
+    "city" : "JEDDAH"
+  }, {
+    "id" : 111434,
+    "internationalBankBik" : "AAALSARIXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "SA",
+    "bankName" : "SAUDI BRITISH BANK, THE (FORMERLY ALAWWAL BANK)",
+    "internationalBankName" : "SAUDI BRITISH BANK, THE (FORMERLY ALAWWAL BANK) {DHABAB STREET SAUDI ARABIA}",
+    "city" : "RIYADH"
+  }, {
+    "id" : 111435,
+    "internationalBankBik" : "AAASTHB1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "TH",
+    "bankName" : "ASIA PLUS SECURITIES COMPANY LIMITED",
+    "internationalBankName" : "ASIA PLUS SECURITIES COMPANY LIMITED {SATHORN CITY TOWERFLOOR 1-3175 SOUTH SATHORN ROAD BANGKOK 10120 THAILAND}",
+    "city" : "BANGKOK"
+  }, {
+    "id" : 111436,
+    "internationalBankBik" : "AABAFI22XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "FI",
+    "bankName" : "BANK OF ALAND PLC",
+    "internationalBankName" : "BANK OF ALAND PLC {NYGATAN 2 22100 MARIEHAMN FINLAND POB 322101 MARIEHAMN}",
+    "city" : "MARIEHAMN"
+  }, {
+    "id" : 111437,
+    "internationalBankBik" : "AABSDE31XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "DE",
+    "bankName" : "AACHENER BAUSPARKASSE AG",
+    "internationalBankName" : "AACHENER BAUSPARKASSE AG {THEATERSTRASSE 92-94 52062 AACHEN GERMANY}",
+    "city" : "AACHEN"
+  }, {
+    "id" : 111438,
+    "internationalBankBik" : "AACBFR21XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "FR",
+    "bankName" : "SOC ALSACIENNE DE CREDIT BAIL IMMOBILIER",
+    "internationalBankName" : "SOC ALSACIENNE DE CREDIT BAIL IMMOBILIER {7 PLACE SEBASTIEN BRANT 67001 STRASBOURG CEDEX FRANCE}",
+    "city" : "STRASBOURG"
+  }, {
+    "id" : 111439,
+    "internationalBankBik" : "AACCGB21XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "GB",
+    "bankName" : "UBS CLEARING AND EXECUTION SERVICES LIMITED",
+    "internationalBankName" : "UBS CLEARING AND EXECUTION SERVICES LIMITED {199 BISHOPSGATEFLOOR 2 LONDON EC2M 3TY UNITED KINGDOM}",
+    "city" : "LONDON"
+  }, {
+    "id" : 111440,
+    "internationalBankBik" : "AACSDE33XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "DE",
+    "bankName" : "SPARKASSE AACHEN",
+    "internationalBankName" : "SPARKASSE AACHEN {MUENSTERPLATZ 7-9 52059 AACHEN GERMANY POB 100052059 AACHEN}",
+    "city" : "AACHEN"
+  }, {
+    "id" : 111441,
+    "internationalBankBik" : "AAFFFRP1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "FR",
+    "bankName" : "ABN AMRO FUTURES FRANCE",
+    "internationalBankName" : "ABN AMRO FUTURES FRANCE {40 RUE DE COURCELLES 75388 PARIS CEDEX 08 FRANCE}",
+    "city" : "PARIS"
+  }, {
+    "id" : 111442,
+    "internationalBankBik" : "AAFMGB21XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "GB",
+    "bankName" : "ARTEMIS FUND MANAGERS LIMITED",
+    "internationalBankName" : "ARTEMIS FUND MANAGERS LIMITED {82 BISHOPSGATE LONDON EC2N 4BN UNITED KINGDOM}",
+    "city" : "LONDON"
+  }, {
+    "id" : 111443,
+    "internationalBankBik" : "AAFNFRP1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "FR",
+    "bankName" : "ABN AMRO FIXED INCOME FRANCE",
+    "internationalBankName" : "ABN AMRO FIXED INCOME FRANCE {40 RUE DE COURCELLES 75008 PARIS FRANCE}",
+    "city" : "PARIS"
+  }, {
+    "id" : 111444,
+    "internationalBankBik" : "AAGOCHZ1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "CH",
+    "bankName" : "UBS CARD CENTER AG",
+    "internationalBankName" : "UBS CARD CENTER AG {FLUGHOFSTRASSE 35 8001 GLATTBRUGG SWITZERLAND POB 9278001 ZURICH}",
+    "city" : "GLATTBRUGG"
+  }, {
+    "id" : 111445,
+    "internationalBankBik" : "AAHOGB21XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "GB",
+    "bankName" : "ABN AMRO HOARE GOVETT SECURITIES",
+    "internationalBankName" : "ABN AMRO HOARE GOVETT SECURITIES {4 BROADGATE LONDON EC2M 7LE UNITED KINGDOM}",
+    "city" : "LONDON"
+  }, {
+    "id" : 111446,
+    "internationalBankBik" : "AAHTHUH1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "HU",
+    "bankName" : "K AND H EQUITIES TANACSADO ZARTKOER EN M KOED RESZVENYTARSASAG",
+    "internationalBankName" : "K AND H EQUITIES TANACSADO ZARTKOER EN M KOED RESZVENYTARSASAG {VIGADO TER 1 BUDAPEST 1051 HUNGARY}",
+    "city" : "BUDAPEST"
+  }, {
+    "id" : 111447,
+    "internationalBankBik" : "AAHVGB21XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "GB",
+    "bankName" : "ABN AMRO HOARE GOVETT CORPORATE FINANCE LTD.",
+    "internationalBankName" : "ABN AMRO HOARE GOVETT CORPORATE FINANCE LTD. {4 BROADGATE LONDON EC2M 7LE UNITED KINGDOM}",
+    "city" : "LONDON"
+  }, {
+    "id" : 111448,
+    "internationalBankBik" : "AAISALTRXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "AL",
+    "bankName" : "UNITED BANK OF ALBANIA SH.A",
+    "internationalBankName" : "UNITED BANK OF ALBANIA SH.A {RR. DRITAN HOXHA, ND. 11HYRJA 3 1023 TIRANA ALBANIA}",
+    "city" : "TIRANA"
+  }, {
+    "id" : 111449,
+    "internationalBankBik" : "AAMBSGS1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "SG",
+    "bankName" : "ASIAN-AMERICAN MERCHANT BANK LTD.",
+    "internationalBankName" : "ASIAN-AMERICAN MERCHANT BANK LTD. {78 SHENTON WAY21-00 SINGAPORE 079120 SINGAPORE}",
+    "city" : "SINGAPORE"
+  }, {
+    "id" : 111450,
+    "internationalBankBik" : "AAMDTRI1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "TR",
+    "bankName" : "ALI ALPAY MENKUL DEGERLER",
+    "internationalBankName" : "ALI ALPAY MENKUL DEGERLER {RIHTIM CADDESI 245KARAKOY ISTANBUL TURKEY}",
+    "city" : "ISTANBUL"
+  }, {
+    "id" : 111451,
+    "internationalBankBik" : "AAMLLUL1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "LU",
+    "bankName" : "ATAG ASSET MANAGEMENT (LUXEMBOURG) S.A.",
+    "internationalBankName" : "ATAG ASSET MANAGEMENT (LUXEMBOURG) S.A. {8 BOULEVARD DE LA FOIRE 1528 LUXEMBOURG LUXEMBOURG}",
+    "city" : "LUXEMBOURG"
+  }, {
+    "id" : 111452,
+    "internationalBankBik" : "AAMOOMR1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "OM",
+    "bankName" : "AL AHLIA ASSET MGT CO. (SAOC)",
+    "internationalBankName" : "AL AHLIA ASSET MGT CO. (SAOC) {RUWI OMAN POB 2232112 RUWI}",
+    "city" : "RUWI"
+  }, {
+    "id" : 111453,
+    "internationalBankBik" : "AAOGGB21XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "GB",
+    "bankName" : "RBS HG (UK) LIMITED",
+    "internationalBankName" : "RBS HG (UK) LIMITED {250 BISHOPSGATE LONDON EC2M 4AA UNITED KINGDOM}",
+    "city" : "LONDON"
+  }, {
+    "id" : 111454,
+    "internationalBankBik" : "AAPEGB21XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "GB",
+    "bankName" : "AAC CAPITAL PARTNERS LIMITED",
+    "internationalBankName" : "AAC CAPITAL PARTNERS LIMITED {1 CAREY LANE LONDON EC2V 8AE UNITED KINGDOM}",
+    "city" : "LONDON"
+  }, {
+    "id" : 111455,
+    "internationalBankBik" : "AAPUGB21XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "GB",
+    "bankName" : "ABBOTSTONE AGRICULTURAL PROPERTY UNIT TRUST",
+    "internationalBankName" : "ABBOTSTONE AGRICULTURAL PROPERTY UNIT TRUST {155 BISHOPSGATE LONDON EC2M 3XY UNITED KINGDOM}",
+    "city" : "LONDON"
+  }, {
+    "id" : 111456,
+    "internationalBankBik" : "AAQIGB21XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "GB",
+    "bankName" : "ABN AMRO QUOTED INVESTMENTS (UK) LIMITED",
+    "internationalBankName" : "ABN AMRO QUOTED INVESTMENTS (UK) LIMITED {199 BISHOPSGATE LONDON EC2M 3XW UNITED KINGDOM}",
+    "city" : "LONDON"
+  }, {
+    "id" : 111457,
+    "internationalBankBik" : "AASBBRS1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "BR",
+    "bankName" : "ABN AMRO SECURITIES (BRASIL) CORRETORA DE VALORES MOBILIARIOS SA",
+    "internationalBankName" : "ABN AMRO SECURITIES (BRASIL) CORRETORA DE VALORES MOBILIARIOS SA {AVENIDA PAULISTA 1 374FLOOR 3 04179-002 SAO PAULO BRAZIL}",
+    "city" : "SAO PAULO"
+  }, {
+    "id" : 111458,
+    "internationalBankBik" : "AASFFRP1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "FR",
+    "bankName" : "UNIGRAINS CREDITS",
+    "internationalBankName" : "UNIGRAINS CREDITS {23 AVENUE DE NEUILLY 75116 PARIS FRANCE}",
+    "city" : "PARIS"
+  }, {
+    "id" : 111459,
+    "internationalBankBik" : "AASQPHM1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "PH",
+    "bankName" : "AAA SOUTHEAST EQUITIES INC.",
+    "internationalBankName" : "AAA SOUTHEAST EQUITIES INC. {FORTUNE LIFE BUILDING162 LEGASPI STREET LEGASPI VILLAGEMAKATI METRO MANILA MANILA PHILIPPINES}",
+    "city" : "MANILA"
+  }, {
+    "id" : 111460,
+    "internationalBankBik" : "AASRDZA1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "DZ",
+    "bankName" : "COMPAGNIE ALGERIENNE D'ASSURANCE ET DE REASSURANCE(CAAR)",
+    "internationalBankName" : "COMPAGNIE ALGERIENNE D'ASSURANCE ET DE REASSURANCE(CAAR) {48 RUE DICOUCHE MOURRAD ALGIERS ALGERIA}",
+    "city" : "ALGIERS"
+  }, {
+    "id" : 111461,
+    "internationalBankBik" : "AASSPHM10MM",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "PH",
+    "bankName" : "ALL ASIA SECURITIES MANAGEMENT CORP.",
+    "internationalBankName" : "ALL ASIA SECURITIES MANAGEMENT CORP. {ALL ASIA CENTRE105 PASEO DE ROXAS MANILA PHILIPPINES}",
+    "city" : "MANILA"
+  }, {
+    "id" : 111462,
+    "internationalBankBik" : "AASSPHM1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "PH",
+    "bankName" : "ALL ASIA SECURITIES MANAGEMENT CORP.",
+    "internationalBankName" : "ALL ASIA SECURITIES MANAGEMENT CORP. {ABOITIZ BUILDINGFLOOR GFARCHBISHOP REYES AVENUEBAVILAD CEBU PHILIPPINES}",
+    "city" : "CEBU"
+  }, {
+    "id" : 111463,
+    "internationalBankBik" : "ABABESM1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "ES",
+    "bankName" : "A.B. ASESORES BURSATILES BOLSA, SA, S.V.B.",
+    "internationalBankName" : "A.B. ASESORES BURSATILES BOLSA, SA, S.V.B. {PLAZA DE LA LEALTAD 3-3O 28014 MADRID SPAIN}",
+    "city" : "MADRID"
+  }, {
+    "id" : 111464,
+    "internationalBankBik" : "ABAEPHM1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "PH",
+    "bankName" : "ABACUS SECURITIES CORP.",
+    "internationalBankName" : "ABACUS SECURITIES CORP. {PHILIPPINE STOCK EXCHANGE CENTRE2904-A EXCHANGE ROADEAST, ORTIGAS CENTER, PASIG 1600 MANILA PHILIPPINES}",
+    "city" : "MANILA"
+  }, {
+    "id" : 111465,
+    "internationalBankBik" : "ABAMESM1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "ES",
+    "bankName" : "ABN-AMRO, S.A. S.V.B.",
+    "internationalBankName" : "ABN-AMRO, S.A. S.V.B. {CALLE SERRANO 55FLOOR 2 28006 MADRID SPAIN}",
+    "city" : "MADRID"
+  }, {
+    "id" : 111466,
+    "internationalBankBik" : "ABANSI2XXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "SI",
+    "bankName" : "NOVA KREDITNA BANKA MARIBOR D.D.",
+    "internationalBankName" : "NOVA KREDITNA BANKA MARIBOR D.D. {SLOVENSKA CESTA 58 1000 LJUBLJANA SLOVENIA}",
+    "city" : "LJUBLJANA"
+  }, {
+    "id" : 111467,
+    "internationalBankBik" : "ABATBSN1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "BS",
+    "bankName" : "ALLIANCE BANK AND TRUST",
+    "internationalBankName" : "ALLIANCE BANK AND TRUST {PROVIDENCE HOUSEEAST HILL STREET NASSAU BAHAMAS POB 3741NASSAU}",
+    "city" : "NASSAU"
+  }, {
+    "id" : 111468,
+    "internationalBankBik" : "ABAXFRP1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "FR",
+    "bankName" : "ABAXBOURSE",
+    "internationalBankName" : "ABAXBOURSE {21 BOULEVARD DE LA MADELEINE 75008 PARIS FRANCE}",
+    "city" : "PARIS"
+  }, {
+    "id" : 111469,
+    "internationalBankBik" : "ABAZGB21XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "GB",
+    "bankName" : "ABN AMRO MEZZANINE (UK) LIMITED",
+    "internationalBankName" : "ABN AMRO MEZZANINE (UK) LIMITED {199 BISHOPSGATE LONDON EC2M 3XW UNITED KINGDOM}",
+    "city" : "LONDON"
+  }, {
+    "id" : 111470,
+    "internationalBankBik" : "ABBEGB21XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "GB",
+    "bankName" : "ABBEY LIFE",
+    "internationalBankName" : "ABBEY LIFE {100 HOLDENHURST ROAD BOURNEMOUTH BH8 8AL UNITED KINGDOM}",
+    "city" : "BOURNEMOUTH"
+  }, {
+    "id" : 111471,
+    "internationalBankBik" : "ABBFSES1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "SE",
+    "bankName" : "ABB AROS FONDKOMMISSION AB",
+    "internationalBankName" : "ABB AROS FONDKOMMISSION AB {NYBROKAJEN 15 STOCKHOLM SWEDEN}",
+    "city" : "STOCKHOLM"
+  }, {
+    "id" : 111472,
+    "internationalBankBik" : "ABBLBDDHXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "BD",
+    "bankName" : "AB BANK LIMITED",
+    "internationalBankName" : "AB BANK LIMITED {THE SKYMARK, 18 GULSHAN AVENUEGULSHAN-1 1212 DHAKA BANGLADESH}",
+    "city" : "DHAKA"
+  }, {
+    "id" : 111473,
+    "internationalBankBik" : "ABBOFIH1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "FI",
+    "bankName" : "AROS SECURITIES OY",
+    "internationalBankName" : "AROS SECURITIES OY {KAIVOKATU 8 00100 HELSINKI FINLAND}",
+    "city" : "HELSINKI"
+  }, {
+    "id" : 111474,
+    "internationalBankBik" : "ABBYGB2LXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "GB",
+    "bankName" : "SANTANDER UK PLC",
+    "internationalBankName" : "SANTANDER UK PLC {BOOTLE CENTREBRIDLE ROAD BOOTLE L30 4GB UNITED KINGDOM}",
+    "city" : "BOOTLE"
+  }, {
+    "id" : 111475,
+    "internationalBankBik" : "ABCADEFFXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "DE",
+    "bankName" : "ARAB BANKING CORPORATION SA FRANKFURT BRANCH",
+    "internationalBankName" : "ARAB BANKING CORPORATION SA FRANKFURT BRANCH {NEUE MAINZER STRASSE 75 60311 FRANKFURT AM MAIN GERMANY}",
+    "city" : "FRANKFURT AM MAIN"
+  }, {
+    "id" : 111476,
+    "internationalBankBik" : "ABCBBRSPXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "BR",
+    "bankName" : "BANCO ABC BRASIL S.A.",
+    "internationalBankName" : "BANCO ABC BRASIL S.A. {AVENIDA CIDADE JARDIM, ITAIM BI 803FLOOR 20 04543-000 SAO PAULO BRAZIL}",
+    "city" : "SAO PAULO"
+  }, {
+    "id" : 111477,
+    "internationalBankBik" : "ABCEGB2LXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "GB",
+    "bankName" : "ABC INTERNATIONAL BANK PLC",
+    "internationalBankName" : "ABC INTERNATIONAL BANK PLC {ARAB BANKING CORPORATION HOUSE1-5 MOORGATE LONDON EC2R 6AB UNITED KINGDOM}",
+    "city" : "LONDON"
+  }, {
+    "id" : 111478,
+    "internationalBankBik" : "ABCIBHBMXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "BH",
+    "bankName" : "ABC ISLAMIC BANK (E.C)",
+    "internationalBankName" : "ABC ISLAMIC BANK (E.C) {ABC TOWERBLOCK 317 FLOOR 2152 ROAD 1703DIPLOMATIC AREA MANAMA BAHRAIN POB 2808MANAMA}",
+    "city" : "MANAMA"
+  }, {
+    "id" : 111479,
+    "internationalBankBik" : "ABCJJOAMXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "JO",
+    "bankName" : "ARAB BANKING CORPORATION (JORDAN)",
+    "internationalBankName" : "ARAB BANKING CORPORATION (JORDAN) {QUEEN NOUR STREET 1110 AMMAN JORDAN POB 9266911110 AMMAN}",
+    "city" : "AMMAN"
+  }, {
+    "id" : 111480,
+    "internationalBankBik" : "ABCMBHB1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "BH",
+    "bankName" : "ALLIED BANKING CORPORATION",
+    "internationalBankName" : "ALLIED BANKING CORPORATION {BAHRAIN TOWERFLOOR 11GOVERNMENT AVENUE MANAMA BAHRAIN POB 20493MANAMA}",
+    "city" : "MANAMA"
+  }, {
+    "id" : 111481,
+    "internationalBankBik" : "ABCMESM1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "ES",
+    "bankName" : "ALLIED BANKING CORPORATION",
+    "internationalBankName" : "ALLIED BANKING CORPORATION {CALLE GRAN VIA 316-29 28013 MADRID SPAIN}",
+    "city" : "MADRID"
+  }, {
+    "id" : 111482,
+    "internationalBankBik" : "ABCMGB21XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "GB",
+    "bankName" : "ALLIED BANK PHILIPPINES (UK) PLC",
+    "internationalBankName" : "ALLIED BANK PHILIPPINES (UK) PLC {114 ROCHESTER ROW LONDON SW1P 1JQ UNITED KINGDOM}",
+    "city" : "LONDON"
+  }, {
+    "id" : 111483,
+    "internationalBankBik" : "ABCMGUG1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "GU",
+    "bankName" : "ALLIED BANKING CORPORATION",
+    "internationalBankName" : "ALLIED BANKING CORPORATION {BEJESS COMMERCIAL BUILDING719 SOUTH MARINE DRIVE TAMUNING GUAM}",
+    "city" : "TAMUNING"
+  }, {
+    "id" : 111484,
+    "internationalBankBik" : "ABCOBHBMXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "BH",
+    "bankName" : "ARAB BANKING CORPORATION (B.S.C.)",
+    "internationalBankName" : "ARAB BANKING CORPORATION (B.S.C.) {ABC TOWER BUILDINGBLOCK 317 FLOOR 4152 ROAD 1703 MANAMA BAHRAIN POB 5698317 MANAMA}",
+    "city" : "MANAMA"
+  }, {
+    "id" : 111485,
+    "internationalBankBik" : "ABCODZALXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "DZ",
+    "bankName" : "ARAB BANKING CORPORATION - ALGERIA",
+    "internationalBankName" : "ARAB BANKING CORPORATION - ALGERIA {54 AVENUE DES TROIS FRERES BOUADOUBIR MOURAD RAIS 16030 ALGIERS ALGERIA}",
+    "city" : "ALGIERS"
+  }, {
+    "id" : 111486,
+    "internationalBankBik" : "ABCOFRPPXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "FR",
+    "bankName" : "ARAB BANKING CORPORATION SA",
+    "internationalBankName" : "ARAB BANKING CORPORATION SA {8 RUE HALEVY 75009 PARIS FRANCE}",
+    "city" : "PARIS"
+  }, {
+    "id" : 111487,
+    "internationalBankBik" : "ABCOITMMXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "IT",
+    "bankName" : "ARAB BANKING CORPORATION SA MILAN BRANCH",
+    "internationalBankName" : "ARAB BANKING CORPORATION SA MILAN BRANCH {VIA AMEDEI 8 20123 MILANO ITALY}",
+    "city" : "MILANO"
+  }, {
+    "id" : 111488,
+    "internationalBankBik" : "ABCOSGSGXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "SG",
+    "bankName" : "ARAB BANKING CORPORATION (B.S.C.), SINGAPORE BRANCH",
+    "internationalBankName" : "ARAB BANKING CORPORATION (B.S.C.), SINGAPORE BRANCH {9 RAFFLES PLACE SINGAPORE 048619 SINGAPORE}",
+    "city" : null
+  }, {
+    "id" : 111489,
+    "internationalBankBik" : "ABCOTNTTXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "TN",
+    "bankName" : "ARAB BANKING CORPORATION",
+    "internationalBankName" : "ARAB BANKING CORPORATION {ABC BUILDINGRUE DU LAC D'ANNECYLES BERGES DU LAC TUNIS 1053 TUNISIA}",
+    "city" : "TUNIS"
+  }, {
+    "id" : 111490,
+    "internationalBankBik" : "ABCOUS33XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "US",
+    "bankName" : "ARAB BANKING CORPORATION",
+    "internationalBankName" : "ARAB BANKING CORPORATION {140 EAST 45TH STREETFLOOR 38 NEW YORK,NY 10017 UNITED STATES OF AMERICA}",
+    "city" : "NEW YORK,NY"
+  }, {
+    "id" : 111491,
+    "internationalBankBik" : "ABCTUS31XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "US",
+    "bankName" : "ABACO INTERNATIONAL CORPORATION",
+    "internationalBankName" : "ABACO INTERNATIONAL CORPORATION {NEW YORK,NY UNITED STATES OF AMERICA}",
+    "city" : "NEW YORK,NY"
+  }, {
+    "id" : 111492,
+    "internationalBankBik" : "ABDABDD1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "BD",
+    "bankName" : "ABDUS SAMAD",
+    "internationalBankName" : "ABDUS SAMAD {LAMON GRASS58 C ROAD NO. 131GULSHAN 1212 DHAKA BANGLADESH}",
+    "city" : "DHAKA"
+  }, {
+    "id" : 111493,
+    "internationalBankBik" : "ABDHBDD1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "BD",
+    "bankName" : "ABDUL HAQUE AND SONS LTD.",
+    "internationalBankName" : "ABDUL HAQUE AND SONS LTD. {STOCK EXCHANGE BUILDINGFLOOR 495 MOTIJHEEL C/A 1000 DHAKA BANGLADESH}",
+    "city" : "DHAKA"
+  }, {
+    "id" : 111494,
+    "internationalBankBik" : "ABDIAEADXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "AE",
+    "bankName" : "ABU DHABI ISLAMIC BANK",
+    "internationalBankName" : "ABU DHABI ISLAMIC BANK {SHEIKH RASHID BIN SAEED STREETPO BOX 313 ABU DHABI UNITED ARAB EMIRATES}",
+    "city" : "ABU DHABI"
+  }, {
+    "id" : 111495,
+    "internationalBankBik" : "ABDYBDD1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "BD",
+    "bankName" : "ABDUL HYE",
+    "internationalBankName" : "ABDUL HYE {6 ROAD NO. 76GULSHAN MODEL TOWN 1000 DHAKA BANGLADESH}",
+    "city" : "DHAKA"
+  }, {
+    "id" : 111496,
+    "internationalBankBik" : "ABEEUS31XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "US",
+    "bankName" : "ABG SUNDAL COLLIER INC.",
+    "internationalBankName" : "ABG SUNDAL COLLIER INC. {645 FIFTH AVENUEFLOOR 11 NEW YORK,NY 10022 UNITED STATES OF AMERICA}",
+    "city" : "NEW YORK,NY"
+  }, {
+    "id" : 111497,
+    "internationalBankBik" : "ABENUS31XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "US",
+    "bankName" : "ABEL/NOSER CORP",
+    "internationalBankName" : "ABEL/NOSER CORP {90 BROAD STREET NEW YORK,NY 10004 UNITED STATES OF AMERICA}",
+    "city" : "NEW YORK,NY"
+  }, {
+    "id" : 111498,
+    "internationalBankBik" : "ABFIGB21XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "GB",
+    "bankName" : "PGMS (GLASGOW) LIMITED",
+    "internationalBankName" : "PGMS (GLASGOW) LIMITED {ABBEY NATIONAL HOUSE287 ST VINCENT STREET GLASGOW G2 5NB UNITED KINGDOM}",
+    "city" : "GLASGOW"
+  }, {
+    "id" : 111499,
+    "internationalBankBik" : "ABFMSGS1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "SG",
+    "bankName" : "ABERDEEN STANDARD INVESTMENTS (ASIA) LIMITED",
+    "internationalBankName" : "ABERDEEN STANDARD INVESTMENTS (ASIA) LIMITED {21 CHURCH STREETCAPITAL SQUARE TWO01 - 01 SINGAPORE 049868 SINGAPORE}",
+    "city" : "SINGAPORE"
+  }, {
+    "id" : 111500,
+    "internationalBankBik" : "ABFUMYK1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "MY",
+    "bankName" : "ABRAR FUTURES SDN BHD",
+    "internationalBankName" : "ABRAR FUTURES SDN BHD {MENARA MULTI PURPOSE BUILDINGFLOOR 218 JALAN MUNSHI ABDUL LAHCAPITAL SQUARE KUALA LUMPUR 50100 MALAYSIA}",
+    "city" : "KUALA LUMPUR"
+  }, {
+    "id" : 111501,
+    "internationalBankBik" : "ABGBUS44XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "US",
+    "bankName" : "ASSOCIATED BANK, N.A.",
+    "internationalBankName" : "ASSOCIATED BANK, N.A. {200 NORTH ADAMS STREET GREEN BAY,WI 54301-5174 UNITED STATES OF AMERICA POB 19006GREEN BAY,WI 54307-9006}",
+    "city" : "GREEN BAY,WI"
+  }, {
+    "id" : 111502,
+    "internationalBankBik" : "ABGRDEFFXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "DE",
+    "bankName" : "PIRAEUS BANK SA (FRANKFURT BRANCH),EX AGRICULTURALBANK OF GREECE SA",
+    "internationalBankName" : "PIRAEUS BANK SA (FRANKFURT BRANCH),EX AGRICULTURALBANK OF GREECE SA {BASELER STRASSE 46 60329 FRANKFURT AM MAIN GERMANY}",
+    "city" : "FRANKFURT AM MAIN"
+  }, {
+    "id" : 111503,
+    "internationalBankBik" : "ABINAEAAAIN",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "AE",
+    "bankName" : "ARAB BANK FOR INVESTMENT AND FOREIGN TRADEAL AIN BRANCH",
+    "internationalBankName" : "ARAB BANK FOR INVESTMENT AND FOREIGN TRADEAL AIN BRANCH {AL AIN UNITED ARAB EMIRATES}",
+    "city" : "AL AIN"
+  }, {
+    "id" : 111504,
+    "internationalBankBik" : "ABINAEAADXB",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "AE",
+    "bankName" : "ARAB BANK FOR INVESTMENT AND FOREIGN TRADEDUBAI BRANCH",
+    "internationalBankName" : "ARAB BANK FOR INVESTMENT AND FOREIGN TRADEDUBAI BRANCH {DUBAI UNITED ARAB EMIRATES}",
+    "city" : "DUBAI"
+  }, {
+    "id" : 111505,
+    "internationalBankBik" : "ABINAEAASUK",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "AE",
+    "bankName" : "ARAB BANK FOR INVESTMENT AND FOREIGN TRADEAL-SOUK BRANCH",
+    "internationalBankName" : "ARAB BANK FOR INVESTMENT AND FOREIGN TRADEAL-SOUK BRANCH {ABU DHABI UNITED ARAB EMIRATES}",
+    "city" : "ABU DHABI"
+  }, {
+    "id" : 111506,
+    "internationalBankBik" : "ABINAEAAXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "AE",
+    "bankName" : "ARAB BANK FOR INVESTMENT AND FOREIGN TRADEHEAD OFFICE",
+    "internationalBankName" : "ARAB BANK FOR INVESTMENT AND FOREIGN TRADEHEAD OFFICE {ARBIFT BUILDINGHAMDAN STREETTOURIST CLUB AREA ABU DHABI UNITED ARAB EMIRATES POB 467}",
+    "city" : "ABU DHABI"
+  }, {
+    "id" : 111507,
+    "internationalBankBik" : "ABKKAEADXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "AE",
+    "bankName" : "AL AHLI BANK OF KUWAIT K.S.C.P, DUBAI BRANCH",
+    "internationalBankName" : "AL AHLI BANK OF KUWAIT K.S.C.P, DUBAI BRANCH {BENIYAS STREETDEIRA DUBAI UNITED ARAB EMIRATES POB 1719DUBAI}",
+    "city" : "DUBAI"
+  }, {
+    "id" : 111508,
+    "internationalBankBik" : "ABKKKWKWXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "KW",
+    "bankName" : "AL AHLI BANK OF KUWAIT K.S.C.P",
+    "internationalBankName" : "AL AHLI BANK OF KUWAIT K.S.C.P {SAFAT SQUAREAHMED AL JABER STREET 13014 KUWAIT KUWAIT POB 138713014 KUWAIT}",
+    "city" : "KUWAIT"
+  }, {
+    "id" : 111509,
+    "internationalBankBik" : "ABKLCY2NLAR",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "CY",
+    "bankName" : "ALPHA BANK CYPRUS LTD",
+    "internationalBankName" : "ALPHA BANK CYPRUS LTD {28 ARCH MACARIOS III AVENUE LARNACA CYPRUS POB 343LARNACA}",
+    "city" : "LARNACA"
+  }, {
+    "id" : 111510,
+    "internationalBankBik" : "ABKLCY2NLIM",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "CY",
+    "bankName" : "ALPHA BANK CYPRUS LTD",
+    "internationalBankName" : "ALPHA BANK CYPRUS LTD {JOHN KENNEDY AND AROUZOS STREET LIMASSOL (LEMESOS) CYPRUS}",
+    "city" : "LIMASSOL (LEMESOS)"
+  }, {
+    "id" : 111511,
+    "internationalBankBik" : "ABKLCY2NPAP",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "CY",
+    "bankName" : "ALPHA BANK CYPRUS LTD",
+    "internationalBankName" : "ALPHA BANK CYPRUS LTD {42 ARCH. MAKARIOS III AVENUE PAPHOS CYPRUS POB 16PAPHOS}",
+    "city" : "PAPHOS"
+  }, {
+    "id" : 111512,
+    "internationalBankBik" : "ABKLCY2NXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "CY",
+    "bankName" : "ALPHA BANK CYPRUS LTD",
+    "internationalBankName" : "ALPHA BANK CYPRUS LTD {1 STYLIANOU LENA SQUARECHILONOS AND GLADSTONOS CORNER 2112 NICOSIA (LEFKOSIA) CYPRUS POB 216611596 NICOSIA (LEFKOSIA}",
+    "city" : "NICOSIA (LEFKOSIA)"
+  }, {
+    "id" : 111513,
+    "internationalBankBik" : "ABLMBDD1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "BD",
+    "bankName" : "ABDUL LATIF MIAH",
+    "internationalBankName" : "ABDUL LATIF MIAH {STOCK EXCHANGE BUILDINGROOM 310 FLOOR 9MITIJHEEL C.A. 1000 DHAKA BANGLADESH}",
+    "city" : "DHAKA"
+  }, {
+    "id" : 111514,
+    "internationalBankBik" : "ABMDTRI1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "TR",
+    "bankName" : "ING MENKUL DEGERLER A.S.",
+    "internationalBankName" : "ING MENKUL DEGERLER A.S. {GUNEY PLAZAESKI BUYUKDERE ASFALTI 17/4A 34389 ISTANBUL TURKIYE}",
+    "city" : "ISTANBUL"
+  }, {
+    "id" : 111515,
+    "internationalBankBik" : "ABMNGB21XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "GB",
+    "bankName" : "ABINGWORTH MANAGEMENT LIMITED",
+    "internationalBankName" : "ABINGWORTH MANAGEMENT LIMITED {PRINCES HOUSE38 JERMYN STREET LONDON SW1Y 6DN UNITED KINGDOM}",
+    "city" : "LONDON"
+  }, {
+    "id" : 111516,
+    "internationalBankBik" : "ABNABRSPXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "BR",
+    "bankName" : "BANCO ABN AMRO S.A.",
+    "internationalBankName" : "BANCO ABN AMRO S.A. {RUA FIDENCIO RAMOS 302/308SUITE 111 FLOOR 11 04551-010 SAO PAULO BRAZIL}",
+    "city" : "SAO PAULO"
+  }, {
+    "id" : 111517,
+    "internationalBankBik" : "ABNAGB22XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "GB",
+    "bankName" : "THE ROYAL BANK OF SCOTLAND N.V. (UK EQUITIES)",
+    "internationalBankName" : "THE ROYAL BANK OF SCOTLAND N.V. (UK EQUITIES) {250 BISHOPSGATE LONDON EC2M 4AA UNITED KINGDOM}",
+    "city" : "LONDON"
+  }, {
+    "id" : 111518,
+    "internationalBankBik" : "ABNAGB2LMAN",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "GB",
+    "bankName" : "THE ROYAL BANK OF SCOTLAND PLC LONDON (FORMERLY KNOWN AS RBS NV)",
+    "internationalBankName" : "THE ROYAL BANK OF SCOTLAND PLC LONDON (FORMERLY KNOWN AS RBS NV) {61 KING STREET MANCHESTER M6O 2HB UNITED KINGDOM}",
+    "city" : "MANCHESTER"
+  }, {
+    "id" : 111519,
+    "internationalBankBik" : "ABNAGB2LXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "GB",
+    "bankName" : "THE ROYAL BANK OF SCOTLAND PLC LONDON (FORMERLY KNOWN AS RBS NV)",
+    "internationalBankName" : "THE ROYAL BANK OF SCOTLAND PLC LONDON (FORMERLY KNOWN AS RBS NV) {250 BISHOPSGATE LONDON EC2M 4AA UNITED KINGDOM}",
+    "city" : "LONDON"
+  }, {
+    "id" : 111520,
+    "internationalBankBik" : "ABNAGB2PXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "GB",
+    "bankName" : "THE ROYAL BANK OF SCOTLAND N.V. (LONDON)",
+    "internationalBankName" : "THE ROYAL BANK OF SCOTLAND N.V. (LONDON) {199 BISHOPSGATE LONDON EC2M 3TY UNITED KINGDOM}",
+    "city" : "LONDON"
+  }, {
+    "id" : 111521,
+    "internationalBankBik" : "ABNAINBBCTF",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "IN",
+    "bankName" : "THE ROYAL BANK OF SCOTLAND PLC, INDIA BRANCH (FORMERLY KNOWN AS RBS NV)(CENTRALISED TRADE FINANCE INDIA)",
+    "internationalBankName" : "THE ROYAL BANK OF SCOTLAND PLC, INDIA BRANCH (FORMERLY KNOWN AS RBS NV)(CENTRALISED TRADE FINANCE INDIA) {19/1, HADDOWS ROAD CHENNAI (MADRA}",
+    "city" : "CHENNAI (MADRAS)"
+  }, {
+    "id" : 111522,
+    "internationalBankBik" : "ABNAINBBXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "IN",
+    "bankName" : "NATWEST MARKETS PLC, INDIA BRANCH (FORMERLY KNOWN AS RBS PLC)",
+    "internationalBankName" : "NATWEST MARKETS PLC, INDIA BRANCH (FORMERLY KNOWN AS RBS PLC) {14 VEER NARIMAN ROAD MUMBAI 400023 INDIA POB 97MUMBAI 400023}",
+    "city" : "MUMBAI"
+  }, {
+    "id" : 111523,
+    "internationalBankBik" : "ABNAITMMXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "IT",
+    "bankName" : "THE ROYAL BANK OF SCOTLAND PLC ITALY (FORMERLY KNOWN AS RBS NV)",
+    "internationalBankName" : "THE ROYAL BANK OF SCOTLAND PLC ITALY (FORMERLY KNOWN AS RBS NV) {VIA TURATI , 9 20121 MILANO ITALY}",
+    "city" : "MILANO"
+  }, {
+    "id" : 111524,
+    "internationalBankBik" : "ABNAKZKXATY",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "KZ",
+    "bankName" : "JSC 'FIRST HEARTLAND BANK'(ATYRAU BRANCH)",
+    "internationalBankName" : "JSC 'FIRST HEARTLAND BANK'(ATYRAU BRANCH) {ABN AMRO BANK2, ABAYA STREET 465002 ATYRAU KAZAKHSTAN}",
+    "city" : "ATYRAU"
+  }, {
+    "id" : 111525,
+    "internationalBankBik" : "ABNAKZKXTCO",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "KZ",
+    "bankName" : "JSC 'FIRST HEARTLAND BANK'(TCOV BRANCH)",
+    "internationalBankName" : "JSC 'FIRST HEARTLAND BANK'(TCOV BRANCH) {466440 TENGIZ KAZAKHSTAN}",
+    "city" : "пгт.TENGIZ"
+  }, {
+    "id" : 111526,
+    "internationalBankBik" : "ABNAKZKXXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "KZ",
+    "bankName" : "JSC 'FIRST HEARTLAND BANK'",
+    "internationalBankName" : "JSC 'FIRST HEARTLAND BANK' {KAZHYMUKAN STREET 45 050059 ALMATY KAZAKHSTAN}",
+    "city" : "г.ALMATY"
+  }, {
+    "id" : 111527,
+    "internationalBankBik" : "ABNANL2AXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "NL",
+    "bankName" : "ABN AMRO BANK N.V.",
+    "internationalBankName" : "ABN AMRO BANK N.V. {GUSTAV MAHLERLAAN 10 1082 PP AMSTERDAM NETHERLANDS POB 2831000 EA AMSTERDAM}",
+    "city" : "AMSTERDAM"
+  }, {
+    "id" : 111528,
+    "internationalBankBik" : "ABNANL2RXXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "NL",
+    "bankName" : "ABN AMRO BANK N.V.",
+    "internationalBankName" : "ABN AMRO BANK N.V. {COOLSINGEL 119 ROTTERDAM NETHERLANDS POB 9493000 DD ROTTERDAM}",
+    "city" : "ROTTERDAM"
+  }, {
+    "id" : 111529,
+    "internationalBankBik" : "ABNANZA1XXX",
+    "nationalBankBik" : null,
+    "twoLetterCode" : "NZ",
+    "bankName" : "ABN AMRO SECURITIES NZ LIMITED.",
+    "internationalBankName" : "ABN AMRO SECURITIES NZ LIMITED. {48 SHORTLAND STREETFLOOR 32 AUCKLAND NEW ZEALAND POB 3464AUCKLAND}",
+    "city" : "AUCKLAND"
+  } ],
+  "total" : {
+    "count" : 100
+  }
+}

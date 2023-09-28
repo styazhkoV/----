@@ -1,0 +1,2731 @@
+[ {
+  "id" : 140,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "484",
+  "twoLetterCode" : "MX",
+  "threeLetterCode" : "MEX",
+  "countryName" : "МЕКСИКА",
+  "fullCountryName" : "Мексиканские Соединенные Штаты",
+  "internationalName" : "MEXICO"
+}, {
+  "id" : 141,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "492",
+  "twoLetterCode" : "MC",
+  "threeLetterCode" : "MCO",
+  "countryName" : "МОНАКО",
+  "fullCountryName" : "Княжество Монако",
+  "internationalName" : "MONACO"
+}, {
+  "id" : 142,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "496",
+  "twoLetterCode" : "MN",
+  "threeLetterCode" : "MNG",
+  "countryName" : "МОНГОЛИЯ",
+  "fullCountryName" : "Монголия",
+  "internationalName" : "MONGOLIA"
+}, {
+  "id" : 146,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "508",
+  "twoLetterCode" : "MZ",
+  "threeLetterCode" : "MOZ",
+  "countryName" : "МОЗАМБИК",
+  "fullCountryName" : "Республика Мозамбик",
+  "internationalName" : "MOZAMBIQUE"
+}, {
+  "id" : 148,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "516",
+  "twoLetterCode" : "NA",
+  "threeLetterCode" : "NAM",
+  "countryName" : "НАМИБИЯ",
+  "fullCountryName" : "Республика Намибия",
+  "internationalName" : "NAMIBIA"
+}, {
+  "id" : 149,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "520",
+  "twoLetterCode" : "NR",
+  "threeLetterCode" : "NRU",
+  "countryName" : "НАУРУ",
+  "fullCountryName" : "Республика Науру",
+  "internationalName" : "NAURU"
+}, {
+  "id" : 150,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "524",
+  "twoLetterCode" : "NP",
+  "threeLetterCode" : "NPL",
+  "countryName" : "НЕПАЛ",
+  "fullCountryName" : "Королевство Непал",
+  "internationalName" : "NEPAL"
+}, {
+  "id" : 154,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "540",
+  "twoLetterCode" : "NC",
+  "threeLetterCode" : "NCL",
+  "countryName" : "НОВАЯ КАЛЕДОНИЯ",
+  "fullCountryName" : "Новая Каледония (Фр.)",
+  "internationalName" : "NEW CALEDONIA"
+}, {
+  "id" : 155,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "548",
+  "twoLetterCode" : "VU",
+  "threeLetterCode" : "VUT",
+  "countryName" : "ВАНУАТУ",
+  "fullCountryName" : "Республика Вануату",
+  "internationalName" : "VANUATU"
+}, {
+  "id" : 158,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "562",
+  "twoLetterCode" : "NE",
+  "threeLetterCode" : "NER",
+  "countryName" : "НИГЕР",
+  "fullCountryName" : "Республика Нигер",
+  "internationalName" : "NIGER"
+}, {
+  "id" : 159,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "566",
+  "twoLetterCode" : "NG",
+  "threeLetterCode" : "NGA",
+  "countryName" : "НИГЕРИЯ",
+  "fullCountryName" : "Федеративная Республика Нигерия",
+  "internationalName" : "NIGERIA"
+}, {
+  "id" : 160,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "570",
+  "twoLetterCode" : "NU",
+  "threeLetterCode" : "NIU",
+  "countryName" : "НИУЭ",
+  "fullCountryName" : "Ниуэ (Н. Зел.)",
+  "internationalName" : "Niue"
+}, {
+  "id" : 163,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "580",
+  "twoLetterCode" : "MP",
+  "threeLetterCode" : "MNP",
+  "countryName" : "СЕВЕРНЫЕ МАРИАНСКИЕ ОСТРОВА",
+  "fullCountryName" : "Содружество Северных  Марианских Островов (США)",
+  "internationalName" : "NORTHERN MARIANA ISLANDS"
+}, {
+  "id" : 164,
+  "deleted" : false,
+  "externalId" : "1942753",
+  "countryCode" : "581",
+  "twoLetterCode" : "UM",
+  "threeLetterCode" : "UMI",
+  "countryName" : "МАЛЫЕ ТИХООКЕАНСКИЕ ОСТРОВА",
+  "fullCountryName" : "Малые Тихоокеанские  Отдаленные Острова (США)",
+  "internationalName" : null
+}, {
+  "id" : 165,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "583",
+  "twoLetterCode" : "FM",
+  "threeLetterCode" : "FSM",
+  "countryName" : "МИКРОНЕЗИЯ",
+  "fullCountryName" : "Федеративные штаты Микронезии",
+  "internationalName" : "MICRONESIA (FEDERATED STATES OF)"
+}, {
+  "id" : 166,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "584",
+  "twoLetterCode" : "MH",
+  "threeLetterCode" : "MHL",
+  "countryName" : "МАРШАЛЛОВЫ ОСТРОВА",
+  "fullCountryName" : "Республика Маршалловых Островов",
+  "internationalName" : "MARSHALL ISLANDS"
+}, {
+  "id" : 167,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "585",
+  "twoLetterCode" : "PW",
+  "threeLetterCode" : "PLW",
+  "countryName" : "ПАЛАУ",
+  "fullCountryName" : "Республика Палау (Белау)",
+  "internationalName" : "PALAU"
+}, {
+  "id" : 169,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "591",
+  "twoLetterCode" : "PA",
+  "threeLetterCode" : "PAN",
+  "countryName" : "ПАНАМА",
+  "fullCountryName" : "Республика Панама",
+  "internationalName" : "PANAMA"
+}, {
+  "id" : 170,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "598",
+  "twoLetterCode" : "PG",
+  "threeLetterCode" : "PNG",
+  "countryName" : "ПАПУА - НОВАЯ ГВИНЕЯ",
+  "fullCountryName" : "Независимое Государство Папуа - Новая Гвинея",
+  "internationalName" : "PAPUA NEW GUINEA"
+}, {
+  "id" : 174,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "612",
+  "twoLetterCode" : "PN",
+  "threeLetterCode" : "PCN",
+  "countryName" : "ПИТКЭРН",
+  "fullCountryName" : "Питкэрн (Брит.)",
+  "internationalName" : "PITCAIRN"
+}, {
+  "id" : 181,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "638",
+  "twoLetterCode" : "RE",
+  "threeLetterCode" : "REU",
+  "countryName" : "РЕЮНЬОН",
+  "fullCountryName" : "Реюньон (Фр.)",
+  "internationalName" : "REUNION"
+}, {
+  "id" : 182,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "642",
+  "twoLetterCode" : "RO",
+  "threeLetterCode" : "ROM",
+  "countryName" : "РУМЫНИЯ",
+  "fullCountryName" : "Республика Румыния",
+  "internationalName" : "ROMANIA"
+}, {
+  "id" : 183,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "646",
+  "twoLetterCode" : "RW",
+  "threeLetterCode" : "RWA",
+  "countryName" : "РУАНДА",
+  "fullCountryName" : "Руандийская Республика",
+  "internationalName" : "RWANDA"
+}, {
+  "id" : 186,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "660",
+  "twoLetterCode" : "AI",
+  "threeLetterCode" : "AIA",
+  "countryName" : "АНГИЛЬЯ",
+  "fullCountryName" : "Ангилья (Брит.)",
+  "internationalName" : "ANGUILLA"
+}, {
+  "id" : 187,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "662",
+  "twoLetterCode" : "LC",
+  "threeLetterCode" : "LCA",
+  "countryName" : "СЕНТ - ЛЮСИЯ",
+  "fullCountryName" : "Сент - люсия",
+  "internationalName" : "SAINT LUCIA"
+}, {
+  "id" : 188,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "666",
+  "twoLetterCode" : "PM",
+  "threeLetterCode" : "SPM",
+  "countryName" : "СЕН - ПЬЕР И МИКЕЛОН",
+  "fullCountryName" : "Сень - Пьер и Микелон (Фр.)",
+  "internationalName" : "SAINT PIERRE AND MIQUELON"
+}, {
+  "id" : 189,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "670",
+  "twoLetterCode" : "VC",
+  "threeLetterCode" : "VCT",
+  "countryName" : "СЕНТ - ВИНСЕНТ И ГРЕНАДИНЫ",
+  "fullCountryName" : "Сент - винсент и гренадины",
+  "internationalName" : "SAINT VINCENT AND THE GRENADINES"
+}, {
+  "id" : 190,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "674",
+  "twoLetterCode" : "SM",
+  "threeLetterCode" : "SMR",
+  "countryName" : "САН - МАРИНО",
+  "fullCountryName" : "Республика Сан - Марино",
+  "internationalName" : "SAN MARINO"
+}, {
+  "id" : 191,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "678",
+  "twoLetterCode" : "ST",
+  "threeLetterCode" : "STP",
+  "countryName" : "САН - ТОМЕ И ПРИНСИПИ",
+  "fullCountryName" : "Демократическая Республика Сан - Томе и Принсипи",
+  "internationalName" : "SAO TOME AND PRINCIPE"
+}, {
+  "id" : 192,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "682",
+  "twoLetterCode" : "SA",
+  "threeLetterCode" : "SAU",
+  "countryName" : "САУДОВСКАЯ АРАВИЯ",
+  "fullCountryName" : "Королевство Саудовская Аравия",
+  "internationalName" : "SAUDI ARABIA"
+}, {
+  "id" : 193,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "686",
+  "twoLetterCode" : "SN",
+  "threeLetterCode" : "SEN",
+  "countryName" : "СЕНЕГАЛ",
+  "fullCountryName" : "Республика Сенегал",
+  "internationalName" : "SENEGAL"
+}, {
+  "id" : 196,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "702",
+  "twoLetterCode" : "SG",
+  "threeLetterCode" : "CGP",
+  "countryName" : "СИНГАПУР",
+  "fullCountryName" : "Республика Сингапур",
+  "internationalName" : "Republic of Singapore"
+}, {
+  "id" : 199,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "705",
+  "twoLetterCode" : "SI",
+  "threeLetterCode" : "SVN",
+  "countryName" : "СЛОВЕНИЯ",
+  "fullCountryName" : "Республика Словения",
+  "internationalName" : "SLOVENIA"
+}, {
+  "id" : 200,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "706",
+  "twoLetterCode" : "SO",
+  "threeLetterCode" : "SOM",
+  "countryName" : "СОМАЛИ",
+  "fullCountryName" : "Сомалийская   Демократическая Республика",
+  "internationalName" : "SOMALIA"
+}, {
+  "id" : 202,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "716",
+  "twoLetterCode" : "ZW",
+  "threeLetterCode" : "ZWE",
+  "countryName" : "ЗИМБАБВЕ",
+  "fullCountryName" : "Республика Зимбабве",
+  "internationalName" : "ZIMBABWE"
+}, {
+  "id" : 203,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "724",
+  "twoLetterCode" : "ES",
+  "threeLetterCode" : "ESP",
+  "countryName" : "ИСПАНИЯ",
+  "fullCountryName" : "Королевство Испания",
+  "internationalName" : "SPAIN"
+}, {
+  "id" : 204,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "732",
+  "twoLetterCode" : "EH",
+  "threeLetterCode" : "ESH",
+  "countryName" : "ЗАПАДНАЯ САХАРА",
+  "fullCountryName" : "Западная сахара",
+  "internationalName" : "WESTN. SAHARA"
+}, {
+  "id" : 205,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "736",
+  "twoLetterCode" : "SD",
+  "threeLetterCode" : "SDN",
+  "countryName" : "СУДАН",
+  "fullCountryName" : "Республика Судан",
+  "internationalName" : "SUDAN"
+}, {
+  "id" : 206,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "740",
+  "twoLetterCode" : "SR",
+  "threeLetterCode" : "SUR",
+  "countryName" : "СУРИНАМ",
+  "fullCountryName" : "Республика Суринам",
+  "internationalName" : "SURINAME"
+}, {
+  "id" : 207,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "744",
+  "twoLetterCode" : "SJ",
+  "threeLetterCode" : "SJM",
+  "countryName" : "Шпицберген и Ян-Майен Острова",
+  "fullCountryName" : "Шпицберген и Ян Майен (Норв.)",
+  "internationalName" : "SVALBARD IS"
+}, {
+  "id" : 208,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "748",
+  "twoLetterCode" : "SZ",
+  "threeLetterCode" : "SWZ",
+  "countryName" : "СВАЗИЛЕНД",
+  "fullCountryName" : "Королевство Свазиленд",
+  "internationalName" : "ESWATINI"
+}, {
+  "id" : 210,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "756",
+  "twoLetterCode" : "CH",
+  "threeLetterCode" : "CHE",
+  "countryName" : "ШВЕЙЦАРИЯ",
+  "fullCountryName" : "Швейцарская Конфедерация",
+  "internationalName" : "SWITZERLAND"
+}, {
+  "id" : 211,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "760",
+  "twoLetterCode" : "SY",
+  "threeLetterCode" : "SYR",
+  "countryName" : "Сирийская Арабская Республика",
+  "fullCountryName" : "Сирийская Арабская Республика",
+  "internationalName" : "SYRIAN ARAB REPUBLIC"
+}, {
+  "id" : 214,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "768",
+  "twoLetterCode" : "TG",
+  "threeLetterCode" : "TGO",
+  "countryName" : "ТОГО",
+  "fullCountryName" : "Тоголезская Республика",
+  "internationalName" : "TOGO"
+}, {
+  "id" : 216,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "776",
+  "twoLetterCode" : "TO",
+  "threeLetterCode" : "TON",
+  "countryName" : "ТОНГА",
+  "fullCountryName" : "Королевство Тонга",
+  "internationalName" : "TONGA"
+}, {
+  "id" : 217,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "780",
+  "twoLetterCode" : "TT",
+  "threeLetterCode" : "TTO",
+  "countryName" : "ТРИНИДАД И ТОБАГО",
+  "fullCountryName" : "Республика Тринидад и Тобаго",
+  "internationalName" : "TRINIDAD AND TOBAGO"
+}, {
+  "id" : 218,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "784",
+  "twoLetterCode" : "AE",
+  "threeLetterCode" : "ARE",
+  "countryName" : "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
+  "fullCountryName" : "Объединенные арабские эмираты",
+  "internationalName" : "UNITED ARAB EMIRATES"
+}, {
+  "id" : 219,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "788",
+  "twoLetterCode" : "TN",
+  "threeLetterCode" : "TUN",
+  "countryName" : "ТУНИС",
+  "fullCountryName" : "Тунисская Республика",
+  "internationalName" : "TUNISIA"
+}, {
+  "id" : 109,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "372",
+  "twoLetterCode" : "IE",
+  "threeLetterCode" : "IRL",
+  "countryName" : "ИРЛАНДИЯ",
+  "fullCountryName" : "Ирландия",
+  "internationalName" : "IRELAND"
+}, {
+  "id" : 172,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "604",
+  "twoLetterCode" : "PE",
+  "threeLetterCode" : "PER",
+  "countryName" : "ПЕРУ",
+  "fullCountryName" : "Республика Перу",
+  "internationalName" : "PERU"
+}, {
+  "id" : 3,
+  "deleted" : false,
+  "externalId" : "1610414973",
+  "countryCode" : "626",
+  "twoLetterCode" : "TL",
+  "threeLetterCode" : "TLS",
+  "countryName" : "Тимор-Лесте",
+  "fullCountryName" : "Демократическая Республика Тимор-Лесте",
+  "internationalName" : null
+}, {
+  "id" : 4,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "688",
+  "twoLetterCode" : "RS",
+  "threeLetterCode" : "SRB",
+  "countryName" : "СЕРБИЯ",
+  "fullCountryName" : "SERBIA, REPUBLIC OF",
+  "internationalName" : "SERBIA"
+}, {
+  "id" : 22,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "052",
+  "twoLetterCode" : "BB",
+  "threeLetterCode" : "BRB",
+  "countryName" : "БАРБАДОС",
+  "fullCountryName" : "Барбадос",
+  "internationalName" : "BARBADOS"
+}, {
+  "id" : 113,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "388",
+  "twoLetterCode" : "JM",
+  "threeLetterCode" : "JAM",
+  "countryName" : "ЯМАЙКА",
+  "fullCountryName" : "Ямайка",
+  "internationalName" : "JAMAICA"
+}, {
+  "id" : 17,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "040",
+  "twoLetterCode" : "AT",
+  "threeLetterCode" : "AUT",
+  "countryName" : "АВСТРИЯ",
+  "fullCountryName" : "Австрийская Республика",
+  "internationalName" : "AUSTRIA"
+}, {
+  "id" : 18,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "044",
+  "twoLetterCode" : "BS",
+  "threeLetterCode" : "BHS",
+  "countryName" : "БАГАМСКИЕ ОСТРОВА",
+  "fullCountryName" : "Содружество Багамских островов",
+  "internationalName" : "BAHAMAS"
+}, {
+  "id" : 19,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "048",
+  "twoLetterCode" : "BH",
+  "threeLetterCode" : "BHR",
+  "countryName" : "БАХРЕЙН",
+  "fullCountryName" : "Государство Бахрейн",
+  "internationalName" : "BAHRAIN"
+}, {
+  "id" : 20,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "050",
+  "twoLetterCode" : "BD",
+  "threeLetterCode" : "BGD",
+  "countryName" : "БАНГЛАДЕШ",
+  "fullCountryName" : "Народная Республика Бангладеш",
+  "internationalName" : "BANGLADESH"
+}, {
+  "id" : 21,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "051",
+  "twoLetterCode" : "AM",
+  "threeLetterCode" : "ARM",
+  "countryName" : "АРМЕНИЯ",
+  "fullCountryName" : "Республика Армения",
+  "internationalName" : "ARMENIA"
+}, {
+  "id" : 23,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "056",
+  "twoLetterCode" : "BE",
+  "threeLetterCode" : "BEL",
+  "countryName" : "БЕЛЬГИЯ",
+  "fullCountryName" : "Королевство Бельгия",
+  "internationalName" : "BELGIUM"
+}, {
+  "id" : 24,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "060",
+  "twoLetterCode" : "BM",
+  "threeLetterCode" : "BMU",
+  "countryName" : "БЕРМУДСКИЕ ОСТРОВА (Брит.)",
+  "fullCountryName" : "Бермудские Острова",
+  "internationalName" : "BERMUDA"
+}, {
+  "id" : 25,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "064",
+  "twoLetterCode" : "BT",
+  "threeLetterCode" : "BTN",
+  "countryName" : "БУТАН",
+  "fullCountryName" : "Королевство Бутан",
+  "internationalName" : "BHUTAN"
+}, {
+  "id" : 26,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "068",
+  "twoLetterCode" : "BO",
+  "threeLetterCode" : "BOL",
+  "countryName" : "БОЛИВИЯ",
+  "fullCountryName" : "Республика Боливия",
+  "internationalName" : "BOLIVIA, PLURINATIONAL STATE OF"
+}, {
+  "id" : 27,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "070",
+  "twoLetterCode" : "BA",
+  "threeLetterCode" : "BIH",
+  "countryName" : "БОСНИЯ И ГЕРЦЕГОВИНА",
+  "fullCountryName" : "Босния и герцеговина",
+  "internationalName" : "BOSNIA AND HERZEGOVINA"
+}, {
+  "id" : 28,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "072",
+  "twoLetterCode" : "BW",
+  "threeLetterCode" : "BWA",
+  "countryName" : "БОТСВАНА",
+  "fullCountryName" : "Республика Ботсвана",
+  "internationalName" : "BOTSWANA"
+}, {
+  "id" : 5,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "643",
+  "twoLetterCode" : "RU",
+  "threeLetterCode" : "RUS",
+  "countryName" : "РОССИЯ",
+  "fullCountryName" : "Российская Федерация",
+  "internationalName" : "RUSSIAN FEDERATION"
+}, {
+  "id" : 6,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "004",
+  "twoLetterCode" : "AF",
+  "threeLetterCode" : "AFG",
+  "countryName" : "АФГАНИСТАН",
+  "fullCountryName" : "Исламское Государство Афганистан",
+  "internationalName" : "AFGHANISTAN"
+}, {
+  "id" : 7,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "008",
+  "twoLetterCode" : "AL",
+  "threeLetterCode" : "ALB",
+  "countryName" : "АЛБАНИЯ",
+  "fullCountryName" : "Республика Албания",
+  "internationalName" : "ALBANIA"
+}, {
+  "id" : 8,
+  "deleted" : false,
+  "externalId" : "1942596",
+  "countryCode" : "010",
+  "twoLetterCode" : "AQ",
+  "threeLetterCode" : "ATA",
+  "countryName" : "АНТАРКТИДА",
+  "fullCountryName" : "Антарктида",
+  "internationalName" : null
+}, {
+  "id" : 9,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "012",
+  "twoLetterCode" : "DZ",
+  "threeLetterCode" : "DZA",
+  "countryName" : "АЛЖИР",
+  "fullCountryName" : "Алжирская Народная Демократическая Республика",
+  "internationalName" : "ALGERIA"
+}, {
+  "id" : 10,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "016",
+  "twoLetterCode" : "AS",
+  "threeLetterCode" : "ASM",
+  "countryName" : "ВОСТОЧНОЕ САМОА (США)",
+  "fullCountryName" : "Американское Самоа",
+  "internationalName" : "AMERICAN SAMOA"
+}, {
+  "id" : 11,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "020",
+  "twoLetterCode" : "AD",
+  "threeLetterCode" : "AND",
+  "countryName" : "АНДОРРА",
+  "fullCountryName" : "Княжество Андорра",
+  "internationalName" : "ANDORRA"
+}, {
+  "id" : 12,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "024",
+  "twoLetterCode" : "AO",
+  "threeLetterCode" : "AGO",
+  "countryName" : "АНГОЛА",
+  "fullCountryName" : "Республика Ангола",
+  "internationalName" : "ANGOLA"
+}, {
+  "id" : 13,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "028",
+  "twoLetterCode" : "AG",
+  "threeLetterCode" : "ATG",
+  "countryName" : "АНТИГУА И БАРБУДА",
+  "fullCountryName" : "Антигуа и барбуда",
+  "internationalName" : "ANTIGUA AND BARBUDA"
+}, {
+  "id" : 14,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "031",
+  "twoLetterCode" : "AZ",
+  "threeLetterCode" : "AZE",
+  "countryName" : "АЗЕРБАЙДЖАН",
+  "fullCountryName" : "Азербайджанская Республика",
+  "internationalName" : "AZERBAIJAN"
+}, {
+  "id" : 15,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "032",
+  "twoLetterCode" : "AR",
+  "threeLetterCode" : "ARG",
+  "countryName" : "АРГЕНТИНА",
+  "fullCountryName" : "Аргентинская Республика",
+  "internationalName" : "ARGENTINA"
+}, {
+  "id" : 16,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "036",
+  "twoLetterCode" : "AU",
+  "threeLetterCode" : "AUS",
+  "countryName" : "АВСТРАЛИЯ",
+  "fullCountryName" : "Австралия",
+  "internationalName" : "AUSTRALIA"
+}, {
+  "id" : 227,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "818",
+  "twoLetterCode" : "EG",
+  "threeLetterCode" : "EGY",
+  "countryName" : "ЕГИПЕТ",
+  "fullCountryName" : "Арабская Республика Египет",
+  "internationalName" : "EGYPT"
+}, {
+  "id" : 228,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "826",
+  "twoLetterCode" : "GB",
+  "threeLetterCode" : "GBR",
+  "countryName" : "Соединеное Королевство",
+  "fullCountryName" : "Соединенное    Королевство Великобритании и Северной Ирландии",
+  "internationalName" : "UNITED KINGDOM"
+}, {
+  "id" : 229,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "834",
+  "twoLetterCode" : "TZ",
+  "threeLetterCode" : "TZA",
+  "countryName" : "ТАНЗАНИЯ",
+  "fullCountryName" : "Объединенная Республика Танзания",
+  "internationalName" : "TANZANIA, UNITED REPUBLIC OF"
+}, {
+  "id" : 230,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "840",
+  "twoLetterCode" : "US",
+  "threeLetterCode" : "USA",
+  "countryName" : "СОЕДИНЕННЫЕ ШТАТЫ АМЕРИКИ",
+  "fullCountryName" : "Соединенные Штаты Америки",
+  "internationalName" : "UNITED STATES OF AMERICA"
+}, {
+  "id" : 231,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "850",
+  "twoLetterCode" : "VI",
+  "threeLetterCode" : "VIR",
+  "countryName" : "ВИРГИНСКИЕ ОСТРОВА (США)",
+  "fullCountryName" : "Виргинские острова Соединенных Штатов Америки",
+  "internationalName" : "VIRGIN ISLANDS (U.S.)"
+}, {
+  "id" : 232,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "854",
+  "twoLetterCode" : "BF",
+  "threeLetterCode" : "BFA",
+  "countryName" : "БУРКИНА - ФАСО",
+  "fullCountryName" : "Буркина - фасо",
+  "internationalName" : "BURKINA FASO"
+}, {
+  "id" : 233,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "858",
+  "twoLetterCode" : "UY",
+  "threeLetterCode" : "URY",
+  "countryName" : "УРУГВАЙ",
+  "fullCountryName" : "Восточная Республика Уругвай",
+  "internationalName" : "URUGUAY"
+}, {
+  "id" : 234,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "860",
+  "twoLetterCode" : "UZ",
+  "threeLetterCode" : "UZB",
+  "countryName" : "УЗБЕКИСТАН",
+  "fullCountryName" : "Республика Узбекистан",
+  "internationalName" : "UZBEKISTAN"
+}, {
+  "id" : 235,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "862",
+  "twoLetterCode" : "VE",
+  "threeLetterCode" : "VEN",
+  "countryName" : "ВЕНЕСУЭЛА",
+  "fullCountryName" : "Республика Венесуэла",
+  "internationalName" : "VENEZUELA (BOLIVARIAN REPUBLIC OF)"
+}, {
+  "id" : 236,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "876",
+  "twoLetterCode" : "WF",
+  "threeLetterCode" : "WLF",
+  "countryName" : "УОЛЛИС И ФУТУНА",
+  "fullCountryName" : "Острова Уоллис и Футуна",
+  "internationalName" : "WALLIS AND FUTUNA"
+}, {
+  "id" : 42,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "124",
+  "twoLetterCode" : "CA",
+  "threeLetterCode" : "CAN",
+  "countryName" : "КАНАДА",
+  "fullCountryName" : "Канада",
+  "internationalName" : "CANADA"
+}, {
+  "id" : 2,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "499",
+  "twoLetterCode" : "ME",
+  "threeLetterCode" : "MNE",
+  "countryName" : "ЧЕРНОГОРИЯ",
+  "fullCountryName" : "Республика Черногория",
+  "internationalName" : "MONTENEGRO"
+}, {
+  "id" : 175,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "616",
+  "twoLetterCode" : "PL",
+  "threeLetterCode" : "POL",
+  "countryName" : "ПОЛЬША",
+  "fullCountryName" : "Польская Республика",
+  "internationalName" : "POLAND"
+}, {
+  "id" : 237,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "882",
+  "twoLetterCode" : "WS",
+  "threeLetterCode" : "WSM",
+  "countryName" : "САМОА",
+  "fullCountryName" : "Независимое Государство Самоа",
+  "internationalName" : "SAMOA"
+}, {
+  "id" : 238,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "887",
+  "twoLetterCode" : "YE",
+  "threeLetterCode" : "YEM",
+  "countryName" : "ЙЕМЕН",
+  "fullCountryName" : "Республика Йемен",
+  "internationalName" : "YEMEN"
+}, {
+  "id" : 194,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "891",
+  "twoLetterCode" : "CS",
+  "threeLetterCode" : "SCG",
+  "countryName" : "Сербия и Черногория",
+  "fullCountryName" : "Сербия и Черногория",
+  "internationalName" : "Сербия и Черногория"
+}, {
+  "id" : 239,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "894",
+  "twoLetterCode" : "ZM",
+  "threeLetterCode" : "ZMB",
+  "countryName" : "ЗАМБИЯ",
+  "fullCountryName" : "Республика Замбия",
+  "internationalName" : "ZAMBIA"
+}, {
+  "id" : 240,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "833",
+  "twoLetterCode" : "IM",
+  "threeLetterCode" : "IMN",
+  "countryName" : "Остров Мэн",
+  "fullCountryName" : null,
+  "internationalName" : "ISLE OF MAN"
+}, {
+  "id" : 241,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "832",
+  "twoLetterCode" : "JE",
+  "threeLetterCode" : "JEY",
+  "countryName" : "О-В ДЖЕРСИ",
+  "fullCountryName" : "О-В ДЖЕРСИ",
+  "internationalName" : "JERSEY"
+}, {
+  "id" : 242,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "180",
+  "twoLetterCode" : "CD",
+  "threeLetterCode" : "COD",
+  "countryName" : "Демократическая Респуб-лика Конго",
+  "fullCountryName" : "Демократическая Респуб-лика Конго ",
+  "internationalName" : "CONGO, THE DEMOCRATIC REPUBLIC OF THE"
+}, {
+  "id" : 243,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "831",
+  "twoLetterCode" : "GG",
+  "threeLetterCode" : "GGY",
+  "countryName" : "Гернси",
+  "fullCountryName" : null,
+  "internationalName" : "GUERNSEY"
+}, {
+  "id" : 244,
+  "deleted" : false,
+  "externalId" : "2258158495",
+  "countryCode" : "531",
+  "twoLetterCode" : "CW",
+  "threeLetterCode" : "CUW",
+  "countryName" : "CURACAO",
+  "fullCountryName" : "CURACAO",
+  "internationalName" : null
+}, {
+  "id" : 245,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "728",
+  "twoLetterCode" : "SS",
+  "threeLetterCode" : "SSD",
+  "countryName" : "АФРИКА",
+  "fullCountryName" : "АФРИКА",
+  "internationalName" : "SOUTH SUDAN"
+}, {
+  "id" : 246,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "535",
+  "twoLetterCode" : "BQ",
+  "threeLetterCode" : "BES",
+  "countryName" : "Бонайре, Саба и Синт-Эстатиус",
+  "fullCountryName" : "Бонайре, Саба и Синт-Эстатиус",
+  "internationalName" : "BONAIRE, SINT EUSTATIUS AND SABA"
+}, {
+  "id" : 247,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "534",
+  "twoLetterCode" : "SX",
+  "threeLetterCode" : "SXM",
+  "countryName" : "СЕН-МАРТЕН (НИДЕРЛАНДСКАЯ ЧАСТЬ)",
+  "fullCountryName" : "СЕН-МАРТЕН (НИДЕРЛАНДСКАЯ ЧАСТЬ)",
+  "internationalName" : "SINT MAARTEN (DUTCH PART)"
+}, {
+  "id" : 249,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "275",
+  "twoLetterCode" : "PS",
+  "threeLetterCode" : "PSE",
+  "countryName" : "Палестинская автономия, оккупированная",
+  "fullCountryName" : "Оккупированная Палестинская территория",
+  "internationalName" : "PALESTINE, STATE OF"
+}, {
+  "id" : 93,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "312",
+  "twoLetterCode" : "GP",
+  "threeLetterCode" : "GLP",
+  "countryName" : "ГВАДЕЛУПА",
+  "fullCountryName" : "Гваделупа (Фр.)",
+  "internationalName" : "GUADELOUPE"
+}, {
+  "id" : 101,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "340",
+  "twoLetterCode" : "HN",
+  "threeLetterCode" : "HND",
+  "countryName" : "ГОНДУРАС",
+  "fullCountryName" : "Республика Гондурас",
+  "internationalName" : "HONDURAS"
+}, {
+  "id" : 102,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "344",
+  "twoLetterCode" : "HK",
+  "threeLetterCode" : "HKG",
+  "countryName" : "ГОНКОНГ",
+  "fullCountryName" : "ГОНКОНГ",
+  "internationalName" : "HONG KONG"
+}, {
+  "id" : 104,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "352",
+  "twoLetterCode" : "IS",
+  "threeLetterCode" : "ISL",
+  "countryName" : "ИСЛАНДИЯ",
+  "fullCountryName" : "Республика Исландия",
+  "internationalName" : "ICELAND"
+}, {
+  "id" : 105,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "356",
+  "twoLetterCode" : "IN",
+  "threeLetterCode" : "IND",
+  "countryName" : "ИНДИЯ",
+  "fullCountryName" : "Республика Индия",
+  "internationalName" : "INDIA"
+}, {
+  "id" : 106,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "360",
+  "twoLetterCode" : "ID",
+  "threeLetterCode" : "IDN",
+  "countryName" : "ИНДОНЕЗИЯ",
+  "fullCountryName" : "Республика Индонезия",
+  "internationalName" : "INDONESIA"
+}, {
+  "id" : 112,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "384",
+  "twoLetterCode" : "CI",
+  "threeLetterCode" : "CIV",
+  "countryName" : "КОТ - Д'ИВУАР",
+  "fullCountryName" : "Республика Кот - д'Ивуар",
+  "internationalName" : "COTE D'IVOIRE"
+}, {
+  "id" : 1,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "398",
+  "twoLetterCode" : "KZ",
+  "threeLetterCode" : "KAZ",
+  "countryName" : "КАЗАХСТАН",
+  "fullCountryName" : "Республика Казахстан",
+  "internationalName" : "KAZAKHSTAN"
+}, {
+  "id" : 115,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "400",
+  "twoLetterCode" : "JO",
+  "threeLetterCode" : "JOR",
+  "countryName" : "ИОРДАНИЯ",
+  "fullCountryName" : "Иорданское Хашимитское Королевство",
+  "internationalName" : "JORDAN"
+}, {
+  "id" : 118,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "410",
+  "twoLetterCode" : "KR",
+  "threeLetterCode" : "KOR",
+  "countryName" : "КОРЕЯ (РЕСПУБЛИКА)",
+  "fullCountryName" : "Республика Корея",
+  "internationalName" : "KOREA, REPUBLIC OF"
+}, {
+  "id" : 119,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "414",
+  "twoLetterCode" : "KW",
+  "threeLetterCode" : "KWT",
+  "countryName" : "КУВЕЙТ",
+  "fullCountryName" : "Государство Кувейт",
+  "internationalName" : "KUWAIT"
+}, {
+  "id" : 176,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "620",
+  "twoLetterCode" : "PT",
+  "threeLetterCode" : "PRT",
+  "countryName" : "ПОРТУГАЛИЯ",
+  "fullCountryName" : "Португальская Республика",
+  "internationalName" : "PORTUGAL"
+}, {
+  "id" : 177,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "624",
+  "twoLetterCode" : "GW",
+  "threeLetterCode" : "GNB",
+  "countryName" : "ГВИНЕЯ - БИСАУ",
+  "fullCountryName" : "Республика Гвинея - Бисау",
+  "internationalName" : "GUINEA-BISSAU"
+}, {
+  "id" : 178,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "626",
+  "twoLetterCode" : "TP",
+  "threeLetterCode" : "TMP",
+  "countryName" : "Тимор Лоросае",
+  "fullCountryName" : "Восточный Тимор",
+  "internationalName" : "TIMOR-LESTE"
+}, {
+  "id" : 179,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "630",
+  "twoLetterCode" : "PR",
+  "threeLetterCode" : "PRI",
+  "countryName" : "ПУЭРТО - РИКО",
+  "fullCountryName" : "Содружество Пуэрто - Рико (США)",
+  "internationalName" : "PUERTO RICO"
+}, {
+  "id" : 180,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "634",
+  "twoLetterCode" : "QA",
+  "threeLetterCode" : "QAT",
+  "countryName" : "КАТАР",
+  "fullCountryName" : "Государство Катар",
+  "internationalName" : "QATAR"
+}, {
+  "id" : 220,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "792",
+  "twoLetterCode" : "TR",
+  "threeLetterCode" : "TUR",
+  "countryName" : "ТУРЦИЯ",
+  "fullCountryName" : "Турецкая Республика",
+  "internationalName" : "TURKEY"
+}, {
+  "id" : 221,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "795",
+  "twoLetterCode" : "TM",
+  "threeLetterCode" : "TKM",
+  "countryName" : "Туркменистан",
+  "fullCountryName" : "Туркменистан",
+  "internationalName" : "TURKMENISTAN"
+}, {
+  "id" : 222,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "796",
+  "twoLetterCode" : "TC",
+  "threeLetterCode" : "TCA",
+  "countryName" : "ТЕРКС И КАЙКОС",
+  "fullCountryName" : "Теркс и Кайкос (Брит.)",
+  "internationalName" : "TURKS AND CAICOS ISLANDS"
+}, {
+  "id" : 223,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "798",
+  "twoLetterCode" : "TV",
+  "threeLetterCode" : "TUV",
+  "countryName" : "ТУВАЛУ",
+  "fullCountryName" : "Тувалу",
+  "internationalName" : "TUVALU"
+}, {
+  "id" : 224,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "800",
+  "twoLetterCode" : "UG",
+  "threeLetterCode" : "UGA",
+  "countryName" : "УГАНДА",
+  "fullCountryName" : "Республика Уганда",
+  "internationalName" : "UGANDA"
+}, {
+  "id" : 225,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "804",
+  "twoLetterCode" : "UA",
+  "threeLetterCode" : "UKR",
+  "countryName" : "УКРАИНА",
+  "fullCountryName" : "Украина",
+  "internationalName" : "UKRAINE"
+}, {
+  "id" : 226,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "807",
+  "twoLetterCode" : "MK",
+  "threeLetterCode" : "MKD",
+  "countryName" : "МАКЕДОНИЯ",
+  "fullCountryName" : "Республика Македония",
+  "internationalName" : "NORTH MACEDONIA"
+}, {
+  "id" : 31,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "084",
+  "twoLetterCode" : "BZ",
+  "threeLetterCode" : "BLZ",
+  "countryName" : "БЕЛИЗ",
+  "fullCountryName" : "Белиз",
+  "internationalName" : "BELIZE"
+}, {
+  "id" : 56,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "178",
+  "twoLetterCode" : "CG",
+  "threeLetterCode" : "COG",
+  "countryName" : "КОНГО",
+  "fullCountryName" : "Республика Конго",
+  "internationalName" : "CONGO"
+}, {
+  "id" : 70,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "226",
+  "twoLetterCode" : "GQ",
+  "threeLetterCode" : "GNQ",
+  "countryName" : "ЭКВАТОРИАЛЬНАЯ ГВИНЕЯ",
+  "fullCountryName" : "Республика Экваториальная Гвинея",
+  "internationalName" : "EQUATORIAL GUINEA"
+}, {
+  "id" : 76,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "242",
+  "twoLetterCode" : "FJ",
+  "threeLetterCode" : "FJI",
+  "countryName" : "ФИДЖИ",
+  "fullCountryName" : "Республика Фиджи",
+  "internationalName" : "FIJI"
+}, {
+  "id" : 82,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "262",
+  "twoLetterCode" : "DJ",
+  "threeLetterCode" : "DJI",
+  "countryName" : "ДЖИБУТИ",
+  "fullCountryName" : "Республика Джибути",
+  "internationalName" : "DJIBOUTI"
+}, {
+  "id" : 48,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "152",
+  "twoLetterCode" : "CL",
+  "threeLetterCode" : "CHL",
+  "countryName" : "ЧИЛИ",
+  "fullCountryName" : "Республика Чили",
+  "internationalName" : "CHILE"
+}, {
+  "id" : 63,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "203",
+  "twoLetterCode" : "CZ",
+  "threeLetterCode" : "CZE",
+  "countryName" : "ЧЕХИЯ",
+  "fullCountryName" : "Чешская Республика",
+  "internationalName" : "CZECHIA"
+}, {
+  "id" : 65,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "208",
+  "twoLetterCode" : "DK",
+  "threeLetterCode" : "DNK",
+  "countryName" : "ДАНИЯ",
+  "fullCountryName" : "Королевство Дания",
+  "internationalName" : "DENMARK"
+}, {
+  "id" : 66,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "212",
+  "twoLetterCode" : "DM",
+  "threeLetterCode" : "DMA",
+  "countryName" : "ДОМИНИКА",
+  "fullCountryName" : "Содружество Доминики",
+  "internationalName" : "DOMINICA"
+}, {
+  "id" : 67,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "214",
+  "twoLetterCode" : "DO",
+  "threeLetterCode" : "DOM",
+  "countryName" : "ДОМИНИКАНСКАЯ РЕСПУБЛИКА",
+  "fullCountryName" : "Доминиканская Республика",
+  "internationalName" : "DOMINICAN REPUBLIC"
+}, {
+  "id" : 68,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "218",
+  "twoLetterCode" : "EC",
+  "threeLetterCode" : "ECU",
+  "countryName" : "ЭКВАДОР",
+  "fullCountryName" : "Республика Эквадор",
+  "internationalName" : "ECUADOR"
+}, {
+  "id" : 69,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "222",
+  "twoLetterCode" : "SV",
+  "threeLetterCode" : "SLV",
+  "countryName" : "САЛЬВАДОР",
+  "fullCountryName" : "Республика Эль - Сальвадор",
+  "internationalName" : "EL SALVADOR"
+}, {
+  "id" : 71,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "231",
+  "twoLetterCode" : "ET",
+  "threeLetterCode" : "ETH",
+  "countryName" : "ЭФИОПИЯ",
+  "fullCountryName" : "Федеративная   Демократическая Республика Эфиопия",
+  "internationalName" : "ETHIOPIA"
+}, {
+  "id" : 72,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "232",
+  "twoLetterCode" : "ER",
+  "threeLetterCode" : "ERI",
+  "countryName" : "ЭРИТРЕЯ",
+  "fullCountryName" : "Государство Эритрея",
+  "internationalName" : "ERITREA"
+}, {
+  "id" : 74,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "234",
+  "twoLetterCode" : "FO",
+  "threeLetterCode" : "FRO",
+  "countryName" : "ФАРЕРСКИЕ ОСТРОВА",
+  "fullCountryName" : "Фарерские Острова (Дат.)",
+  "internationalName" : "FAROE ISLANDS"
+}, {
+  "id" : 75,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "238",
+  "twoLetterCode" : "FK",
+  "threeLetterCode" : "FLK",
+  "countryName" : "ФОЛКЛЕНДСКИЕ ОСТРОВА",
+  "fullCountryName" : "Фолклендские (Мальвинские) Острова (спорн. Брит., Арг.)",
+  "internationalName" : "FALKLAND ISLANDS (MALVINAS)"
+}, {
+  "id" : 77,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "246",
+  "twoLetterCode" : "FI",
+  "threeLetterCode" : "FIN",
+  "countryName" : "ФИНЛЯНДИЯ",
+  "fullCountryName" : "Финляндская Республика",
+  "internationalName" : "FINLAND"
+}, {
+  "id" : 78,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "250",
+  "twoLetterCode" : "FR",
+  "threeLetterCode" : "FRA",
+  "countryName" : "ФРАНЦИЯ",
+  "fullCountryName" : "Французская Республика",
+  "internationalName" : "FRANCE"
+}, {
+  "id" : 80,
+  "deleted" : false,
+  "externalId" : "1942668",
+  "countryCode" : "259",
+  "twoLetterCode" : "PF",
+  "threeLetterCode" : "PYF",
+  "countryName" : "ФРАНЦУЗСКАЯ ПОЛИНЕЗИЯ",
+  "fullCountryName" : "Французская Полинезия (Фр.)",
+  "internationalName" : null
+}, {
+  "id" : 81,
+  "deleted" : false,
+  "externalId" : "1942669",
+  "countryCode" : "260",
+  "twoLetterCode" : "TF",
+  "threeLetterCode" : "ATF",
+  "countryName" : "ФРАНЦУЗСКИЕ ЮЖНЫЕ ТЕРРИТОРИИ",
+  "fullCountryName" : "Французские Южные Территории (Фр.)",
+  "internationalName" : null
+}, {
+  "id" : 83,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "266",
+  "twoLetterCode" : "GA",
+  "threeLetterCode" : "GAB",
+  "countryName" : "ГАБОН",
+  "fullCountryName" : "Габонская Республика",
+  "internationalName" : "GABON"
+}, {
+  "id" : 84,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "268",
+  "twoLetterCode" : "GE",
+  "threeLetterCode" : "GEO",
+  "countryName" : "ГРУЗИЯ",
+  "fullCountryName" : "Республика Грузия",
+  "internationalName" : "GEORGIA"
+}, {
+  "id" : 85,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "270",
+  "twoLetterCode" : "GM",
+  "threeLetterCode" : "GMB",
+  "countryName" : "ГАМБИЯ",
+  "fullCountryName" : "Республика Гамбия",
+  "internationalName" : "GAMBIA"
+}, {
+  "id" : 86,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "276",
+  "twoLetterCode" : "DE",
+  "threeLetterCode" : "DEU",
+  "countryName" : "ГЕРМАНИЯ",
+  "fullCountryName" : "Федеративная Республика Германия",
+  "internationalName" : "GERMANY"
+}, {
+  "id" : 87,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "288",
+  "twoLetterCode" : "GH",
+  "threeLetterCode" : "GHA",
+  "countryName" : "ГАНА",
+  "fullCountryName" : "Республика Гана",
+  "internationalName" : "GHANA"
+}, {
+  "id" : 88,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "292",
+  "twoLetterCode" : "GI",
+  "threeLetterCode" : "GIB",
+  "countryName" : "ГИБРАЛТАР",
+  "fullCountryName" : "Гибралтар (Брит.)",
+  "internationalName" : "GIBRALTAR"
+}, {
+  "id" : 90,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "300",
+  "twoLetterCode" : "GR",
+  "threeLetterCode" : "GRC",
+  "countryName" : "ГРЕЦИЯ",
+  "fullCountryName" : "Греческая Республика",
+  "internationalName" : "GREECE"
+}, {
+  "id" : 91,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "304",
+  "twoLetterCode" : "GL",
+  "threeLetterCode" : "GRL",
+  "countryName" : "ГРЕНЛАНДИЯ",
+  "fullCountryName" : "Гренландия (Дат.)",
+  "internationalName" : "GREENLAND"
+}, {
+  "id" : 94,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "316",
+  "twoLetterCode" : "GU",
+  "threeLetterCode" : "GUM",
+  "countryName" : "ГУАМ",
+  "fullCountryName" : "Гуам (США)",
+  "internationalName" : "GUAM"
+}, {
+  "id" : 95,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "320",
+  "twoLetterCode" : "GT",
+  "threeLetterCode" : "GTM",
+  "countryName" : "ГВАТЕМАЛА",
+  "fullCountryName" : "Республика Гватемала",
+  "internationalName" : "GUATEMALA"
+}, {
+  "id" : 96,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "324",
+  "twoLetterCode" : "GN",
+  "threeLetterCode" : "GIN",
+  "countryName" : "ГВИНЕЯ",
+  "fullCountryName" : "Гвинейская Республика",
+  "internationalName" : "GUINEA"
+}, {
+  "id" : 97,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "328",
+  "twoLetterCode" : "GY",
+  "threeLetterCode" : "GUY",
+  "countryName" : "ГАЙАНА",
+  "fullCountryName" : "Республика Гайана",
+  "internationalName" : "GUYANA"
+}, {
+  "id" : 98,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "332",
+  "twoLetterCode" : "HT",
+  "threeLetterCode" : "HTI",
+  "countryName" : "ГАИТИ",
+  "fullCountryName" : "Республика Гаити",
+  "internationalName" : "HAITI"
+}, {
+  "id" : 99,
+  "deleted" : false,
+  "externalId" : "1942687",
+  "countryCode" : "334",
+  "twoLetterCode" : "HM",
+  "threeLetterCode" : "HMD",
+  "countryName" : "ХЕРД И МАКДОНАЛЬД",
+  "fullCountryName" : "Херд и Макдональд (Австрал.)",
+  "internationalName" : null
+}, {
+  "id" : 100,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "336",
+  "twoLetterCode" : "VA",
+  "threeLetterCode" : "VAT",
+  "countryName" : "ВАТИКАН",
+  "fullCountryName" : "Государство - Город Ватикан",
+  "internationalName" : "HOLY SEE"
+}, {
+  "id" : 103,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "348",
+  "twoLetterCode" : "HU",
+  "threeLetterCode" : "HUN",
+  "countryName" : "ВЕНГРИЯ",
+  "fullCountryName" : "Венгерская Республика",
+  "internationalName" : "HUNGARY"
+}, {
+  "id" : 29,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "074",
+  "twoLetterCode" : "BV",
+  "threeLetterCode" : "BVT",
+  "countryName" : "БУВЕ",
+  "fullCountryName" : "Остров Буве",
+  "internationalName" : null
+}, {
+  "id" : 34,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "092",
+  "twoLetterCode" : "VG",
+  "threeLetterCode" : "VGB",
+  "countryName" : "ВИРГИНСКИЕ ОСТРОВА (БРИТ.)",
+  "fullCountryName" : "Британские Виргинские Острова",
+  "internationalName" : "VIRGIN ISLANDS, BRITISH"
+}, {
+  "id" : 35,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "096",
+  "twoLetterCode" : "BN",
+  "threeLetterCode" : "BRN",
+  "countryName" : "БРУНЕЙ",
+  "fullCountryName" : "Государство Бруней - Даруссалам",
+  "internationalName" : "BRUNEI DARUSSALAM"
+}, {
+  "id" : 36,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "100",
+  "twoLetterCode" : "BG",
+  "threeLetterCode" : "BGR",
+  "countryName" : "БОЛГАРИЯ",
+  "fullCountryName" : "Республика Болгария",
+  "internationalName" : "BULGARIA"
+}, {
+  "id" : 37,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "104",
+  "twoLetterCode" : "MM",
+  "threeLetterCode" : "MMR",
+  "countryName" : "МЬЯНМА",
+  "fullCountryName" : "Союз Мьянма",
+  "internationalName" : "MYANMAR"
+}, {
+  "id" : 38,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "108",
+  "twoLetterCode" : "BI",
+  "threeLetterCode" : "BDI",
+  "countryName" : "БУРУНДИ",
+  "fullCountryName" : "Республика Бурунди",
+  "internationalName" : "BURUNDI"
+}, {
+  "id" : 39,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "112",
+  "twoLetterCode" : "BY",
+  "threeLetterCode" : "BLR",
+  "countryName" : "БЕЛАРУСЬ",
+  "fullCountryName" : "Республика Беларусь",
+  "internationalName" : "BELARUS"
+}, {
+  "id" : 40,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "116",
+  "twoLetterCode" : "KH",
+  "threeLetterCode" : "KHM",
+  "countryName" : "КАМБОДЖА",
+  "fullCountryName" : "Королевство Камбоджа",
+  "internationalName" : "CAMBODIA"
+}, {
+  "id" : 41,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "120",
+  "twoLetterCode" : "CM",
+  "threeLetterCode" : "CMR",
+  "countryName" : "КАМЕРУН",
+  "fullCountryName" : "Республика Камерун",
+  "internationalName" : "CAMEROON"
+}, {
+  "id" : 43,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "132",
+  "twoLetterCode" : "CV",
+  "threeLetterCode" : "CPV",
+  "countryName" : "КАБО - ВЕРДЕ",
+  "fullCountryName" : "Республика Кабо - Верде",
+  "internationalName" : "CABO VERDE"
+}, {
+  "id" : 44,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "136",
+  "twoLetterCode" : "KY",
+  "threeLetterCode" : "CYM",
+  "countryName" : "Каймановы Острова (Брит.)",
+  "fullCountryName" : "Острова Кайман",
+  "internationalName" : "CAYMAN ISLANDS"
+}, {
+  "id" : 45,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "140",
+  "twoLetterCode" : "CF",
+  "threeLetterCode" : "CAF",
+  "countryName" : "ЦЕНТРАЛЬНОАФРИКАНСКАЯ РЕСПУБЛИКА",
+  "fullCountryName" : "Центральноафриканская Республика",
+  "internationalName" : "CENTRAL AFRICAN REPUBLIC"
+}, {
+  "id" : 46,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "144",
+  "twoLetterCode" : "LK",
+  "threeLetterCode" : "LKA",
+  "countryName" : "ШРИ - ЛАНКА",
+  "fullCountryName" : "Демократическая  Социалистическая Республика Шри - Ланка",
+  "internationalName" : "SRI LANKA"
+}, {
+  "id" : 47,
+  "deleted" : false,
+  "externalId" : "1942635",
+  "countryCode" : "149",
+  "twoLetterCode" : "TD",
+  "threeLetterCode" : "TCD",
+  "countryName" : "ЧАД",
+  "fullCountryName" : "Республика Чад",
+  "internationalName" : null
+}, {
+  "id" : 49,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "156",
+  "twoLetterCode" : "CN",
+  "threeLetterCode" : "CHN",
+  "countryName" : "КИТАЙ",
+  "fullCountryName" : "Китайская Народная Республика",
+  "internationalName" : "CHINA"
+}, {
+  "id" : 50,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "158",
+  "twoLetterCode" : "TW",
+  "threeLetterCode" : "TWN",
+  "countryName" : "Тайвань, провинция Китая",
+  "fullCountryName" : "Тайвань, провинция Китая",
+  "internationalName" : "TAIWAN"
+}, {
+  "id" : 51,
+  "deleted" : false,
+  "externalId" : "1942639",
+  "countryCode" : "162",
+  "twoLetterCode" : "CX",
+  "threeLetterCode" : "CXR",
+  "countryName" : "ОСТРОВ РОЖДЕСТВА",
+  "fullCountryName" : "Остров Рождества (Австрал.)",
+  "internationalName" : null
+}, {
+  "id" : 52,
+  "deleted" : false,
+  "externalId" : "1942640",
+  "countryCode" : "166",
+  "twoLetterCode" : "CC",
+  "threeLetterCode" : "CCK",
+  "countryName" : "КОКОСОВЫЕ ОСТРОВА",
+  "fullCountryName" : "Кокосовые (Килинг) Острова (в составе Австралии)",
+  "internationalName" : null
+}, {
+  "id" : 53,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "170",
+  "twoLetterCode" : "CO",
+  "threeLetterCode" : "COL",
+  "countryName" : "КОЛУМБИЯ",
+  "fullCountryName" : "Республика Колумбия",
+  "internationalName" : "COLOMBIA"
+}, {
+  "id" : 54,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "174",
+  "twoLetterCode" : "KM",
+  "threeLetterCode" : "COM",
+  "countryName" : "КОМОРСКИЕ ОСТРОВА",
+  "fullCountryName" : "Федеральная Исламская  Республика Коморские Острова",
+  "internationalName" : "COMOROS"
+}, {
+  "id" : 57,
+  "deleted" : false,
+  "externalId" : "1942645",
+  "countryCode" : "180",
+  "twoLetterCode" : "ZR",
+  "threeLetterCode" : "ZAR",
+  "countryName" : "ЗАИР",
+  "fullCountryName" : "Республика Заир",
+  "internationalName" : null
+}, {
+  "id" : 58,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "184",
+  "twoLetterCode" : "CK",
+  "threeLetterCode" : "COK",
+  "countryName" : "ОСТРОВА КУКА",
+  "fullCountryName" : "Острова Кука (Н. Зел.)",
+  "internationalName" : "COOK ISLANDS"
+}, {
+  "id" : 59,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "188",
+  "twoLetterCode" : "CR",
+  "threeLetterCode" : "CRI",
+  "countryName" : "КОСТА - РИКА",
+  "fullCountryName" : "Республика Коста - Рика",
+  "internationalName" : "COSTA RICA"
+}, {
+  "id" : 60,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "191",
+  "twoLetterCode" : "HR",
+  "threeLetterCode" : "HRV",
+  "countryName" : "ХОРВАТИЯ",
+  "fullCountryName" : "Республика Хорватия",
+  "internationalName" : "CROATIA"
+}, {
+  "id" : 61,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "192",
+  "twoLetterCode" : "CU",
+  "threeLetterCode" : "CUB",
+  "countryName" : "КУБА",
+  "fullCountryName" : "Республика Куба",
+  "internationalName" : "CUBA"
+}, {
+  "id" : 62,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "196",
+  "twoLetterCode" : "CY",
+  "threeLetterCode" : "CYP",
+  "countryName" : "КИПР",
+  "fullCountryName" : "Республика Кипр",
+  "internationalName" : "CYPRUS"
+}, {
+  "id" : 64,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "204",
+  "twoLetterCode" : "BJ",
+  "threeLetterCode" : "BEN",
+  "countryName" : "БЕНИН",
+  "fullCountryName" : "Народная Республика Бенин",
+  "internationalName" : "BENIN"
+}, {
+  "id" : 79,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "254",
+  "twoLetterCode" : "GF",
+  "threeLetterCode" : "GUF",
+  "countryName" : "ГВИАНА",
+  "fullCountryName" : "Гвиана (Фр.)",
+  "internationalName" : "FRENCH GUIANA"
+}, {
+  "id" : 30,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "076",
+  "twoLetterCode" : "BR",
+  "threeLetterCode" : "BRA",
+  "countryName" : "БРАЗИЛИЯ",
+  "fullCountryName" : "Федеративная Республика Бразилия",
+  "internationalName" : "BRAZIL"
+}, {
+  "id" : 32,
+  "deleted" : false,
+  "externalId" : "1942620",
+  "countryCode" : "086",
+  "twoLetterCode" : "IO",
+  "threeLetterCode" : "IOT",
+  "countryName" : "БРИТАНСКАЯ ТЕРРИТОРИЯ В ИНДИЙСКОМ ОКЕАНЕ",
+  "fullCountryName" : "Британская территория в Индийском Океане",
+  "internationalName" : null
+}, {
+  "id" : 33,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "090",
+  "twoLetterCode" : "SB",
+  "threeLetterCode" : "SLB",
+  "countryName" : "СОЛОМОНОВЫ ОСТРОВА",
+  "fullCountryName" : "Соломоновы острова",
+  "internationalName" : "SOLOMON ISLANDS"
+}, {
+  "id" : 55,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "175",
+  "twoLetterCode" : "YT",
+  "threeLetterCode" : "MYT",
+  "countryName" : "МАЙОТТА",
+  "fullCountryName" : "Майотта",
+  "internationalName" : "MAYOTTE"
+}, {
+  "id" : 73,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "233",
+  "twoLetterCode" : "EE",
+  "threeLetterCode" : "EST",
+  "countryName" : "ЭСТОНИЯ",
+  "fullCountryName" : "Эстонская Республика",
+  "internationalName" : "ESTONIA"
+}, {
+  "id" : 92,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "308",
+  "twoLetterCode" : "GD",
+  "threeLetterCode" : "GRD",
+  "countryName" : "ГРЕНАДА",
+  "fullCountryName" : "Гренада",
+  "internationalName" : "GRENADA"
+}, {
+  "id" : 107,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "364",
+  "twoLetterCode" : "IR",
+  "threeLetterCode" : "IRN",
+  "countryName" : "ИРАН",
+  "fullCountryName" : "ИРАН, ИСЛАМСКАЯ РЕСПУБЛИКА",
+  "internationalName" : "IRAN (ISLAMIC REPUBLIC OF)"
+}, {
+  "id" : 108,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "368",
+  "twoLetterCode" : "IQ",
+  "threeLetterCode" : "IRQ",
+  "countryName" : "ИРАК",
+  "fullCountryName" : "Иракская Республика",
+  "internationalName" : "IRAQ"
+}, {
+  "id" : 110,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "376",
+  "twoLetterCode" : "IL",
+  "threeLetterCode" : "ISR",
+  "countryName" : "ИЗРАИЛЬ",
+  "fullCountryName" : "Государство Израиль",
+  "internationalName" : "ISRAEL"
+}, {
+  "id" : 111,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "380",
+  "twoLetterCode" : "IT",
+  "threeLetterCode" : "ITA",
+  "countryName" : "ИТАЛИЯ",
+  "fullCountryName" : "Итальянская Республика",
+  "internationalName" : "ITALY"
+}, {
+  "id" : 116,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "404",
+  "twoLetterCode" : "KE",
+  "threeLetterCode" : "KEN",
+  "countryName" : "КЕНИЯ",
+  "fullCountryName" : "Республика Кения",
+  "internationalName" : "KENYA"
+}, {
+  "id" : 117,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "408",
+  "twoLetterCode" : "KP",
+  "threeLetterCode" : "PRK",
+  "countryName" : "КОРЕЯ (КНДР)",
+  "fullCountryName" : "Корейская Народно - Демократическая Республика",
+  "internationalName" : "KOREA (DEMOCRATIC PEOPLE'S REPUBLIC OF)"
+}, {
+  "id" : 121,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "418",
+  "twoLetterCode" : "LA",
+  "threeLetterCode" : "LAO",
+  "countryName" : "ЛАОС",
+  "fullCountryName" : "Лаосская Народно - Демократическая Республика",
+  "internationalName" : "LAO PEOPLE'S DEMOCRATIC REPUBLIC"
+}, {
+  "id" : 122,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "422",
+  "twoLetterCode" : "LB",
+  "threeLetterCode" : "LBN",
+  "countryName" : "ЛИВАН",
+  "fullCountryName" : "Ливанская Республика",
+  "internationalName" : "LEBANON"
+}, {
+  "id" : 125,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "430",
+  "twoLetterCode" : "LR",
+  "threeLetterCode" : "LBR",
+  "countryName" : "ЛИБЕРИЯ",
+  "fullCountryName" : "Республика Либерия",
+  "internationalName" : "LIBERIA"
+}, {
+  "id" : 127,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "438",
+  "twoLetterCode" : "LI",
+  "threeLetterCode" : "LIE",
+  "countryName" : "ЛИХТЕНШТЕЙН",
+  "fullCountryName" : "Княжество Лихтенштейн",
+  "internationalName" : "LIECHTENSTEIN"
+}, {
+  "id" : 130,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "446",
+  "twoLetterCode" : "MO",
+  "threeLetterCode" : "MAC",
+  "countryName" : "АОМЫНЬ (МАКАО)",
+  "fullCountryName" : "Аомынь",
+  "internationalName" : "АОМЫНЬ (МАКАО)"
+}, {
+  "id" : 89,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "296",
+  "twoLetterCode" : "KI",
+  "threeLetterCode" : "KIR",
+  "countryName" : "КИРИБАТИ",
+  "fullCountryName" : "Кирибати",
+  "internationalName" : "KIRIBATI"
+}, {
+  "id" : 114,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "392",
+  "twoLetterCode" : "JP",
+  "threeLetterCode" : "JPN",
+  "countryName" : "ЯПОНИЯ",
+  "fullCountryName" : "Япония",
+  "internationalName" : "JAPAN"
+}, {
+  "id" : 128,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "440",
+  "twoLetterCode" : "LT",
+  "threeLetterCode" : "LTU",
+  "countryName" : "ЛИТВА",
+  "fullCountryName" : "Литовская Республика",
+  "internationalName" : "LITHUANIA"
+}, {
+  "id" : 131,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "450",
+  "twoLetterCode" : "MG",
+  "threeLetterCode" : "MDG",
+  "countryName" : "МАДАГАСКАР",
+  "fullCountryName" : "Республика Мадагаскар",
+  "internationalName" : "MADAGASCAR"
+}, {
+  "id" : 132,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "454",
+  "twoLetterCode" : "MW",
+  "threeLetterCode" : "MWI",
+  "countryName" : "МАЛАВИ",
+  "fullCountryName" : "Республика Малави",
+  "internationalName" : "MALAWI"
+}, {
+  "id" : 135,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "466",
+  "twoLetterCode" : "ML",
+  "threeLetterCode" : "MLI",
+  "countryName" : "МАЛИ",
+  "fullCountryName" : "Республика Мали",
+  "internationalName" : "MALI"
+}, {
+  "id" : 138,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "478",
+  "twoLetterCode" : "MR",
+  "threeLetterCode" : "MRT",
+  "countryName" : "МАВРИТАНИЯ",
+  "fullCountryName" : "Исламская Республика Мавритания",
+  "internationalName" : "MAURITANIA"
+}, {
+  "id" : 139,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "480",
+  "twoLetterCode" : "MU",
+  "threeLetterCode" : "MUS",
+  "countryName" : "МАВРИКИЙ",
+  "fullCountryName" : "Республика Маврикий",
+  "internationalName" : "MAURITIUS"
+}, {
+  "id" : 143,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "498",
+  "twoLetterCode" : "MD",
+  "threeLetterCode" : "MDA",
+  "countryName" : "МОЛДАВИЯ",
+  "fullCountryName" : "Республика Молдова",
+  "internationalName" : "MOLDOVA, REPUBLIC OF"
+}, {
+  "id" : 144,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "500",
+  "twoLetterCode" : "MS",
+  "threeLetterCode" : "MSR",
+  "countryName" : "МОНТСЕРРАТ",
+  "fullCountryName" : "Монтсеррат (Брит.)",
+  "internationalName" : "MONTSERRAT"
+}, {
+  "id" : 145,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "504",
+  "twoLetterCode" : "MA",
+  "threeLetterCode" : "MAR",
+  "countryName" : "МАРОККО",
+  "fullCountryName" : "Королевство Марокко",
+  "internationalName" : "MOROCCO"
+}, {
+  "id" : 147,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "512",
+  "twoLetterCode" : "OM",
+  "threeLetterCode" : "OMH",
+  "countryName" : "ОМАН",
+  "fullCountryName" : "Султанат Оман",
+  "internationalName" : "Oman"
+}, {
+  "id" : 151,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "528",
+  "twoLetterCode" : "NL",
+  "threeLetterCode" : "NLD",
+  "countryName" : "НИДЕРЛАНДЫ",
+  "fullCountryName" : "Королевство Нидерландов",
+  "internationalName" : "NETHERLANDS"
+}, {
+  "id" : 152,
+  "deleted" : false,
+  "externalId" : "1942741",
+  "countryCode" : "530",
+  "twoLetterCode" : "AN",
+  "threeLetterCode" : "ANT",
+  "countryName" : "АНТИЛЬСКИЕ ОСТРОВА",
+  "fullCountryName" : "Нидерландские Антильские Острова",
+  "internationalName" : null
+}, {
+  "id" : 153,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "533",
+  "twoLetterCode" : "AW",
+  "threeLetterCode" : "ABW",
+  "countryName" : "АРУБА",
+  "fullCountryName" : "Аруба",
+  "internationalName" : "ARUBA"
+}, {
+  "id" : 156,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "554",
+  "twoLetterCode" : "NZ",
+  "threeLetterCode" : "NZL",
+  "countryName" : "НОВАЯ ЗЕЛАНДИЯ",
+  "fullCountryName" : "Новая зеландия",
+  "internationalName" : "NEW ZEALAND"
+}, {
+  "id" : 157,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "558",
+  "twoLetterCode" : "NI",
+  "threeLetterCode" : "NIC",
+  "countryName" : "НИКАРАГУА",
+  "fullCountryName" : "Республика Никарагуа",
+  "internationalName" : "NICARAGUA"
+}, {
+  "id" : 161,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "574",
+  "twoLetterCode" : "NF",
+  "threeLetterCode" : "NFK",
+  "countryName" : "НОРФОЛК",
+  "fullCountryName" : "Норфолк (Австрал.)",
+  "internationalName" : null
+}, {
+  "id" : 162,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "578",
+  "twoLetterCode" : "NO",
+  "threeLetterCode" : "NOR",
+  "countryName" : "НОРВЕГИЯ",
+  "fullCountryName" : "Королевство Норвегии",
+  "internationalName" : "NORWAY"
+}, {
+  "id" : 168,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "586",
+  "twoLetterCode" : "PK",
+  "threeLetterCode" : "PAK",
+  "countryName" : "ПАКИСТАН",
+  "fullCountryName" : "Исламская Республика Пакистан",
+  "internationalName" : "PAKISTAN"
+}, {
+  "id" : 171,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "600",
+  "twoLetterCode" : "PY",
+  "threeLetterCode" : "PRY",
+  "countryName" : "ПАРАГВАЙ",
+  "fullCountryName" : "Республика Парагвай",
+  "internationalName" : "PARAGUAY"
+}, {
+  "id" : 173,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "608",
+  "twoLetterCode" : "PH",
+  "threeLetterCode" : "PHL",
+  "countryName" : "ФИЛИППИНЫ",
+  "fullCountryName" : "Республика Филиппины",
+  "internationalName" : "PHILIPPINES"
+}, {
+  "id" : 184,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "654",
+  "twoLetterCode" : "SH",
+  "threeLetterCode" : "SHN",
+  "countryName" : "ОСТРОВ СВЯТОЙ ЕЛЕНЫ",
+  "fullCountryName" : "Остров Святой Елены (Брит.)",
+  "internationalName" : "ST HELENA,ASCENSION AND TRISTAN DA CUNHA"
+}, {
+  "id" : 185,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "659",
+  "twoLetterCode" : "KN",
+  "threeLetterCode" : "KNA",
+  "countryName" : "СЕНТ - КИТС И НЕВИС",
+  "fullCountryName" : "Федерация Сент - Китс и Невис",
+  "internationalName" : "SAINT KITTS AND NEVIS"
+}, {
+  "id" : 195,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "694",
+  "twoLetterCode" : "SL",
+  "threeLetterCode" : "SLE",
+  "countryName" : "СЬЕРРА - ЛЕОНЕ",
+  "fullCountryName" : "Республика Сьерра - Леоне",
+  "internationalName" : "SIERRA LEONE"
+}, {
+  "id" : 197,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "703",
+  "twoLetterCode" : "SK",
+  "threeLetterCode" : "SVK",
+  "countryName" : "СЛОВАКИЯ",
+  "fullCountryName" : "Словацкая Республика",
+  "internationalName" : "SLOVAKIA"
+}, {
+  "id" : 198,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "704",
+  "twoLetterCode" : "VN",
+  "threeLetterCode" : "VNM",
+  "countryName" : "ВЬЕТНАМ",
+  "fullCountryName" : "Социалистическая Республика Вьетнам",
+  "internationalName" : "VIET NAM"
+}, {
+  "id" : 201,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "710",
+  "twoLetterCode" : "ZA",
+  "threeLetterCode" : "ZAF",
+  "countryName" : "Южная Африка",
+  "fullCountryName" : "Южно - африканская Республика",
+  "internationalName" : "SOUTH AFRICA"
+}, {
+  "id" : 209,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "752",
+  "twoLetterCode" : "SE",
+  "threeLetterCode" : "SWE",
+  "countryName" : "ШВЕЦИЯ",
+  "fullCountryName" : "Королевство Швеция",
+  "internationalName" : "SWEDEN"
+}, {
+  "id" : 212,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "762",
+  "twoLetterCode" : "TJ",
+  "threeLetterCode" : "TJK",
+  "countryName" : "ТАДЖИКИСТАН",
+  "fullCountryName" : "Республика Таджикистан",
+  "internationalName" : "TAJIKISTAN"
+}, {
+  "id" : 213,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "764",
+  "twoLetterCode" : "TH",
+  "threeLetterCode" : "THA",
+  "countryName" : "ТАИЛАНД",
+  "fullCountryName" : "Королевство Таиланд",
+  "internationalName" : "THAILAND"
+}, {
+  "id" : 215,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "772",
+  "twoLetterCode" : "TK",
+  "threeLetterCode" : "TKL",
+  "countryName" : "ТОКЕЛАУ (ЮНИОН)",
+  "fullCountryName" : "Токелау (Юнион) (Н. Зел.)",
+  "internationalName" : "TOKELAU"
+}, {
+  "id" : 120,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "417",
+  "twoLetterCode" : "KG",
+  "threeLetterCode" : "KGZ",
+  "countryName" : "КЫРГЫЗСТАН",
+  "fullCountryName" : "Киргизская Республика",
+  "internationalName" : "KYRGYZSTAN"
+}, {
+  "id" : 123,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "426",
+  "twoLetterCode" : "LS",
+  "threeLetterCode" : "LSO",
+  "countryName" : "ЛЕСОТО",
+  "fullCountryName" : "Королевство Лесото",
+  "internationalName" : "LESOTHO"
+}, {
+  "id" : 124,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "428",
+  "twoLetterCode" : "LV",
+  "threeLetterCode" : "LVA",
+  "countryName" : "ЛАТВИЯ",
+  "fullCountryName" : "Латвийская Республика",
+  "internationalName" : "LATVIA"
+}, {
+  "id" : 126,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "434",
+  "twoLetterCode" : "LY",
+  "threeLetterCode" : "LBY",
+  "countryName" : "ЛИВИЯ",
+  "fullCountryName" : "ЛИВИЙСКАЯ АРАБ.ДЖАМАХИРИЯ",
+  "internationalName" : "LIBYA"
+}, {
+  "id" : 129,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "442",
+  "twoLetterCode" : "LU",
+  "threeLetterCode" : "LUX",
+  "countryName" : "ЛЮКСЕМБУРГ",
+  "fullCountryName" : "Великое Герцогство Люксембург",
+  "internationalName" : "LUXEMBOURG"
+}, {
+  "id" : 133,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "458",
+  "twoLetterCode" : "MY",
+  "threeLetterCode" : "MYS",
+  "countryName" : "МАЛАЙЗИЯ",
+  "fullCountryName" : "Малайзия",
+  "internationalName" : "MALAYSIA"
+}, {
+  "id" : 134,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "462",
+  "twoLetterCode" : "MV",
+  "threeLetterCode" : "MDV",
+  "countryName" : "МАЛЬДИВЫ",
+  "fullCountryName" : "Мальдивская Республика",
+  "internationalName" : "MALDIVES"
+}, {
+  "id" : 136,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "470",
+  "twoLetterCode" : "MT",
+  "threeLetterCode" : "MLT",
+  "countryName" : "МАЛЬТА",
+  "fullCountryName" : "Республика Мальта",
+  "internationalName" : "MALTA"
+}, {
+  "id" : 137,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "474",
+  "twoLetterCode" : "MQ",
+  "threeLetterCode" : "MTQ",
+  "countryName" : "МАРТИНИКА",
+  "fullCountryName" : "Мартиника (Фр.)",
+  "internationalName" : "MARTINIQUE"
+}, {
+  "id" : 250,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "248",
+  "twoLetterCode" : "AX",
+  "threeLetterCode" : "ALA",
+  "countryName" : "Аландские Острова",
+  "fullCountryName" : "Аландские Острова",
+  "internationalName" : "ALAND ISLANDS"
+}, {
+  "id" : 253,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "663",
+  "twoLetterCode" : "MF",
+  "threeLetterCode" : "MAF",
+  "countryName" : "СЕН - МАРТЕН",
+  "fullCountryName" : null,
+  "internationalName" : "Saint-Martin (French part)"
+}, {
+  "id" : 254,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "895",
+  "twoLetterCode" : "AB",
+  "threeLetterCode" : "ABH",
+  "countryName" : "РЕСПУБЛИКА АБХАЗИЯ",
+  "fullCountryName" : "Респубдика Абхазия",
+  "internationalName" : "ABKHAZIA"
+}, {
+  "id" : 255,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "896",
+  "twoLetterCode" : "OS",
+  "threeLetterCode" : "OST",
+  "countryName" : "Республика Южная Осетия",
+  "fullCountryName" : null,
+  "internationalName" : "South Ossetia"
+}, {
+  "id" : 256,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "777",
+  "twoLetterCode" : "XK",
+  "threeLetterCode" : "KOS",
+  "countryName" : "Республика Косово",
+  "fullCountryName" : "KOSOVO, REPUBLIC OF",
+  "internationalName" : "KOSOVO, REPUBLIC OF"
+}, {
+  "id" : 382,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : null,
+  "twoLetterCode" : null,
+  "threeLetterCode" : null,
+  "countryName" : "без гражданства",
+  "fullCountryName" : "без гражданства",
+  "internationalName" : null
+}, {
+  "id" : 282,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : "690",
+  "twoLetterCode" : "SC",
+  "threeLetterCode" : "SYC",
+  "countryName" : "СЕЙШЕЛЬСКИЕ ОСТРОВА",
+  "fullCountryName" : "Республика Сейшельские острова",
+  "internationalName" : "SEYCHELLES"
+}, {
+  "id" : 302,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : null,
+  "twoLetterCode" : null,
+  "threeLetterCode" : null,
+  "countryName" : "без гражданства",
+  "fullCountryName" : "без гражданства",
+  "internationalName" : null
+}, {
+  "id" : 303,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : null,
+  "twoLetterCode" : "XX",
+  "threeLetterCode" : "XXX",
+  "countryName" : "фиктивная страна",
+  "fullCountryName" : null,
+  "internationalName" : null
+}, {
+  "id" : 304,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : null,
+  "twoLetterCode" : "&&",
+  "threeLetterCode" : "&&&",
+  "countryName" : "фиктивная страна для миграции валютного контроля",
+  "fullCountryName" : null,
+  "internationalName" : null
+}, {
+  "id" : 305,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : null,
+  "twoLetterCode" : null,
+  "threeLetterCode" : null,
+  "countryName" : "без гражданства",
+  "fullCountryName" : "без гражданства",
+  "internationalName" : null
+}, {
+  "id" : 306,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : null,
+  "twoLetterCode" : null,
+  "threeLetterCode" : null,
+  "countryName" : "без гражданства",
+  "fullCountryName" : "без гражданства",
+  "internationalName" : null
+}, {
+  "id" : 307,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : null,
+  "twoLetterCode" : null,
+  "threeLetterCode" : null,
+  "countryName" : "без гражданства",
+  "fullCountryName" : "без гражданства",
+  "internationalName" : null
+}, {
+  "id" : 308,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : null,
+  "twoLetterCode" : null,
+  "threeLetterCode" : null,
+  "countryName" : "без гражданства",
+  "fullCountryName" : "без гражданства",
+  "internationalName" : null
+}, {
+  "id" : 309,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : null,
+  "twoLetterCode" : null,
+  "threeLetterCode" : null,
+  "countryName" : "без гражданства",
+  "fullCountryName" : "без гражданства",
+  "internationalName" : null
+}, {
+  "id" : 322,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : null,
+  "twoLetterCode" : null,
+  "threeLetterCode" : null,
+  "countryName" : "без гражданства",
+  "fullCountryName" : "без гражданства",
+  "internationalName" : null
+}, {
+  "id" : 323,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : null,
+  "twoLetterCode" : null,
+  "threeLetterCode" : null,
+  "countryName" : "без гражданства",
+  "fullCountryName" : "без гражданства",
+  "internationalName" : null
+}, {
+  "id" : 324,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : null,
+  "twoLetterCode" : null,
+  "threeLetterCode" : null,
+  "countryName" : "без гражданства",
+  "fullCountryName" : "без гражданства",
+  "internationalName" : null
+}, {
+  "id" : 325,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : null,
+  "twoLetterCode" : null,
+  "threeLetterCode" : null,
+  "countryName" : "без гражданства",
+  "fullCountryName" : "без гражданства",
+  "internationalName" : null
+}, {
+  "id" : 326,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : null,
+  "twoLetterCode" : null,
+  "threeLetterCode" : null,
+  "countryName" : "без гражданства",
+  "fullCountryName" : "без гражданства",
+  "internationalName" : null
+}, {
+  "id" : 342,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : null,
+  "twoLetterCode" : null,
+  "threeLetterCode" : null,
+  "countryName" : "без гражданства",
+  "fullCountryName" : "без гражданства",
+  "internationalName" : null
+}, {
+  "id" : 343,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : null,
+  "twoLetterCode" : null,
+  "threeLetterCode" : null,
+  "countryName" : "без гражданства",
+  "fullCountryName" : "без гражданства",
+  "internationalName" : null
+}, {
+  "id" : 362,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : null,
+  "twoLetterCode" : null,
+  "threeLetterCode" : null,
+  "countryName" : "без гражданства",
+  "fullCountryName" : "без гражданства",
+  "internationalName" : null
+}, {
+  "id" : 383,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : null,
+  "twoLetterCode" : null,
+  "threeLetterCode" : null,
+  "countryName" : "без гражданства",
+  "fullCountryName" : "без гражданства",
+  "internationalName" : null
+}, {
+  "id" : 402,
+  "deleted" : false,
+  "externalId" : null,
+  "countryCode" : null,
+  "twoLetterCode" : null,
+  "threeLetterCode" : null,
+  "countryName" : "без гражданства",
+  "fullCountryName" : "без гражданства",
+  "internationalName" : null
+} ]

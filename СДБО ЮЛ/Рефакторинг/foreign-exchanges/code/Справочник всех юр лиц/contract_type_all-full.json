@@ -1,0 +1,25 @@
+[ {
+  "id" : 1,
+  "type" : "CONTRACT_TYPE_TRADE",
+  "name" : "Товарный",
+  "nameKz" : null,
+  "nameEn" : null
+}, {
+  "id" : 2,
+  "type" : "CONTRACT_TYPE_WORKS",
+  "name" : "Работы/Услуги",
+  "nameKz" : null,
+  "nameEn" : null
+}, {
+  "id" : 3,
+  "type" : "CONTRACT_TYPE_SERVICES",
+  "name" : "Товарный + Работы/Услуги",
+  "nameKz" : null,
+  "nameEn" : null
+}, {
+  "id" : 4,
+  "type" : "CONTRACT_TYPE_BORDER",
+  "name" : "Без пересечения границы РК",
+  "nameKz" : null,
+  "nameEn" : null
+} ]

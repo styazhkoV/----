@@ -1,0 +1,91 @@
+[ {
+  "isoCode" : "KZT",
+  "symbol" : "K",
+  "digitalCode" : "398",
+  "name" : "Тенге (казахстанский)",
+  "fullName" : "Тенге"
+}, {
+  "isoCode" : "JPY",
+  "symbol" : "J",
+  "digitalCode" : "392",
+  "name" : "Иена",
+  "fullName" : "Японская йена"
+}, {
+  "isoCode" : "CAD",
+  "symbol" : "C",
+  "digitalCode" : "124",
+  "name" : "Канадский доллар",
+  "fullName" : "Канадскиий доллар"
+}, {
+  "isoCode" : "XAU",
+  "symbol" : "X",
+  "digitalCode" : "959",
+  "name" : "XAU",
+  "fullName" : "Золото (тройская унция)"
+}, {
+  "isoCode" : "GBP",
+  "symbol" : "G",
+  "digitalCode" : "826",
+  "name" : "Фунт стерлингов",
+  "fullName" : "Фунт стерлингов"
+}, {
+  "isoCode" : "AMD",
+  "symbol" : "A",
+  "digitalCode" : "051",
+  "name" : "Армянский драм ",
+  "fullName" : "Армянский драм "
+}, {
+  "isoCode" : "CHF",
+  "symbol" : "C",
+  "digitalCode" : "756",
+  "name" : "Швейцарский франк",
+  "fullName" : "Швейцарский франк"
+}, {
+  "isoCode" : "UZS",
+  "symbol" : "Z",
+  "digitalCode" : "860",
+  "name" : "Узбекский сум",
+  "fullName" : "Узбекский сум"
+}, {
+  "isoCode" : "SER",
+  "symbol" : "S",
+  "digitalCode" : "665",
+  "name" : "Serik",
+  "fullName" : "Серик"
+}, {
+  "isoCode" : "CNY",
+  "symbol" : "C",
+  "digitalCode" : "156",
+  "name" : "Китайский юань",
+  "fullName" : "Китайский юань"
+}, {
+  "isoCode" : "RUB",
+  "symbol" : "R",
+  "digitalCode" : "643",
+  "name" : "Российский рубль",
+  "fullName" : "Российский рубль"
+}, {
+  "isoCode" : "USD",
+  "symbol" : "U",
+  "digitalCode" : "840",
+  "name" : "Доллар США",
+  "fullName" : "Доллар США"
+}, {
+  "isoCode" : "EUR",
+  "symbol" : "E",
+  "digitalCode" : "978",
+  "name" : "Евро",
+  "fullName" : "Евро"
+}, {
+  "isoCode" : "TRY",
+  "symbol" : "T",
+  "digitalCode" : "949",
+  "name" : "Турецкие лиры",
+  "fullName" : "Турецкие лиры"
+}, {
+  "isoCode" : "AUD",
+  "symbol" : "A",
+  "digitalCode" : "036",
+  "name" : "Австралийский доллар",
+  "fullName" : "Австралийский доллар"
+} ]

@@ -1,0 +1,137 @@
+[ {
+  "id" : 535,
+  "accountNumber" : "KZ4382117XCY10000002",
+  "currency" : "EUR"
+}, {
+  "id" : 536,
+  "accountNumber" : "KZ8682117XCY10000004",
+  "currency" : "USD"
+}, {
+  "id" : 537,
+  "accountNumber" : "KZ7082117XCY10000001",
+  "currency" : "KZT"
+}, {
+  "id" : 538,
+  "accountNumber" : "KZ7982117XCY10000033",
+  "currency" : "KZT"
+}, {
+  "id" : 539,
+  "accountNumber" : "KZ5282117XCY10000034",
+  "currency" : "RUB"
+}, {
+  "id" : 783,
+  "accountNumber" : "KZ1682117XCY10000003",
+  "currency" : "EUR"
+}, {
+  "id" : 784,
+  "accountNumber" : "KZ5982117XCY10000005",
+  "currency" : "USD"
+}, {
+  "id" : 785,
+  "accountNumber" : "KZ2582117XCY10000035",
+  "currency" : "RUB"
+}, {
+  "id" : 786,
+  "accountNumber" : "KZ9582117XCY10000036",
+  "currency" : "RUB"
+}, {
+  "id" : 803855,
+  "accountNumber" : "KZ958210439870710493",
+  "currency" : "KZT"
+}, {
+  "id" : 804159,
+  "accountNumber" : "KZ118210439870711132",
+  "currency" : "KZT"
+}, {
+  "id" : 803686,
+  "accountNumber" : "KZ608210439870709959",
+  "currency" : "KZT"
+}, {
+  "id" : 807568,
+  "accountNumber" : "KZ368210439870711361",
+  "currency" : "KZT"
+}, {
+  "id" : 803835,
+  "accountNumber" : "KZ4182117XCY10000038",
+  "currency" : "KZT"
+}, {
+  "id" : 803836,
+  "accountNumber" : "KZ1482117XCY10000039",
+  "currency" : "KZT"
+}, {
+  "id" : 804468,
+  "accountNumber" : "KZ618210439870711202",
+  "currency" : "KZT"
+}, {
+  "id" : 805289,
+  "accountNumber" : "KZ828210439870711309",
+  "currency" : "KZT"
+}, {
+  "id" : 803830,
+  "accountNumber" : "KZ958210439870710396",
+  "currency" : "KZT"
+}, {
+  "id" : 807573,
+  "accountNumber" : "KZ188210439870711394",
+  "currency" : "KZT"
+}, {
+  "id" : 807556,
+  "accountNumber" : "KZ1982117XCY10000046",
+  "currency" : "USD"
+}, {
+  "id" : 807557,
+  "accountNumber" : "KZ6282117XCY10000048",
+  "currency" : "USD"
+}, {
+  "id" : 807558,
+  "accountNumber" : "KZ4682117XCY10000045",
+  "currency" : "CNY"
+}, {
+  "id" : 807559,
+  "accountNumber" : "KZ8982117XCY10000047",
+  "currency" : "AUD"
+}, {
+  "id" : 807560,
+  "accountNumber" : "KZ3582117XCY10000049",
+  "currency" : "CHF"
+}, {
+  "id" : 807561,
+  "accountNumber" : "KZ7382117XCY10000044",
+  "currency" : "CHF"
+}, {
+  "id" : 807562,
+  "accountNumber" : "KZ0882117XCY10000050",
+  "currency" : "AUD"
+}, {
+  "id" : 807563,
+  "accountNumber" : "KZ7882117XCY10000051",
+  "currency" : "CNY"
+}, {
+  "id" : 807567,
+  "accountNumber" : "KZ968210439870711348",
+  "currency" : "KZT"
+}, {
+  "id" : 804064,
+  "accountNumber" : "KZ648210439870710954",
+  "currency" : "KZT"
+}, {
+  "id" : 803859,
+  "accountNumber" : "KZ5782117XCY10000041",
+  "currency" : "EUR"
+}, {
+  "id" : 803860,
+  "accountNumber" : "KZ0382117XCY10000043",
+  "currency" : "EUR"
+}, {
+  "id" : 803861,
+  "accountNumber" : "KZ8482117XCY10000040",
+  "currency" : "AUD"
+}, {
+  "id" : 803862,
+  "accountNumber" : "KZ3082117XCY10000042",
+  "currency" : "EUR"
+}, {
+  "id" : 783649,
+  "accountNumber" : "KZ2682117XCY10000017",
+  "currency" : "KZT"
+} ]
