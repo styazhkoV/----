@@ -1,14 +1,18 @@
-<root>
-  <request id="2DB1EE00-7048-643E-E064-3CFDFEF0B918" system="InFinIt" type="request" operation="unkReptr">
-    <dateTime>2023-07-20T23:57:53</dateTime>
-    <body>
-      <doc>
-          <customerId>6688</customerId>
-          <unkRegNumber>2/821/0000/4077</unkRegNumber>
-      </doc>
-    </body>
-  </request>
-</root>
+
+
+DRKS-67 Уведомления срока репатриации валютных контрактов
+
+`<root>`
+  `<request id="2DB1EE00-7048-643E-E064-3CFDFEF0B918" system="InFinIt" type="request" operation="unkReptr">`
+    `<dateTime>`2023-07-20T23:57:53 `</dateTime>`
+    `<body>`
+      `<doc>`
+          `<customerId>`6688 `</customerId>`
+          `<unkRegNumber>`2/821/0000/4077 `</unkRegNumber>`
+      `</doc>`
+    `</body>`
+  `</request>`
+`</root>`
 
 Выдержка из ТЗ:
 *"При получении запроса по нарушению срока репатриации «unkReptr» СДБО находит по значению customerId клиента и по unkRegNumber соответствующий контракт где в поле «Нарушение срока репатриации» проставляет текущую дату."
