@@ -29,4 +29,13 @@ DRKS-66 Отображение графика по кредитам
 
 [[DPIS-201] [ИБСО] График платежей по займу для СДБО ЮЛ - JIRA (kazincombank.kz)](https://jira.kazincombank.kz/browse/DPIS-201)
 
+Ошибка 
+
+
+```
+Error loading [https://esb-test.kazincombank.kz:5555/sdboul/soa]: org.apache.xmlbeans.XmlException: org.apache.xmlbeans.XmlException: error: Premature end of file.
+```
+
+Просят обратиться в ИБСО
+
 **Владелец процесса:** Айдос Чокушев & Перфильева Елена & Аманжолов Мадияр

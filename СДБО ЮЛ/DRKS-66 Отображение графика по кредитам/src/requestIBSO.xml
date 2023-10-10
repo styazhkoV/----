@@ -1,0 +1,17 @@
+реквизиты:
+
+<customerId>112464682256</customerId> - ID клиента
+<creditId>114365782363</creditId> - ID кредита
+<?xml version="1.0"?>
+<root>
+<request id="TEST-0000002" system="sdboul" targetSystem="ibso" type="request" operation="credSchedUl">
+<body>
+<scheduleCredits>
+<scheduleCredit>
+<customerId>112464682256</customerId>
+<creditId>114365782363</creditId>
+</scheduleCredit>
+</scheduleCredits>
+</body>
+</request>
+</root>
