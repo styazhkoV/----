@@ -1,0 +1,514 @@
+Message-ID: <196432285.49714.1697101110962.JavaMail.root@ALA122175.kazincombank.kz>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_49713_311484472.1697101110958"
+
+------=_Part_49713_311484472.1697101110958
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>egov.GetUniversalToken</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>egov.GetUniversalToken</h1>
+    <div class=3D"Section1">
+        <h3 class=3D"sectionedit1" id=3D"egov.GetUniversalToken-egov.GetUni=
+versalToken">egov.GetUniversalToken</h3>
+<p>URL&nbsp;=3D&nbsp;<a class=3D"external-link" href=3D"https://esb-test.ka=
+zincombank.kz:5555/singleWindow/soa" rel=3D"nofollow" title=3D"https://esb-=
+test.kazincombank.kz:5555/singleWindow/soa">https://esb-test.kazincombank.k=
+z:5555/singleWindow/soa</a><br>HTTP Method =3D POST<br>=D0=90=D0=B2=D1=82=
+=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D1=8F: Basic<br>Username: Single=
+WindowUser<br>Password: =D0=9F=D0=BE =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=
+=D1=83 =D1=87=D0=B5=D1=80=D0=B5=D0=B7 =D1=83=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=
+=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B8=D0=BD=D1=82=D0=B5=D0=B3=D1=80=D0=B0=D1=86=
+=D0=B8=D0=B8</p>
+<p><br><strong>=D0=9F=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=80=D1=8B =D0=
+=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D0=B0:</strong></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class=3D"confluenceTh"><p>=D0=9F=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=
+=80</p></th>
+<th class=3D"confluenceTh"><p>=D0=9E=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D0=
+=B5</p></th>
+<th class=3D"confluenceTh"><p>=D0=A4=D0=BE=D1=80=D0=BC=D0=B0=D1=82</p></th>
+<th class=3D"confluenceTh"><p>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =D0=B7=
+=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D1=8F</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"confluenceTd">/Request/serviceCode(*)</td>
+<td class=3D"confluenceTd">=D0=9A=D0=BE=D0=B4 =D1=81=D0=B5=D1=80=D0=B2=D0=
+=B8=D1=81=D0=B0</td>
+<td class=3D"confluenceTd">=D0=A1=D1=82=D1=80=D0=BE=D0=BA=D0=B0</td>
+<td class=3D"confluenceTd">egov.<span>GetUniversalToken</span></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">/Request/uuid(*)</td>
+<td class=3D"confluenceTd">=D0=A3=D0=BD=D0=B8=D0=BA=D0=B0=D0=BB=D1=8C=D0=BD=
+=D1=8B=D0=B9 =D0=B8=D0=B4=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=
+=D1=82=D0=BE=D1=80 =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D0=B0 =D0=B2 =D1=84=
+=D0=BE=D1=80=D0=BC=D0=B0=D1=82=D0=B5</td>
+<td class=3D"confluenceTd">UUID</td>
+<td class=3D"confluenceTd"><pre>8b7e173d-8d3e-48c1-98aa-1856e5eb872f</pre><=
+/td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">/Request/requestTime(*)</td>
+<td class=3D"confluenceTd">=D0=94=D0=B0=D1=82=D0=B0 =D0=B8 =D0=B2=D1=80=D0=
+=B5=D0=BC=D1=8F =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D0=B0</td>
+<td class=3D"confluenceTd">YYYY-MM-DDThh:mm:ss</td>
+<td class=3D"confluenceTd"><pre>2022-06-22T04:31:06</pre></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">/Request/sourceSystem(*)</td>
+<td class=3D"confluenceTd">=D0=A1=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D0=B0-=D0=
+=B8=D1=81=D1=82=D0=BE=D1=87=D0=BD=D0=B8=D0=BA =D0=B7=D0=B0=D0=BF=D1=80=D0=
+=BE=D1=81=D0=B0</td>
+<td class=3D"confluenceTd">=D0=A1=D1=82=D1=80=D0=BE=D0=BA=D0=B0</td>
+<td class=3D"confluenceTd">SingleWindow</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">/Request/username(*)</td>
+<td class=3D"confluenceTd">=D0=9F=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=
+=D1=82=D0=B5=D0=BB=D1=8C =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D1=8B-=D0=B8=
+=D0=BD=D0=B8=D1=86=D0=B8=D0=B0=D1=82=D0=BE=D1=80=D0=B0</td>
+<td class=3D"confluenceTd">=D0=A1=D1=82=D1=80=D0=BE=D0=BA=D0=B0</td>
+<td class=3D"confluenceTd">SingleWindowUser</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"egov.GetUniversalToken-=D0=9F=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=
+=D1=80=D1=8B=D0=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0:">=D0=9F=D0=B0=D1=80=D0=B0=
+=D0=BC=D0=B5=D1=82=D1=80=D1=8B =D0=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0:</h4>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 62.=
+8485%;">
+<colgroup>
+<col style=3D"width: 18.8416%;">
+<col style=3D"width: 28.1774%;">
+<col style=3D"width: 24.2218%;">
+<col style=3D"width: 28.7669%;">
+</colgroup>
+<thead>
+<tr>
+<th class=3D"confluenceTh"><p>=D0=9F=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=
+=80</p></th>
+<th class=3D"confluenceTh"><p>=D0=9E=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D0=
+=B5</p></th>
+<th class=3D"confluenceTh"><p>=D0=A4=D0=BE=D1=80=D0=BC=D0=B0=D1=82</p></th>
+<th class=3D"confluenceTh"><p>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =D0=B7=
+=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D1=8F</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"confluenceTd">/Response/serviceCode(*)</td>
+<td class=3D"confluenceTd">=D0=9A=D0=BE=D0=B4 =D1=81=D0=B5=D1=80=D0=B2=D0=
+=B8=D1=81=D0=B0</td>
+<td class=3D"confluenceTd">=D0=A1=D1=82=D1=80=D0=BE=D0=BA=D0=B0</td>
+<td class=3D"confluenceTd">egov.GetUniversalToken</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">/Response/uuid(*)</td>
+<td class=3D"confluenceTd">=D0=98=D0=B4=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=
+=D0=BA=D0=B0=D1=82=D0=BE=D1=80 =D0=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0 =D0=B2<=
+/td>
+<td class=3D"confluenceTd">UUID</td>
+<td class=3D"confluenceTd"><pre>8b7e173d-8d3e-48c1-98aa-1856e5eb872f</pre><=
+/td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">/Response/sourceSystem(*)</td>
+<td class=3D"confluenceTd">=D0=A1=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D0=B0-=D0=
+=B8=D1=81=D1=82=D0=BE=D1=87=D0=BD=D0=B8=D0=BA =D0=B7=D0=B0=D0=BF=D1=80=D0=
+=BE=D1=81=D0=B0</td>
+<td class=3D"confluenceTd">=D0=A1=D1=82=D1=80=D0=BE=D0=BA=D0=B0</td>
+<td class=3D"confluenceTd">SingleWindow</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">/Response/username(*)</td>
+<td class=3D"confluenceTd">=D0=9F=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=
+=D1=82=D0=B5=D0=BB=D1=8C =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D1=8B-=D0=B8=
+=D0=BD=D0=B8=D1=86=D0=B8=D0=B0=D1=82=D0=BE=D1=80=D0=B0</td>
+<td class=3D"confluenceTd">=D0=A1=D1=82=D1=80=D0=BE=D0=BA=D0=B0</td>
+<td class=3D"confluenceTd">SingleWindowUser</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">/Response/responseTime(*)</td>
+<td class=3D"confluenceTd">=D0=94=D0=B0=D1=82=D0=B0 =D0=B8 =D0=B2=D1=80=D0=
+=B5=D0=BC=D1=8F =D0=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0</td>
+<td class=3D"confluenceTd">YYYY-MM-DDThh:mm:ss</td>
+<td class=3D"confluenceTd"><pre>2023-09-08T10:32:31</pre></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">/Response/errCode(*)</td>
+<td class=3D"confluenceTd">=D0=9A=D0=BE=D0=B4 =D0=BE=D1=88=D0=B8=D0=B1=D0=
+=BA=D0=B8</td>
+<td class=3D"confluenceTd">=D0=A1=D1=82=D1=80=D0=BE=D0=BA=D0=B0</td>
+<td class=3D"confluenceTd"><a href=3D"/pages/viewpage.action?pageId=3D77668=
+77">=D0=9A=D0=BE=D0=B4=D1=8B =D0=BE=D1=88=D0=B8=D0=B1=D0=BE=D0=BA Esb</a></=
+td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">/Response/errMessage(*)</td>
+<td class=3D"confluenceTd">=D0=A2=D0=B5=D0=BA=D1=81=D1=82 =D0=BE=D1=88=D0=
+=B8=D0=B1=D0=BA=D0=B8</td>
+<td class=3D"confluenceTd">=D0=A1=D1=82=D1=80=D0=BE=D0=BA=D0=B0</td>
+<td class=3D"confluenceTd"><pre>OK</pre></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>(*)- =D0=9E=D0=B1=D1=8F=D0=B7=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=
+=D0=B5 =D0=BF=D0=BE=D0=BB=D1=8F</p>
+<p><br></p>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =D0=B7=D0=B0=D0=BF=D1=80=D0=
+=BE=D1=81=D0=B0:</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+   "Request": {
+       "serviceCode":"egov.GetUniversalToken",
+       "uuid":"8b7e173d-8d3e-48c1-98aa-1856e5eb872f",
+       "sourceSystem":"SingleWindow",
+       "username":"SingleWindowUser",
+       "requestTime":"2022-06-22T04:31:06",
+       "Data": {
+           "messageId":"bc44f338cc394b6ea280e0fe05c8ffb1",
+           "senderCode":"RBK",
+                    "messageDate" : "2023-06-06T15:22:16" ,
+                    "iin" : "901213400799" ,
+                    "kdpToken" : "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJp=
+YXQiOjE2ODYwNDM1MjUsImV4cCI6MTY4NjA0NDEyNSwiYmluYyI6IjkyMDQ0MDAwMTEwMiIsImR=
+0cyI6IjIwMjMtMDYtMDZUMDk6MjU6MjUiLCJkdGUiOiIyMDIzLTA2LTA2VDA5OjM1OjI1IiwidW=
+luIjoiOTAxMjEzNDAwNzk5Iiwic2lkIjoiTUNEQl9TRVJWSUNFIn0.R_Nuf9cmdveshOpU6587u=
+T-1QbR_TuyDhTSQ3PI2hdtdc7upq3nGn0uGULBOdPhiaZ8mn7mk2ogY9VQ9VJFDrMvSoETN2xTM=
+QxgjTeW61GWWv6QUvt1X4dSajasHkM9kACkjKj-biAF_6SXq_9HvLXefJmKJBdVFLfJUwKCOkbI=
+f6WLwx--4k4Fnz6pHWWwPY7BQ-4t8agtCPKI6Ycki16qHUgvKi-JwE3NyqvvjCnn6o5Y1YClihS=
+72bxktv8jwIQYUPriZ1ktgmFvXhBYhljCOFbc2ZDSCl6h_-36GwppAf5XUq5WdEirbHunJVLqas=
+bV9tPT6HD4Y0WALap6TIg" ,
+                    "publicKey" : "-----BEGIN CERTIFICATE-----\nMIIHOjCCBSK=
+gAwIBAgIUI7zpm2sqPQEg7yz7XcQ8n04vYrowDQYJKoZIhvcNAQEL\nBQAwUjELMAkGA1UEBhMC=
+S1oxQzBBBgNVBAMMOtKw0JvQotCi0KvSmiDQmtCj05jQ\nm9CQ0J3QlNCr0KDQo9Co0Ksg0J7Qo=
+NCi0JDQm9Cr0pogKFJTQSkwHhcNMjMwNDA2\nMDY1MDAwWhcNMjQwNDA1MDY1MDAwWjCCAU0xJj=
+AkBgNVBAMMHdCW0JXQotCf0JjQ\nodCe0JIg0J3Qo9Cg0JHQldCaMRkwFwYDVQQEDBDQltCV0KL=
+Qn9CY0KHQntCSMRgw\nFgYDVQQFEw9JSU45MTA4MTAzNTAwODMxCzAJBgNVBAYTAktaMXgwdgYD=
+VQQKDG/Q\notC+0LLQsNGA0LjRidC10YHRgtCy0L4g0YEg0L7Qs9GA0LDQvdC40YfQtdC90L3Q\=
+nvtC5INC+0YLQstC10YLRgdGC0LLQtdC90L3QvtGB0YLRjNGOICJBcmN0aWMgdGVj\naG5vbG9n=
+eSBncm91cCIxGDAWBgNVBAsMD0JJTjE4MDM0MDAyNjI2NzEhMB8GA1UE\nKgwY0KHQkNCT0JDQn=
+dCU0KvQmtCe0JLQmNCnMSowKAYJKoZIhvcNAQkBFhtudXJi\nZWsuemhldHBpc3NvdkBhcmMtdG=
+cua3owggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw\nggEKAoIBAQCk7kKqbwGDQBm1ibp6sHw8LeF=
+eia8BJh5tvBUav4YffLLcsz1H3eM6\nbcrUCCdv33hFhu6OG9wAKErCCoHvkG2bFufrBPze5eR/=
+f3rgvGTY4NmNbf1Embqo\n+Fk2pG0TyNboDgWEi8nGRbzNy0ujHoSF0PixwFa/XlmB7m28K5WEn=
+eu+nCNIcffE\nfEQ4yuWY3oLtKs29+7i+6NSs4Qj4L0zH+XOLemAKg8UfPEs4jQrMBgXjH//U8x=
+Sn\nvn8Zyj5wbNcG45R5lrXllwbWGg7rOr6On1yRjyS2o8fXpfrt+NdviX+Fj+500h+E\n3yDBf=
+qFZFP00TwFMe4QIsqsCAPul8RhfAgMBAAGjggIJMIICBTAOBgNVHQ8BAf8E\nBAMCBaAwMwYDVR=
+0lBCwwKgYIKwYBBQUHAwIGCCqDDgMDBAECBgkqgw4DAwQBAgEG\nCSqDDgMDBAMCATBeBgNVHSA=
+EVzBVMFMGByqDDgMDAgIwSDAhBggrBgEFBQcCARYV\naHR0cDovL3BraS5nb3Yua3ovY3BzMCMG=
+CCsGAQUFBwICMBcMFWh0dHA6Ly9wa2ku\nZ292Lmt6L2NwczBWBgNVHR8ETzBNMEugSaBHhiFod=
+HRwOi8vY3JsLnBraS5nb3Yu\na3ovbmNhX3JzYS5jcmyGImh0dHA6Ly9jcmwxLnBraS5nb3Yua3=
+ovbmNhX3JzYS5j\ncmwwWgYDVR0uBFMwUTBPoE2gS4YjaHR0cDovL2NybC5wa2kuZ292Lmt6L25=
+jYV9k\nX3JzYS5jcmyGJGh0dHA6Ly9jcmwxLnBraS5nb3Yua3ovbmNhX2RfcnNhLmNybDBi\nBg=
+grBgEFBQcBAQRWMFQwLgYIKwYBBQUHMAKGImh0dHA6Ly9wa2kuZ292Lmt6L2Nl\ncnQvbmNhX3J=
+zYS5jZXIwIgYIKwYBBQUHMAGGFmh0dHA6Ly9vY3NwLnBraS5nb3Yu\na3owHQYDVR0OBBYEFCO8=
+6ZtrKj0BIO8s+13EPJ9OL2K6MA8GA1UdIwQIMAaABFtq\ndBEwFgYGKoMOAwMFBAwwCgYIKoMOA=
+wMFAQEwDQYJKoZIhvcNAQELBQADggIBAEx2\n3FIvbCGPjweDw0Y7u6lUAhgFMpbfNX68yd4MWW=
+sehgojgBhrDNLSde2fgHotWasy\n7CjHOKYgcjPLHTYs4fcgJw4Pcq0zYX6xkc6yMirsuaUmRdp=
+JmXGpVZt8rPLJKSTW\nLCQS5Mv4DbuPoUVo+gMmnN5RCLpXSoQ2/M9HlLy3pKsjaBqf3pW/EjBq=
+tHXuRQfp\nNcLdoIxofF7skTk6DvbTNgsxT6brCBkEgKZJVjESl8lD/1ZkgPlaIMyiJciZMMBZ\=
+njWkLfZB54MuIi47EDbDRik5SowIlyOUP5KD3b4uSAXsAAo+Wg4ut2UDjlbSrCVPW\nVRQ74COv=
+SuMSrAvDvxgAEGqrwtz/6h9zhzdi03ECZ/oIm/K2gWxo2IUnrRt6NP8/\nrLJ24X5mEwUenNpFw=
+KAozWfY1LN6ibhLSyxsjZiMjkCv6rPEhn3v6GcOZLmJT0O3\neMjegJQ2Hx0f26cU3oh2atqJB2=
+TJ7vYiZvbXbPNh1kcF9Y5dVqNprsXNo3saPkY1\nQM+qec1kyV3gTuAOt23ajMQPCfo0xirZYkG=
+Z0qlZOP/Deg6rR6m68kJoYnyBmwfE\nc9S59FTQlt+9wP7rlJBO0G6afa1srQJBVEvQ3vVl7zBf=
+AItKgSQeI7eHLAfaE2+N\nXsFWtfj4MxGaIBLl3Z83+qrizEMwx3x1zuuoPLHd\n-----END CE=
+RTIFICATE-----\n"=20
+                   =20
+        }
+    }
+}</pre>=20
+</div>
+</div>
+<p><strong><br></strong></p>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =D0=BE=D1=82=D0=B2=D0=B5=D1=
+=82=D0=B0:</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+  "Response": {
+    "serviceCode": "egov.GetUniversalToken",
+    "uuid": "8b7e173d-8d3e-48c1-98aa-1856e5eb872f",
+    "responseTime": "2023-09-08T10:32:31",
+    "sourceSystem": "SingleWindow",
+    "username": "SingleWindowUser",
+    "Data": {
+      "getUniversalTokenResult": {
+        "sender": {
+          "code": "GBDFL",
+          "nameRu": "=D0=93=D0=91=D0=94 =D0=A4=D0=B8=D0=B7=D0=B8=D1=87=D0=
+=B5=D1=81=D0=BA=D0=B8=D0=B5 =D0=BB=D0=B8=D1=86=D0=B0",
+          "nameKz": "\"=D0=96=D0=B5=D0=BA=D0=B5 =D1=82=D2=AF=D0=BB=D0=B0=D2=
+=93=D0=B0=D0=BB=D0=B0=D1=80\" =D0=9C=D0=94=D2=9A"
+        },
+        "receiver": {
+          "code": "RBK",
+          "nameRu": "=D0=90=D0=BA=D1=86=D0=B8=D0=BE=D0=BD=D0=B5=D1=80=D0=BD=
+=D0=BE=D0=B5 =D0=BE=D0=B1=D1=89=D0=B5=D1=81=D1=82=D0=B2=D0=BE \"=D0=91=D0=
+=B0=D0=BD=D0=BA \"Bank RBK\"",
+          "nameKz": "=D0=90=D0=BA=D1=86=D0=B8=D0=BE=D0=BD=D0=B5=D1=80=D0=BB=
+=D1=96=D0=BA =D2=9B=D0=BE=D2=93=D0=B0=D0=BC \"=D0=91=D0=B0=D0=BD=D0=BA \"Ba=
+nk RBK\""
+        },
+        "messageResult": {
+          "code": "02098",
+          "nameRu": "=D0=9E=D1=88=D0=B8=D0=B1=D0=BA=D0=B0 =D0=B2 =D1=82=D0=
+=BE=D0=BA=D0=B5=D0=BD=D0=B5 =D0=B1=D0=B5=D0=B7=D0=BE=D0=BF=D0=B0=D1=81=D0=
+=BD=D0=BE=D1=81=D1=82=D0=B8",
+          "nameKz": "=D0=9E=D1=88=D0=B8=D0=B1=D0=BA=D0=B0 =D0=B2 =D1=82=D0=
+=BE=D0=BA=D0=B5=D0=BD=D0=B5 =D0=B1=D0=B5=D0=B7=D0=BE=D0=BF=D0=B0=D1=81=D0=
+=BD=D0=BE=D1=81=D1=82=D0=B8"
+        }
+      }
+    },
+    "errCode": "0000",
+    "errMessage": "OK"
+  }
+}</pre>=20
+</div>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_49713_311484472.1697101110958--

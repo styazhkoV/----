@@ -1,0 +1,280 @@
+{
+	"info": {
+		"_postman_id": "dc73d062-31c5-4a8b-896a-8ca5d0d145a3",
+		"name": "KDP",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "17132010"
+	},
+	"item": [
+		{
+			"name": "healthcheck",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{KDP_URL}}/proxy/kdp-service/healthcheck",
+					"host": [
+						"{{KDP_URL}}"
+					],
+					"path": [
+						"proxy",
+						"kdp-service",
+						"healthcheck"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "check_token",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJjdXN0b21lcl9leHRlcm5hbF9pZCI6IjY0NTEyNzk2NzkyIiwidXNlcl9pZCI6MTAxMzAzOTIsImN1c3RvbWVyX3VzZXJfaWQiOjEwMTMwMzkyLCJjdXN0b21lcl9pZCI6MTAxMzAzOTIsInJvbGVfaWQiOjQsInVzZXJfdHlwZSI6ImN1c3RvbWVyIiwiaXNfanVuaW9yIjpmYWxzZSwiaXNfb3RwX3Bhc3N3b3JkIjpmYWxzZSwiaXNfb3RwX2V4cGlyZWQiOmZhbHNlLCJleGl0X2Zyb21fanVuaW9yIjpmYWxzZSwiZXhwIjoxNjkyNzc1NjgzfQ.aghtr-9RZGzv0tqhdEu9GYkZS5mtzrKb9YGCQ-V0yfXniXIvOKGHPQ2vOyzljRXhEZb_oiIg2l073hG6hhu0QYik0IFTTK79i3on6kzQZvedhyBo3IOAuuxHuMdegEqnt6OgY5DEymo_rvY32bVgeMP0MU7ntRshs9PVd2CdBiGYdSjow13IPR39trXW--IPUXqKzVgXjku1c1IuIkvagiQhhiAzqeGDrMAQANKjXa8hkAEFFeMITu76pGP9wvf5eFtV7h_wZgHSO1RbykfTDtE8TpMfL5VX622qtzIOUrTzJGA6XXCX52ElbMRgwSrLS8taWXQSwI3yxATQMhv6-w",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{KDP_URL}}/proxy/kdp-service/api/check_token?iin=920611301438&phone=77051845825",
+					"host": [
+						"{{KDP_URL}}"
+					],
+					"path": [
+						"proxy",
+						"kdp-service",
+						"api",
+						"check_token"
+					],
+					"query": [
+						{
+							"key": "iin",
+							"value": "920611301438"
+						},
+						{
+							"key": "phone",
+							"value": "77051845825"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "create_token",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJjdXN0b21lcl9leHRlcm5hbF9pZCI6IjY0NTEyNzk2NzkyIiwidXNlcl9pZCI6MTAxMzAzOTIsImN1c3RvbWVyX3VzZXJfaWQiOjEwMTMwMzkyLCJjdXN0b21lcl9pZCI6MTAxMzAzOTIsInJvbGVfaWQiOjQsInVzZXJfdHlwZSI6ImN1c3RvbWVyIiwiaXNfanVuaW9yIjpmYWxzZSwiaXNfb3RwX3Bhc3N3b3JkIjpmYWxzZSwiaXNfb3RwX2V4cGlyZWQiOmZhbHNlLCJleGl0X2Zyb21fanVuaW9yIjpmYWxzZSwiZXhwIjoxNjkzMDI5MDkwfQ.lmkHGMPYLj8iM-HkpQX4JZ2fXY72wiDJZBou_Q76yRqAS2QeGxq1J_rVJfnlKWMs6tXujCLyzpRNjmXPP4hnqO-yxXtEG0b82xwwFUl8cN78CjsDm6n2H2KOFLoHh6-hck4fZREm5GQWD1BQzTs72pc1tXXal0HQ1fMeMRJ5ioBjEY8lHA9BgmdTNw7wTPuZOSF8GCdTDkHqhVK22EcStStg3OTVCG5ZsLhEuPsalllG7YayGwHo537h3DJQ587-i9U1WviDUIg5q_IjslVCuzWN-L9jMf9bNdBIPoSer8SNpETY3GYaSgq-JR4AAIc_sr3-dqSAZnia3fEWAOpeJQ",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{KDP_URL}}/proxy/kdp-service/api/create_token",
+					"host": [
+						"{{KDP_URL}}"
+					],
+					"path": [
+						"proxy",
+						"kdp-service",
+						"api",
+						"create_token"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "update_mcbd",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJjdXN0b21lcl9leHRlcm5hbF9pZCI6IjY0NTEyNzk2NzkyIiwidXNlcl9pZCI6MTAxMzAzOTIsImN1c3RvbWVyX3VzZXJfaWQiOjEwMTMwMzkyLCJjdXN0b21lcl9pZCI6MTAxMzAzOTIsInJvbGVfaWQiOjQsInVzZXJfdHlwZSI6ImN1c3RvbWVyIiwiaXNfanVuaW9yIjpmYWxzZSwiaXNfb3RwX3Bhc3N3b3JkIjpmYWxzZSwiaXNfb3RwX2V4cGlyZWQiOmZhbHNlLCJleGl0X2Zyb21fanVuaW9yIjpmYWxzZSwiZXhwIjoxNjkzMDI5MDkwfQ.lmkHGMPYLj8iM-HkpQX4JZ2fXY72wiDJZBou_Q76yRqAS2QeGxq1J_rVJfnlKWMs6tXujCLyzpRNjmXPP4hnqO-yxXtEG0b82xwwFUl8cN78CjsDm6n2H2KOFLoHh6-hck4fZREm5GQWD1BQzTs72pc1tXXal0HQ1fMeMRJ5ioBjEY8lHA9BgmdTNw7wTPuZOSF8GCdTDkHqhVK22EcStStg3OTVCG5ZsLhEuPsalllG7YayGwHo537h3DJQ587-i9U1WviDUIg5q_IjslVCuzWN-L9jMf9bNdBIPoSer8SNpETY3GYaSgq-JR4AAIc_sr3-dqSAZnia3fEWAOpeJQ",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{KDP_URL}}/proxy/kdp-service/api/update_mcbd",
+					"host": [
+						"{{KDP_URL}}"
+					],
+					"path": [
+						"proxy",
+						"kdp-service",
+						"api",
+						"update_mcbd"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "srv_check_token",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "{{KDP_BASIC_PASSWORD}}",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "{{KDP_BASIC_USER}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{KDP_URL}}/proxy/kdp-service/srv/check_token?iin=920611301438&phone=!232323",
+					"host": [
+						"{{KDP_URL}}"
+					],
+					"path": [
+						"proxy",
+						"kdp-service",
+						"srv",
+						"check_token"
+					],
+					"query": [
+						{
+							"key": "iin",
+							"value": "920611301438"
+						},
+						{
+							"key": "phone",
+							"value": "!232323"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "srv_create_token",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "{{KDP_BASIC_PASSWORD}}",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "{{KDP_BASIC_USER}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"iin\": \"920611301438\",\n    \"phone\": \"77051845825\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{KDP_URL}}/proxy/kdp-service/srv/create_token",
+					"host": [
+						"{{KDP_URL}}"
+					],
+					"path": [
+						"proxy",
+						"kdp-service",
+						"srv",
+						"create_token"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "srv_update_mcbd",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "{{KDP_BASIC_PASSWORD}}",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "{{KDP_BASIC_USER}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"iin\": \"971214350846\",\n    \"phone\": \"77051845829\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{KDP_URL}}/proxy/kdp-service/srv/update_mcbd",
+					"host": [
+						"{{KDP_URL}}"
+					],
+					"path": [
+						"proxy",
+						"kdp-service",
+						"srv",
+						"update_mcbd"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

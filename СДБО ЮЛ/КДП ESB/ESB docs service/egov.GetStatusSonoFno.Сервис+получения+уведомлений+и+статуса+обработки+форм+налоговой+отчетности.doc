@@ -1,0 +1,715 @@
+Message-ID: <675781621.49712.1697101099977.JavaMail.root@ALA122175.kazincombank.kz>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_49711_242767939.1697101099971"
+
+------=_Part_49711_242767939.1697101099971
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>egov.GetStatusSonoFno.=D0=A1=D0=B5=D1=80=D0=B2=D0=B8=D1=81 =D0=
+=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D1=8F =D1=83=D0=B2=D0=B5=D0=
+=B4=D0=BE=D0=BC=D0=BB=D0=B5=D0=BD=D0=B8=D0=B9 =D0=B8 =D1=81=D1=82=D0=B0=D1=
+=82=D1=83=D1=81=D0=B0 =D0=BE=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=
+=B8 =D1=84=D0=BE=D1=80=D0=BC =D0=BD=D0=B0=D0=BB=D0=BE=D0=B3=D0=BE=D0=B2=D0=
+=BE=D0=B9 =D0=BE=D1=82=D1=87=D0=B5=D1=82=D0=BD=D0=BE=D1=81=D1=82=D0=B8</tit=
+le>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>egov.GetStatusSonoFno.=D0=A1=D0=B5=D1=80=D0=B2=D0=B8=D1=81 =D0=BF=
+=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D1=8F =D1=83=D0=B2=D0=B5=D0=B4=
+=D0=BE=D0=BC=D0=BB=D0=B5=D0=BD=D0=B8=D0=B9 =D0=B8 =D1=81=D1=82=D0=B0=D1=82=
+=D1=83=D1=81=D0=B0 =D0=BE=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B8 =
+=D1=84=D0=BE=D1=80=D0=BC =D0=BD=D0=B0=D0=BB=D0=BE=D0=B3=D0=BE=D0=B2=D0=BE=
+=D0=B9 =D0=BE=D1=82=D1=87=D0=B5=D1=82=D0=BD=D0=BE=D1=81=D1=82=D0=B8</h1>
+    <div class=3D"Section1">
+        <h3 class=3D"sectionedit1" id=3D"egov.GetStatusSonoFno.=D0=A1=D0=B5=
+=D1=80=D0=B2=D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D1=
+=8F=D1=83=D0=B2=D0=B5=D0=B4=D0=BE=D0=BC=D0=BB=D0=B5=D0=BD=D0=B8=D0=B9=D0=B8=
+=D1=81=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=B0=D0=BE=D0=B1=D1=80=D0=B0=D0=B1=D0=
+=BE=D1=82=D0=BA=D0=B8=D1=84=D0=BE=D1=80=D0=BC=D0=BD=D0=B0=D0=BB=D0=BE=D0=B3=
+=D0=BE=D0=B2=D0=BE=D0=B9=D0=BE=D1=82=D1=87=D0=B5=D1=82=D0=BD=D0=BE=D1=81=D1=
+=82=D0=B8-egov.GetStatusSonoFno.=D0=A1=D0=B5=D1=80=D0=B2=D0=B8=D1=81=D0=BF=
+=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D1=8F=D1=83=D0=B2=D0=B5=D0=B4=D0=
+=BE=D0=BC=D0=BB=D0=B5=D0=BD=D0=B8=D0=B9=D0=B8=D1=81=D1=82=D0=B0=D1=82=D1=83=
+=D1=81=D0=B0=D0=BE=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B8=D1=84=D0=
+=BE=D1=80=D0=BC=D0=BD=D0=B0=D0=BB=D0=BE=D0=B3=D0=BE=D0=B2=D0=BE=D0=B9=D0=BE=
+=D1=82=D1=87=D0=B5=D1=82=D0=BD=D0=BE=D1=81=D1=82=D0=B8">egov.GetStatusSonoF=
+no.<span>=D0=A1=D0=B5=D1=80=D0=B2=D0=B8=D1=81 =D0=BF=D0=BE=D0=BB=D1=83=D1=
+=87=D0=B5=D0=BD=D0=B8=D1=8F =D1=83=D0=B2=D0=B5=D0=B4=D0=BE=D0=BC=D0=BB=D0=
+=B5=D0=BD=D0=B8=D0=B9 =D0=B8 =D1=81=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=B0 =D0=
+=BE=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B8 =D1=84=D0=BE=D1=80=D0=
+=BC =D0=BD=D0=B0=D0=BB=D0=BE=D0=B3=D0=BE=D0=B2=D0=BE=D0=B9 =D0=BE=D1=82=D1=
+=87=D0=B5=D1=82=D0=BD=D0=BE=D1=81=D1=82=D0=B8</span></h3>
+<p>URL&nbsp;=3D&nbsp;<a class=3D"external-link" href=3D"https://esb-test.ka=
+zincombank.kz:5555/singleWindow/soa" rel=3D"nofollow" title=3D"https://esb-=
+test.kazincombank.kz:5555/singleWindow/soa">https://esb-test.kazincombank.k=
+z:5555/SingleWindow/soa</a><br>HTTP Method =3D POST<br>=D0=90=D0=B2=D1=82=
+=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D1=8F: Basic<br>Username:&nbsp;S=
+ingleWindowUser<br>Password: =D0=9F=D0=BE =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=
+=81=D1=83 =D1=87=D0=B5=D1=80=D0=B5=D0=B7 =D1=83=D0=BF=D1=80=D0=B0=D0=B2=D0=
+=BB=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B8=D0=BD=D1=82=D0=B5=D0=B3=D1=80=D0=B0=D1=
+=86=D0=B8=D0=B8</p>
+<p><br><strong>=D0=9F=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=80=D1=8B =D0=
+=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D0=B0:</strong></p>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 47.=
+7235%;">
+<colgroup>
+<col style=3D"width: 21.287%;">
+<col style=3D"width: 23.6982%;">
+<col style=3D"width: 20.7063%;">
+<col style=3D"width: 34.3085%;">
+</colgroup>
+<thead>
+<tr>
+<th class=3D"confluenceTh"><p>=D0=9F=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=
+=80</p></th>
+<th class=3D"confluenceTh"><p>=D0=9E=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D0=
+=B5</p></th>
+<th class=3D"confluenceTh"><p>=D0=A4=D0=BE=D1=80=D0=BC=D0=B0=D1=82</p></th>
+<th class=3D"confluenceTh"><p>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =D0=B7=
+=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D1=8F</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"confluenceTd">/Request/serviceCode(*)</td>
+<td class=3D"confluenceTd">=D0=9A=D0=BE=D0=B4 =D1=81=D0=B5=D1=80=D0=B2=D0=
+=B8=D1=81=D0=B0</td>
+<td class=3D"confluenceTd">=D0=A1=D1=82=D1=80=D0=BE=D0=BA=D0=B0</td>
+<td class=3D"confluenceTd"><pre>egov.GetStatusSonoFno</pre></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">/Request/uuid(*)</td>
+<td class=3D"confluenceTd">=D0=A3=D0=BD=D0=B8=D0=BA=D0=B0=D0=BB=D1=8C=D0=BD=
+=D1=8B=D0=B9 =D0=B8=D0=B4=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=
+=D1=82=D0=BE=D1=80 =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D0=B0 =D0=B2 =D1=84=
+=D0=BE=D1=80=D0=BC=D0=B0=D1=82=D0=B5</td>
+<td class=3D"confluenceTd">UUID</td>
+<td class=3D"confluenceTd"><pre>3505c24a-9523-4594-85b2-60adca269f4r</pre><=
+/td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">/Request/requestTime</td>
+<td colspan=3D"1" class=3D"confluenceTd">=D0=94=D0=B0=D1=82=D0=B0 =D0=B8 =
+=D0=B2=D1=80=D0=B5=D0=BC=D1=8F =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D0=B0</=
+td>
+<td colspan=3D"1" class=3D"confluenceTd">YYYY-MM-DDThh:mm:ss</td>
+<td colspan=3D"1" class=3D"confluenceTd"><pre>2022-06-24T02:56:04</pre></td=
+>
+</tr>
+<tr>
+<td class=3D"confluenceTd">/Request/sourceSystem(*)</td>
+<td class=3D"confluenceTd">=D0=A1=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D0=B0-=D0=
+=B8=D1=81=D1=82=D0=BE=D1=87=D0=BD=D0=B8=D0=BA =D0=B7=D0=B0=D0=BF=D1=80=D0=
+=BE=D1=81=D0=B0</td>
+<td class=3D"confluenceTd">=D0=A1=D1=82=D1=80=D0=BE=D0=BA=D0=B0</td>
+<td class=3D"confluenceTd">SingleWindow</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">/Request/username(*)</td>
+<td class=3D"confluenceTd">=D0=9F=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=
+=D1=82=D0=B5=D0=BB=D1=8C =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D1=8B-=D0=B8=
+=D0=BD=D0=B8=D1=86=D0=B8=D0=B0=D1=82=D0=BE=D1=80=D0=B0</td>
+<td class=3D"confluenceTd">=D0=A1=D1=82=D1=80=D0=BE=D0=BA=D0=B0</td>
+<td class=3D"confluenceTd">SingleWindowUser</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id=3D"egov.GetStatusSonoFno.=D0=A1=D0=B5=D1=80=D0=B2=D0=B8=D1=81=D0=BF=
+=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D1=8F=D1=83=D0=B2=D0=B5=D0=B4=D0=
+=BE=D0=BC=D0=BB=D0=B5=D0=BD=D0=B8=D0=B9=D0=B8=D1=81=D1=82=D0=B0=D1=82=D1=83=
+=D1=81=D0=B0=D0=BE=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B8=D1=84=D0=
+=BE=D1=80=D0=BC=D0=BD=D0=B0=D0=BB=D0=BE=D0=B3=D0=BE=D0=B2=D0=BE=D0=B9=D0=BE=
+=D1=82=D1=87=D0=B5=D1=82=D0=BD=D0=BE=D1=81=D1=82=D0=B8-=D0=9F=D0=B0=D1=80=
+=D0=B0=D0=BC=D0=B5=D1=82=D1=80=D1=8B=D0=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0:">=
+=D0=9F=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=80=D1=8B =D0=BE=D1=82=D0=B2=
+=D0=B5=D1=82=D0=B0:</h4>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 46.=
+5167%;">
+<colgroup>
+<col style=3D"width: 23.0575%;">
+<col style=3D"width: 19.3459%;">
+<col style=3D"width: 22.3989%;">
+<col style=3D"width: 35.1978%;">
+</colgroup>
+<thead>
+<tr>
+<th class=3D"confluenceTh"><p>=D0=9F=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=
+=80</p></th>
+<th class=3D"confluenceTh"><p>=D0=9E=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D0=
+=B5</p></th>
+<th class=3D"confluenceTh"><p>=D0=A4=D0=BE=D1=80=D0=BC=D0=B0=D1=82</p></th>
+<th class=3D"confluenceTh"><p>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =D0=B7=
+=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=D1=8F</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"confluenceTd">/Response/serviceCode(*)</td>
+<td class=3D"confluenceTd">=D0=9A=D0=BE=D0=B4 =D1=81=D0=B5=D1=80=D0=B2=D0=
+=B8=D1=81=D0=B0</td>
+<td class=3D"confluenceTd">=D0=A1=D1=82=D1=80=D0=BE=D0=BA=D0=B0</td>
+<td class=3D"confluenceTd"><pre>egov.GetStatusSonoFno</pre></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">/Response/uuid(*)</td>
+<td class=3D"confluenceTd">=D0=98=D0=B4=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=
+=D0=BA=D0=B0=D1=82=D0=BE=D1=80 =D0=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0 =D0=B2<=
+/td>
+<td class=3D"confluenceTd">UUID</td>
+<td class=3D"confluenceTd"><pre>3505c24a-9523-4594-85b2-60adca269f4r</pre><=
+/td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">/Response/sourceSystem(*)</td>
+<td class=3D"confluenceTd">=D0=A1=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D0=B0-=D0=
+=B8=D1=81=D1=82=D0=BE=D1=87=D0=BD=D0=B8=D0=BA =D0=B7=D0=B0=D0=BF=D1=80=D0=
+=BE=D1=81=D0=B0</td>
+<td class=3D"confluenceTd">=D0=A1=D1=82=D1=80=D0=BE=D0=BA=D0=B0</td>
+<td class=3D"confluenceTd">SingleWindow</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">/Response/username(*)</td>
+<td class=3D"confluenceTd">=D0=9F=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=
+=D1=82=D0=B5=D0=BB=D1=8C =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D1=8B-=D0=B8=
+=D0=BD=D0=B8=D1=86=D0=B8=D0=B0=D1=82=D0=BE=D1=80=D0=B0</td>
+<td class=3D"confluenceTd">=D0=A1=D1=82=D1=80=D0=BE=D0=BA=D0=B0</td>
+<td class=3D"confluenceTd">SingleWindowUser</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">/Response/responseTime(*)</td>
+<td class=3D"confluenceTd">=D0=94=D0=B0=D1=82=D0=B0 =D0=B8 =D0=B2=D1=80=D0=
+=B5=D0=BC=D1=8F =D0=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0</td>
+<td class=3D"confluenceTd">YYYY-MM-DDThh:mm:ss</td>
+<td class=3D"confluenceTd"><pre>2023-07-12T02:13:56</pre></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">/Response/errCode(*)</td>
+<td colspan=3D"1" class=3D"confluenceTd">=D0=9A=D0=BE=D0=B4 =D0=BE=D1=88=D0=
+=B8=D0=B1=D0=BA=D0=B8</td>
+<td colspan=3D"1" class=3D"confluenceTd">=D0=A1=D1=82=D1=80=D0=BE=D0=BA=D0=
+=B0</td>
+<td colspan=3D"1" class=3D"confluenceTd"><pre><a href=3D"https://wiki.kazin=
+combank.kz/pages/viewpage.action?pageId=3D7766877" rel=3D"nofollow">=D0=9A=
+=D0=BE=D0=B4=D1=8B =D0=BE=D1=88=D0=B8=D0=B1=D0=BE=D0=BA Esb</a> </pre></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">/Response/errMessage(*)</td>
+<td colspan=3D"1" class=3D"confluenceTd">=D0=A2=D0=B5=D0=BA=D1=81=D1=82 =D0=
+=BE=D1=88=D0=B8=D0=B1=D0=BA=D0=B8</td>
+<td colspan=3D"1" class=3D"confluenceTd">=D0=A1=D1=82=D1=80=D0=BE=D0=BA=D0=
+=B0</td>
+<td colspan=3D"1" class=3D"confluenceTd"><pre>OK</pre></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>(*)- =D0=9E=D0=B1=D1=8F=D0=B7=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=
+=D0=B5 =D0=BF=D0=BE=D0=BB=D1=8F</p>
+<p><strong><br></strong></p>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =D0=B7=D0=B0=D0=BF=D1=80=D0=
+=BE=D1=81=D0=B0:</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: xml; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+    "Request": {
+        "serviceCode": "egov.GetStatusSonoFno",
+        "uuid": "3505c24a-9523-4594-85b2-60adca269f4r",
+        "requestTime": "2022-06-24T02:56:04",
+        "sourceSystem": "SingleWindow",
+        "username": "SingleWindowUser",
+        "Data": {
+            "id": "5920"
+        }
+    }
+}</pre>=20
+</div>
+</div>
+<p><strong><br></strong></p>
+<p><strong>=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =D0=BE=D1=82=D0=B2=D0=B5=D1=
+=82=D0=B0:</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: xml; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+    "Response": {
+        "serviceCode": "egov.GetStatusSonoFno",
+        "uuid": "3505c24a-9523-4594-85b2-60adca269f4r",
+        "responseTime": "2023-07-12T02:13:56",
+        "sourceSystem": "SingleWindow",
+        "username": "SingleWindowUser",
+        "Data": {
+            "getStatusSonoResponse": {
+                "getStatusSonoResult": {
+                    "status": {
+                        "entity-id": "5",
+                        "statusDesc": "=D0=9D=D0=B5 =D0=BF=D1=80=D0=B8=D0=
+=BD=D1=8F=D1=82=D0=B0",
+                        "statusDescKk": "=D2=9A=D0=B0=D0=B1=D1=8B=D0=BB=D0=
+=B4=D0=B0=D0=BD=D0=B1=D0=B0=D0=B4=D1=8B",
+                        "statusNote": "true"
+                    },
+                    "notification": {
+                        "class-name": "com.epam.sono.business.entity.notifi=
+cation.reception.FnoReceptionNotification",
+                        "code-nk": "0909",
+                        "completedPresent": "true",
+                        "create-date": "2023-07-12T13:54:23+06:00",
+                        "entity-id": "5073369549866332689",
+                        "fno-accept-date": "2023-07-12T13:52:35+06:00",
+                        "fno-code": "910.00",
+                        "fno-doc-id": "304374645953189619",
+                        "fno-report-year": "2023",
+                        "fno-submit-date": "2023-07-12T13:52:35+06:00",
+                        "fnoVersion": "20",
+                        "id": "NotificationWrapper.5073369549866332689",
+                        "np-id": "14688084",
+                        "np-inn-bin": "880227300610",
+                        "np-rnn": "090920524470",
+                        "server-enc": "true",
+                        "sonoChangeDate": "1689148463654",
+                        "notificationType": "FNO_RECEPTION",
+                        "name": "=D0=9E =D0=BF=D1=80=D0=B5=D0=B4=D1=81=D1=
+=82=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D0=B8 =D0=BD=D0=B0=D0=BB=D0=BE=D0=
+=B3=D0=BE=D0=BF=D0=BB=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D1=89=D0=B8=D0=BA=D0=BE=
+=D0=BC (=D0=BD=D0=B0=D0=BB=D0=BE=D0=B3=D0=BE=D0=B2=D1=8B=D0=BC =D0=B0=D0=B3=
+=D0=B5=D0=BD=D1=82=D0=BE=D0=BC) =D0=BD=D0=B0=D0=BB=D0=BE=D0=B3=D0=BE=D0=B2=
+=D0=BE=D0=B9 =D0=BE=D1=82=D1=87=D0=B5=D1=82=D0=BD=D0=BE=D1=81=D1=82=D0=B8 =
+=D0=B2 =D1=8D=D0=BB=D0=B5=D0=BA=D1=82=D1=80=D0=BE=D0=BD=D0=BD=D0=BE=D0=BC =
+=D0=B2=D0=B8=D0=B4=D0=B5",
+                        "fnoName": "=D0=A3=D0=BF=D1=80=D0=BE=D1=89=D0=B5=D0=
+=BD=D0=BD=D0=B0=D1=8F =D0=B4=D0=B5=D0=BA=D0=BB=D0=B0=D1=80=D0=B0=D1=86=D0=
+=B8=D1=8F =D0=B4=D0=BB=D1=8F =D1=81=D1=83=D0=B1=D1=8A=D0=B5=D0=BA=D1=82=D0=
+=BE=D0=B2 =D0=BC=D0=B0=D0=BB=D0=BE=D0=B3=D0=BE =D0=B1=D0=B8=D0=B7=D0=BD=D0=
+=B5=D1=81=D0=B0",
+                        "fnoNameKk": "=D0=A8=D0=B0=D2=93=D1=8B=D0=BD =D0=B1=
+=D0=B8=D0=B7=D0=BD=D0=B5=D1=81 =D1=81=D1=83=D0=B1=D1=8A=D0=B5=D0=BA=D1=82=
+=D1=96=D0=BB=D0=B5=D1=80=D1=96 =D2=AF=D1=88=D1=96=D0=BD =D0=BE=D2=A3=D0=B0=
+=D0=B9=D0=BB=D0=B0=D1=82=D1=8B=D0=BB=D2=93=D0=B0=D0=BD =D0=B4=D0=B5=D0=BA=
+=D0=BB=D0=B0=D1=80=D0=B0=D1=86=D0=B8=D1=8F",
+                        "fnoRegNumber": "090912072023N00001",
+                        "fnoType": "=D0=9E=D1=87=D0=B5=D1=80=D0=B5=D0=B4=D0=
+=BD=D0=B0=D1=8F",
+                        "fnoTypeKk": "=D0=9A=D0=B5=D0=B7=D0=B5=D0=BA=D1=82=
+=D1=96",
+                        "fnoStatus": "=D0=9D=D0=B5 =D0=BF=D1=80=D0=B8=D0=BD=
+=D1=8F=D1=82=D0=B0",
+                        "fnoDocPeriod": {
+                            "entity-id": "17",
+                            "period-group-id": "TabDocPeriodGroup.3",
+                            "periodDesc": "1 =D0=BF=D0=BE=D0=BB=D1=83=D0=B3=
+=D0=BE=D0=B4=D0=B8=D0=B5",
+                            "startDate": "01.01",
+                            "endDate": "30.06"
+                        },
+                        "fnoMediaType": {
+                            "entity-id": "4",
+                            "mediaDesc": "=D0=92 =D1=8D=D0=BB=D0=B5=D0=BA=
+=D1=82=D1=80=D0=BE=D0=BD=D0=BD=D0=BE=D0=BC =D0=B2=D0=B8=D0=B4=D0=B5",
+                            "mediaDescKk": "=D0=AD=D0=BB=D0=B5=D0=BA=D1=82=
+=D1=80=D0=BE=D0=BD=D0=B4=D1=8B =D1=82=D2=AF=D1=80=D0=B4=D0=B5"
+                        },
+                        "nameNk": "=D0=A3=D0=93=D0=94 =D0=BF=D0=BE =D0=A2=
+=D0=B0=D0=BB=D0=B3=D0=B0=D1=80=D1=81=D0=BA=D0=BE=D0=BC=D1=83 =D1=80=D0=B0=
+=D0=B9=D0=BE=D0=BD=D1=83",
+                        "npType": {
+                            "name": "INDIVIDUAL_BUSINESSMAN",
+                            "classname": "com.epam.sono.business.entity.tax=
+.payer.TaxPayerTypeEnum"
+                        },
+                        "np-jur-name": "=D0=98=D0=9F \"=D0=90=D0=B1=D1=80=
+=D0=B8=D1=81\"",
+                        "nkleaderName": "=D0=9D=D0=A3=D0=A0=D0=9B=D0=90=D0=
+=9D",
+                        "nkleaderSurname": "=D0=98=D0=A1=D0=9A=D0=90=D0=9A=
+=D0=91=D0=90=D0=95=D0=92",
+                        "nkleaderMiddleName": "=D0=A8=D0=90=D0=98=D0=9A=D0=
+=98=D0=95=D0=92=D0=98=D0=A7",
+                        "userConfirmation": "true",
+                        "fnoProcessingHistory": {
+                            "entity-id": "3387352244593163519",
+                            "notification-id": "NotificationWrapper.5073369=
+549866332689",
+                            "status-date": "2023-07-12T13:52:35+06:00",
+                            "description": "=D0=94=D0=BE=D1=81=D1=82=D0=B0=
+=D0=B2=D0=BA=D0=B0 =D0=B4=D0=BE=D0=BA=D1=83=D0=BC=D0=B5=D0=BD=D1=82=D0=B0 =
+=D0=BD=D0=B0=D0=BB=D0=BE=D0=B3=D0=BE=D0=B2=D0=BE=D0=B9 =D0=BE=D1=82=D1=87=
+=D0=B5=D1=82=D0=BD=D0=BE=D1=81=D1=82=D0=B8",
+                            "descriptionKk": "=D0=A1=D0=B0=D0=BB=D1=8B=D2=
+=9B =D0=B5=D1=81=D0=B5=D0=BF=D1=82=D1=96=D0=BB=D1=96=D0=B3=D1=96 =D2=9B=D2=
+=B1=D0=B6=D0=B0=D1=82=D1=8B=D0=BD =D0=B6=D0=B5=D1=82=D0=BA=D1=96=D0=B7=D1=
+=83",
+                            "system": "=D0=A1=D0=9E=D0=9D=D0=9E",
+                            "systemKk": "CE=D3=A8=D0=A1",
+                            "status": {
+                                "class-name": "com.epam.sono.business.entit=
+y.reference.TabDocStatus",
+                                "fields": {
+                                    "valueList": [
+                                        {
+                                            "key": "xs:stringstatusNote",
+                                            "value": "true"
+                                        },
+                                        {
+                                            "key": "xs:stringstatusDescKk",
+                                            "value": "xs:string=D2=9A=D0=B0=
+=D0=B1=D1=8B=D0=BB=D0=B4=D0=B0=D0=BD=D0=B1=D0=B0=D0=B4=D1=8B"
+                                        },
+                                        {
+                                            "key": "xs:stringstatusDesc",
+                                            "value": "xs:string=D0=9D=D0=B5=
+ =D0=BF=D1=80=D0=B8=D0=BD=D1=8F=D1=82=D0=B0"
+                                        },
+                                        {
+                                            "key": "xs:stringid",
+                                            "value": "xs:long5"
+                                        }
+                                    ]
+                                }
+                            },
+                            "statusDesc": "=D0=9D=D0=B5 =D0=BF=D1=80=D0=B8=
+=D0=BD=D1=8F=D1=82=D0=B0",
+                            "statusDescKk": "=D2=9A=D0=B0=D0=B1=D1=8B=D0=BB=
+=D0=B4=D0=B0=D0=BD=D0=B1=D0=B0=D0=B4=D1=8B",
+                            "statusDateStr": "true"
+                        },
+                        "errorDescription": "1. =D0=92=D0=B5=D1=80=D1=81=D0=
+=B8=D1=8F =D1=88=D0=B0=D0=B1=D0=BB=D0=BE=D0=BD=D0=B0 =D0=A4=D0=9D=D0=9E =D0=
+=BD=D0=B5 =D0=B0=D0=BA=D1=82=D1=83=D0=B0=D0=BB=D1=8C=D0=BD=D0=B0.\n",
+                        "acceptedByFio": "true",
+                        "npName": "true",
+                        "npFio": "true",
+                        "cause": "true",
+                        "nkBossFio": "true",
+                        "formedByFio": "true",
+                        "resultDescription": "true",
+                        "taxAuditAct": "true",
+                        "ndsReturnNotificationType": "",
+                        "zNotificationData": "&lt;?xml version=3D\"1.0\" en=
+coding=3D\"UTF-8\"?&gt;&lt;fno-reception-notifacation&gt;&lt;id&gt;50733695=
+49866332689&lt;/id&gt;&lt;name&gt;=D0=9E =D0=BF=D1=80=D0=B5=D0=B4=D1=81=D1=
+=82=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D0=B8 =D0=BD=D0=B0=D0=BB=D0=BE=D0=
+=B3=D0=BE=D0=BF=D0=BB=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D1=89=D0=B8=D0=BA=D0=BE=
+=D0=BC (=D0=BD=D0=B0=D0=BB=D0=BE=D0=B3=D0=BE=D0=B2=D1=8B=D0=BC =D0=B0=D0=B3=
+=D0=B5=D0=BD=D1=82=D0=BE=D0=BC) =D0=BD=D0=B0=D0=BB=D0=BE=D0=B3=D0=BE=D0=B2=
+=D0=BE=D0=B9 =D0=BE=D1=82=D1=87=D0=B5=D1=82=D0=BD=D0=BE=D1=81=D1=82=D0=B8 =
+=D0=B2 =D1=8D=D0=BB=D0=B5=D0=BA=D1=82=D1=80=D0=BE=D0=BD=D0=BD=D0=BE=D0=BC =
+=D0=B2=D0=B8=D0=B4=D0=B5&lt;/name&gt;&lt;fno-doc-id&gt;304374645953189619&l=
+t;/fno-doc-id&gt;&lt;create-date&gt;2023-07-12T07:54:23.539Z&lt;/create-dat=
+e&gt;&lt;fno-name&gt;=D0=A3=D0=BF=D1=80=D0=BE=D1=89=D0=B5=D0=BD=D0=BD=D0=B0=
+=D1=8F =D0=B4=D0=B5=D0=BA=D0=BB=D0=B0=D1=80=D0=B0=D1=86=D0=B8=D1=8F =D0=B4=
+=D0=BB=D1=8F =D1=81=D1=83=D0=B1=D1=8A=D0=B5=D0=BA=D1=82=D0=BE=D0=B2 =D0=BC=
+=D0=B0=D0=BB=D0=BE=D0=B3=D0=BE =D0=B1=D0=B8=D0=B7=D0=BD=D0=B5=D1=81=D0=B0&l=
+t;/fno-name&gt;&lt;fno-reg-number&gt;090912072023N00001&lt;/fno-reg-number&=
+gt;&lt;fno-code&gt;910.00&lt;/fno-code&gt;&lt;fno-type&gt;=D0=9E=D1=87=D0=
+=B5=D1=80=D0=B5=D0=B4=D0=BD=D0=B0=D1=8F&lt;/fno-type&gt;&lt;fno-status&gt;=
+=D0=9D=D0=B5 =D0=BF=D1=80=D0=B8=D0=BD=D1=8F=D1=82=D0=B0&lt;/fno-status&gt;&=
+lt;np-jur-name&gt;=D0=98=D0=9F \"=D0=90=D0=B1=D1=80=D0=B8=D1=81\"&lt;/np-ju=
+r-name&gt;&lt;fno-doc-period&gt;&lt;id&gt;17&lt;/id&gt;&lt;period-desc&gt;1=
+ =D0=BF=D0=BE=D0=BB=D1=83=D0=B3=D0=BE=D0=B4=D0=B8=D0=B5&lt;/period-desc&gt;=
+&lt;start-date&gt;01.01&lt;/start-date&gt;&lt;end-date&gt;30.06&lt;/end-dat=
+e&gt;&lt;/fno-doc-period&gt;&lt;fno-report-year&gt;2023&lt;/fno-report-year=
+&gt;&lt;fno-submit-date&gt;2023-07-12T07:52:35Z&lt;/fno-submit-date&gt;&lt;=
+fno-accept-date&gt;2023-07-12T07:52:35Z&lt;/fno-accept-date&gt;&lt;fno-medi=
+a-type&gt;&lt;id&gt;4&lt;/id&gt;&lt;media-desc&gt;=D0=92 =D1=8D=D0=BB=D0=B5=
+=D0=BA=D1=82=D1=80=D0=BE=D0=BD=D0=BD=D0=BE=D0=BC =D0=B2=D0=B8=D0=B4=D0=B5&l=
+t;/media-desc&gt;&lt;/fno-media-type&gt;&lt;code-nk&gt;0909&lt;/code-nk&gt;=
+&lt;name-nk&gt;=D0=A3=D0=93=D0=94 =D0=BF=D0=BE =D0=A2=D0=B0=D0=BB=D0=B3=D0=
+=B0=D1=80=D1=81=D0=BA=D0=BE=D0=BC=D1=83 =D1=80=D0=B0=D0=B9=D0=BE=D0=BD=D1=
+=83&lt;/name-nk&gt;&lt;np-rnn&gt;090920524470&lt;/np-rnn&gt;&lt;np-inn-bin&=
+gt;880227300610&lt;/np-inn-bin&gt;&lt;np-tax-player-id&gt;14688084&lt;/np-t=
+ax-player-id&gt;&lt;tab-media-type&gt;&lt;id&gt;4&lt;/id&gt;&lt;media-desc&=
+gt;=D0=92 =D1=8D=D0=BB=D0=B5=D0=BA=D1=82=D1=80=D0=BE=D0=BD=D0=BD=D0=BE=D0=
+=BC =D0=B2=D0=B8=D0=B4=D0=B5&lt;/media-desc&gt;&lt;/tab-media-type&gt;&lt;n=
+p-type&gt;INDIVIDUAL_BUSINESSMAN&lt;/np-type&gt;&lt;server-encrypted&gt;fal=
+se&lt;/server-encrypted&gt;&lt;errordescription-&gt;1. =D0=92=D0=B5=D1=80=
+=D1=81=D0=B8=D1=8F =D1=88=D0=B0=D0=B1=D0=BB=D0=BE=D0=BD=D0=B0 =D0=A4=D0=9D=
+=D0=9E =D0=BD=D0=B5 =D0=B0=D0=BA=D1=82=D1=83=D0=B0=D0=BB=D1=8C=D0=BD=D0=B0.=
+\n&lt;/errordescription-&gt;&lt;ds:Signature xmlns:ds=3D\"http://www.w3.org=
+/2000/09/xmldsig#\" Id=3D\"1\"&gt;\n&lt;ds:SignedInfo&gt;\n&lt;ds:Canonical=
+izationMethod Algorithm=3D\"http://www.w3.org/TR/2001/REC-xml-c14n-20010315=
+\"/&gt;\n&lt;ds:SignatureMethod Algorithm=3D\"http://www.w3.org/2001/04/xml=
+dsig-more#gost34310-gost34311\"/&gt;\n&lt;ds:Reference URI=3D\"\"&gt;\n&lt;=
+ds:Transforms&gt;\n&lt;ds:Transform Algorithm=3D\"http://www.w3.org/2000/09=
+/xmldsig#enveloped-signature\"/&gt;\n&lt;ds:Transform Algorithm=3D\"http://=
+www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments\"/&gt;\n&lt;/ds:Trans=
+forms&gt;\n&lt;ds:DigestMethod Algorithm=3D\"http://www.w3.org/2001/04/xmld=
+sig-more#gost34311\"/&gt;\n&lt;ds:DigestValue&gt;FXE6Gs8r4wc1Hqq5L51b1vP59b=
+BGyMTgK+fV9PpogW8=3D&lt;/ds:DigestValue&gt;\n&lt;/ds:Reference&gt;\n&lt;ds:=
+Reference URI=3D\"#signingTime\"&gt;\n&lt;ds:Transforms&gt;\n&lt;ds:Transfo=
+rm Algorithm=3D\"http://www.w3.org/2000/09/xmldsig#enveloped-signature\"/&g=
+t;\n&lt;ds:Transform Algorithm=3D\"http://www.w3.org/TR/2001/REC-xml-c14n-2=
+0010315#WithComments\"/&gt;\n&lt;/ds:Transforms&gt;\n&lt;ds:DigestMethod Al=
+gorithm=3D\"http://www.w3.org/2001/04/xmldsig-more#gost34311\"/&gt;\n&lt;ds=
+:DigestValue&gt;LLKYFpZTQNAcBoUn7bGOnrhoUwyR0sEaGvLXGqApKyQ=3D&lt;/ds:Diges=
+tValue&gt;\n&lt;/ds:Reference&gt;\n&lt;/ds:SignedInfo&gt;\n&lt;ds:Signature=
+Value&gt;\nrIphbftb813rZZi2V3bd8+lXE9RIwkKFZv6H8rRsN9I4iooigU1Tt92tBSMtG1tH=
+/qM7xKX2sPq2\n9S9xA15EGw=3D=3D\n&lt;/ds:SignatureValue&gt;\n&lt;ds:KeyInfo&=
+gt;\n&lt;ds:X509Data&gt;\n&lt;ds:X509Certificate&gt;\nMIIFGTCCBMOgAwIBAgIUR=
+bjsd1bs0I20tzzWVODEu0RgANAwDQYJKoMOAwoBAQECBQAwUzELMAkG\nA1UEBhMCS1oxRDBCBg=
+NVBAMMO9Kw0JvQotCi0KvSmiDQmtCj05jQm9CQ0J3QlNCr0KDQo9Co0Ksg\n0J7QoNCi0JDQm9C=
+r0pogKEdPU1QpMB4XDTIzMDUwMzExMTkxMVoXDTI0MDUwMjExMTkxMVowggHB\nMSYwJAYKCZIm=
+iZPyLGQBAQwWMS4yLjM5OC4zLjMuNC4xLjIuNi4yNDF/MH0GA1UEAwx20JjQvdGE\n0L7RgNC80=
+LDRhtC40L7QvdC90LDRjyDRgdC40YHRgtC10LzQsCAi0KHQtdGA0LLQuNGB0Ysg0L7Q\nsdGA0L=
+DQsdC+0YLQutC4INC90LDQu9C+0LPQvtCy0L7QuSDQvtGC0YfQtdGC0L3QvtGB0YLQuDEL\nMAk=
+GA1UEBhMCS1oxge4wgesGA1UECgyB49Cg0LXRgdC/0YPQsdC70LjQutCw0L3RgdC60L7QtSDQ\n=
+s9C+0YHRg9C00LDRgNGB0YLQstC10L3QvdC+0LUg0YPRh9GA0LXQttC00LXQvdC40LUgItCa0L7=
+Q\nvNC40YLQtdGCINCz0L7RgdGD0LTQsNGA0YHRgtCy0LXQvdC90YvRhSDQtNC+0YXQvtC00L7Q=
+siDQ\nnNC40L3QuNGB0YLQtdGA0YHRgtCy0LAg0YTQuNC90LDQvdGB0L7QsiDQoNC10YHQv9GD0=
+LHQu9C4\n0LrQuCDQmtCw0LfQsNGF0YHRgtCw0L0iMRgwFgYDVQQLDA9CSU4xNDEwNDAwMDQ3NT=
+YwbDAlBgkq\ngw4DCgEBAQEwGAYKKoMOAwoBAQEBAQYKKoMOAwoBAwEBAANDAARAf4c6N2sVULi=
+GzmimSiUmTGwO\nYYPm+mgIrEFpq5nr9RQ8SClzDdK1WntDTxpyiOuDra8ylOXRi9Q6Ui95EnH6=
+qKOCAe0wggHpMA4G\nA1UdDwEB/wQEAwIGwDATBgNVHSUEDDAKBggqgw4DAwQBAjBdBgNVHSAEV=
+jBUMFIGCiqDDgUTAQIC\nAQIwRDAdBggrBgEFBQcCARYRMS4zLjYuMS41LjUuNy4yLjEwIwYIKw=
+YBBQUHAgIwFwwVaHR0cDov\nL3BraS5nb3Yua3ovY3BzMFgGA1UdHwRRME8wTaBLoEmGImh0dHA=
+6Ly9jcmwucGtpLmdvdi5rei9u\nY2FfZ29zdC5jcmyGI2h0dHA6Ly9jcmwxLnBraS5nb3Yua3ov=
+bmNhX2dvc3QuY3JsMFwGA1UdLgRV\nMFMwUaBPoE2GJGh0dHA6Ly9jcmwucGtpLmdvdi5rei9uY=
+2FfZF9nb3N0LmNybIYlaHR0cDovL2Ny\nbDEucGtpLmdvdi5rei9uY2FfZF9nb3N0LmNybDBjBg=
+grBgEFBQcBAQRXMFUwLwYIKwYBBQUHMAKG\nI2h0dHA6Ly9wa2kuZ292Lmt6L2NlcnQvbmNhX2d=
+vc3QuY2VyMCIGCCsGAQUFBzABhhZodHRwOi8v\nb2NzcC5wa2kuZ292Lmt6MB0GA1UdDgQWBBRF=
+uOx3VuzQjbS3PNZU4MS7RGAA0DAPBgNVHSMECDAG\ngARbanPpMBYGBiqDDgMDBQQMMAoGCCqDD=
+gMDBQEBMA0GCSqDDgMKAQEBAgUAA0EAZC4UdPZcEHdV\nxe4ufADLjotX/otR10vMnqrw/gHE2z=
+zgbk/dx6ykoPeQkp0MnD1yLjWvS0hT3/K952LnDQeeTw=3D=3D\n&lt;/ds:X509Certificate=
+&gt;\n&lt;/ds:X509Data&gt;\n&lt;/ds:KeyInfo&gt;\n&lt;ds:Object&gt;&lt;ds:Si=
+gnatureProperties&gt;\n&lt;ds:SignatureProperty Id=3D\"signingTime\" Target=
+=3D\"#1\"&gt;&lt;timestamp&gt;12-07-2023 13:53:25 +0600&lt;/timestamp&gt;&l=
+t;/ds:SignatureProperty&gt;\n&lt;/ds:SignatureProperties&gt;&lt;/ds:Object&=
+gt;\n&lt;/ds:Signature&gt;&lt;/fno-reception-notifacation&gt;"
+                    }
+                }
+            }
+        },
+        "errCode": "0000",
+        "errMessage": "OK"
+    }
+}</pre>=20
+</div>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_49711_242767939.1697101099971--
